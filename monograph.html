@@ -163,6 +163,13 @@
       padding-left: 1.2rem;
     }
     .bibliography { list-style: none; padding-left: 0; }
+    @media print {
+      .page { display: block; max-width: none; padding: 0; }
+      .toc { position: static; max-height: none; overflow: visible; border: 0; break-after: page; }
+      .chapter { break-before: page; }
+      article.question { break-inside: auto; }
+      a { color: inherit; text-decoration: none; }
+    }
     .maintenance {
       margin-top: 0.8rem;
       padding: 0.5rem 0.8rem;
@@ -224,7 +231,7 @@
     <main class="content">
       <header class="title-block">
         <h1>Living Book — Monograph</h1>
-        <p class="subtitle">Generated 2026-10-14T20:02:40.272Z · Latest edition 116 (2026-10-04T00:00:00Z) · Total editions 116 · Questions in monograph 230</p>
+        <p class="subtitle">Generated 2026-10-14T20:50:18.032Z · Latest edition 116 (2026-10-14T20:05:00Z) · Total editions 116 · Questions in monograph 230</p>
         <p class="publication-stats">21 chapters · 230 questions · 2040 citations · 1691 unique sources · 1151 cross-references</p>
       </header>
       <section id="front-matter" class="front-matter">
