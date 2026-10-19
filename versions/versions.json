@@ -1,11 +1,40 @@
 {
-  "generated_at": "2026-10-19T13:41:25.870Z",
+  "generated_at": "2026-10-19T17:40:38.702Z",
   "current": {
-    "edition": 118,
+    "edition": 119,
     "edition_date": "2026-10-19",
     "question_count": 238
   },
   "versions": [
+    {
+      "version": "2026-10-e118",
+      "label": "October 2026 · Edition 118",
+      "edition": 118,
+      "edition_date": "2026-10-19",
+      "archived_at": "2026-10-19T17:40:23Z",
+      "source": "git-backfill",
+      "source_commit": "c0b460d6c7a6298115acdffad88d9006705ad2bb",
+      "source_commit_date": "2026-10-19T13:44:05+00:00",
+      "page": "index.html",
+      "page_kind": "monograph",
+      "page_source": "docs/monograph.html",
+      "page_sha256": "de7f9798cc609fbaa84ba0bbc1c89032394612703bbd06331ea998ee4bd5c927",
+      "question_count": 238,
+      "word_count": 571592,
+      "external_links": 2539,
+      "data_files": 241,
+      "questions_added": [
+        "q272",
+        "q273",
+        "q274",
+        "q275",
+        "q276",
+        "q277",
+        "q278",
+        "q279"
+      ],
+      "questions_removed": []
+    },
     {
       "version": "2026-10-e117",
       "label": "October 2026 · Edition 117",
@@ -143,6 +172,7 @@
       "external_links": 1314,
       "data_files": 266,
       "questions_added": [
+        "q101",
         "q102",
         "q103",
         "q104",
@@ -238,6 +268,28 @@
         "q225"
       ],
       "questions_removed": []
+    },
+    {
+      "version": "2026-08-e108",
+      "label": "August 2026 · Edition 108",
+      "edition": 108,
+      "edition_date": "2026-08-11",
+      "archived_at": "2026-10-19T17:39:41Z",
+      "source": "git-backfill",
+      "source_commit": "11d0316b1e10dfae259820750fc287933ac1d5e0",
+      "source_commit_date": "2026-10-19T17:39:16+00:00",
+      "page": "index.html",
+      "page_kind": "explorer",
+      "page_source": "docs/index.html",
+      "page_sha256": "b502de4f30c3dbcd76eb983bfbcf8e593e4c8f2cbf84f5916dbb8829966f04c9",
+      "question_count": 100,
+      "word_count": 87583,
+      "external_links": 478,
+      "data_files": 102,
+      "questions_added": [],
+      "questions_removed": [
+        "q101"
+      ]
     },
     {
       "version": "2026-08",
