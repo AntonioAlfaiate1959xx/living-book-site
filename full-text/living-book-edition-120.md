@@ -8,7 +8,7 @@ viewport: width=device-width, initial-scale=1
 
 # Living Book — Monograph
 
-Generated 2026-10-25T22:24:42.215Z · Latest edition 120 (2026-10-25T23:00:00Z) · Total editions 120 · Questions in monograph 238
+Generated 2026-10-25T22:48:09.913Z · Latest edition 120 (2026-10-25T23:00:00Z) · Total editions 120 · Questions in monograph 238
 
 21 chapters · 238 questions · 3306 citations · 2541 unique sources · 1190 cross-references
 
@@ -26,7 +26,7 @@ Conventional scholarly publishing faces a structural dilemma in rapidly advancin
 
 #### II. Scale and Epistemic Foundation: A Scientific Approach to Knowledge
 
-Spanning 21 thematic chapters, 238 active research investigations, 3,306 inline citations, 2,541 unique verified sources, and 1,190 cross-references across 1,579 pages in Edition 120, this work stands among the largest and most comprehensive scholarly syntheses ever assembled on artificial intelligence in human learning.
+Spanning 21 thematic chapters, 238 active research investigations, 3,306 inline citations, 2,541 unique verified sources, and 1,190 cross-references across 1,585 pages in Edition 120, this work stands among the largest and most comprehensive scholarly syntheses ever assembled on artificial intelligence in human learning.
 
 Volume alone, however, is secondary to epistemic care. Every answer in this book is constructed through a strictly scientific approach to evidence curation and synthesis, drawing selectively from the highest tiers of global knowledge production across nine languages:
 
@@ -97,7 +97,7 @@ Sources: [\[SRC-042\]](#src-042) [\[SRC-024\]](#src-024) [\[SRC-153\]](#src-153)
 
 **Related questions:** [Q004](#q004), [Q006](#q006), [Q104](#q104), [Q105](#q105), [Q002](#q002)
 
-**What changed in Edition 117:** Expanded to six sections, adding critical, reflective-AI, hybrid-intelligence, creativity and research-agency perspectives from 2024-2025 works, flagging vendor and normative claims, stating disagreements explicitly, and adding cross-references to Q007, Q009, Q010, Q103, Q258. [(789 → 2,095 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, adding critical, reflective-AI, hybrid-intelligence, creativity and research-agency perspectives from 2024-2025 works, flagging vendor and normative claims, stating disagreements explicitly, and adding cross-references to Q007, Q009, Q010, Q103, Q258. [(789 → 2,095 words · 6 new sources)]{.small}
 
 ### Q002 If AI can answer any question, what does it mean to "learn" something? {#q002}
 
@@ -149,7 +149,7 @@ Sources: [\[SRC-454\]](#src-454) [\[SRC-425\]](#src-425) [\[SRC-1369\]](#src-136
 
 **Related questions:** [Q103](#q103), [Q003](#q003), [Q258](#q258), [Q005](#q005), [Q009](#q009)
 
-**What changed in Edition 117:** Expanded and restructured into seven sections; added Kalota, Johnson et al., Cukurova, Lewis and Sarkadi, and Davidson; flagged correlational and single-study limits; separated inference from evidence on children; added cross-references to Q009, Q010, Q103, Q261. [(674 → 2,104 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into seven sections; added Kalota, Johnson et al., Cukurova, Lewis and Sarkadi, and Davidson; flagged correlational and single-study limits; separated inference from evidence on children; added cross-references to Q009, Q010, Q103, Q261. [(674 → 2,104 words · 5 new sources)]{.small}
 
 ### Q003 Does human knowledge lose or change its value when it is no longer scarce? {#q003}
 
@@ -195,7 +195,7 @@ Sources: [\[SRC-667\]](#src-667) [\[SRC-1291\]](#src-1291) [\[SRC-1366\]](#src-1
 
 **Related questions:** [Q104](#q104), [Q005](#q005), [Q002](#q002), [Q004](#q004), [Q006](#q006)
 
-**What changed in Edition 117:** Expanded to six sections, adding evidence on scarcity inversion (DeBardeleben), knowledge capital (Gardiner), embodied tacit knowledge (Kurun), human–AI task allocation (Fügener et al.), and AMIE's diagnostic trial, with limits and cross-references. [(726 → 1,974 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, adding evidence on scarcity inversion (DeBardeleben), knowledge capital (Gardiner), embodied tacit knowledge (Kurun), human–AI task allocation (Fügener et al.), and AMIE's diagnostic trial, with limits and cross-references. [(726 → 1,974 words · 6 new sources)]{.small}
 
 ### Q004 What is the difference between knowledge, understanding, and wisdom — and which of these can AI possess or transmit? {#q004}
 
@@ -235,7 +235,7 @@ Sources: [\[SRC-1217\]](#src-1217) [\[SRC-1401\]](#src-1401) [\[SRC-430\]](#src-
 
 **Related questions:** [Q001](#q001), [Q003](#q003), [Q010](#q010), [Q104](#q104), [Q002](#q002)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections; added Strate's media-ecology challenge, Kurun on tacit knowledge, Pothos and Widdows, DIKWP, relational and decolonial critiques; attributed all claims and added cross-references to Q106, Q258 and Q010. [(865 → 2,126 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections; added Strate's media-ecology challenge, Kurun on tacit knowledge, Pothos and Widdows, DIKWP, relational and decolonial critiques; attributed all claims and added cross-references to Q106, Q258 and Q010. [(865 → 2,126 words · 7 new sources)]{.small}
 
 ### Q005 How does the human relationship with truth change when answers are generated rather than discovered? {#q005}
 
@@ -277,7 +277,7 @@ Sources: [\[SRC-352\]](#src-352) [\[SRC-518\]](#src-518) [\[SRC-970\]](#src-970)
 
 **Related questions:** [Q003](#q003), [Q006](#q006), [Q103](#q103), [Q104](#q104), [Q002](#q002)
 
-**What changed in Edition 117:** Expanded to six sections with explicit attribution for every claim and statistic. Added evidence on relational trust, platform power, positive alignment, autonomous research and AI literacy, flagged disputed points, and added three cross-references. [(659 → 2,051 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with explicit attribution for every claim and statistic. Added evidence on relational trust, platform power, positive alignment, autonomous research and AI literacy, flagged disputed points, and added three cross-references. [(659 → 2,051 words · 7 new sources)]{.small}
 
 ### Q006 What is irreducibly human in the act of teaching, and what is irreducibly human in the act of learning? {#q006}
 
@@ -325,7 +325,7 @@ Sources: [\[SRC-334\]](#src-334) [\[SRC-1181\]](#src-1181) [\[SRC-641\]](#src-64
 
 **Related questions:** [Q005](#q005), [Q104](#q104), [Q001](#q001), [Q003](#q003), [Q010](#q010)
 
-**What changed in Edition 117:** Expanded to six sections integrating Rolla, Tishenina, Aboodi, Vinci et al., Choi et al., Brailas, Kim, Tao and Lazaros; flagged disputes over embodiment and synergy; added cross-references to Q106, Q010, Q009 and Q003. [(762 → 2,119 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections integrating Rolla, Tishenina, Aboodi, Vinci et al., Choi et al., Brailas, Kim, Tao and Lazaros; flagged disputes over embodiment and synergy; added cross-references to Q106, Q010, Q009 and Q003. [(762 → 2,119 words · 9 new sources)]{.small}
 
 ### Q007 Should education aim to make humans complementary to AI, resistant to it, or independent of it? {#q007}
 
@@ -385,7 +385,7 @@ Sources: [\[SRC-665\]](#src-665) [\[SRC-894\]](#src-894) [\[SRC-021\]](#src-021)
 
 **Related questions:** [Q005](#q005), [Q102](#q102), [Q105](#q105), [Q001](#q001), [Q002](#q002)
 
-**What changed in Edition 117:** Expanded to six sections with attributed evidence, added professional-domain and labour-market works (Fossen 2024; Ye 2026; Vučinić 2024; Zha 2025; Dong 2025), flagged evidential limits, and inserted cross-references to Q006, Q009, Q010, Q103, Q258. [(800 → 1,985 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with attributed evidence, added professional-domain and labour-market works (Fossen 2024; Ye 2026; Vučinić 2024; Zha 2025; Dong 2025), flagged evidential limits, and inserted cross-references to Q006, Q009, Q010, Q103, Q258. [(800 → 1,985 words · 5 new sources)]{.small}
 
 ### Q008 How does AI reshape our concept of intelligence itself — and the way schools measure and reward it? {#q008}
 
@@ -459,7 +459,7 @@ Sources: [\[SRC-1380\]](#src-1380) [\[SRC-643\]](#src-643) [\[SRC-286\]](#src-28
 
 **Related questions:** [Q102](#q102), [Q106](#q106), [Q258](#q258), [Q001](#q001), [Q002](#q002)
 
-**What changed in Edition 117:** Expanded to six sections, adding Olier's genealogy of intelligence measurement, Preiss and Sternberg's adaptive-intelligence critique, Konstantinidis's mirror metaphor and the MIRA model, with clearer evidential hedging and cross-references. [(813 → 2,312 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, adding Olier's genealogy of intelligence measurement, Preiss and Sternberg's adaptive-intelligence critique, Konstantinidis's mirror metaphor and the MIRA model, with clearer evidential hedging and cross-references. [(813 → 2,312 words · 6 new sources)]{.small}
 
 ### Q009 What happens to intellectual struggle, effort, and "productive failure" when friction can always be removed? {#q009}
 
@@ -521,7 +521,7 @@ Sources: [\[SRC-500\]](#src-500) [\[SRC-501\]](#src-501) [\[SRC-1031\]](#src-103
 
 **Related questions:** [Q002](#q002), [Q103](#q103), [Q105](#q105), [Q258](#q258), [Q001](#q001)
 
-**What changed in Edition 117:** Expanded into six sections. Added productive-failure mechanisms, the comfort-growth paradox, the hollowed mind and Expertise Duality, divergent user outcomes, virtue and political critiques of friction, and design frameworks, with clearer evidentiary caveats and cross-references. [(703 → 1,977 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six sections. Added productive-failure mechanisms, the comfort-growth paradox, the hollowed mind and Expertise Duality, divergent user outcomes, virtue and political critiques of friction, and design frameworks, with clearer evidentiary caveats and cross-references. [(703 → 1,977 words · 8 new sources)]{.small}
 
 ### Q010 Is there a moral difference between learning with AI, learning from AI, and outsourcing learning to AI? {#q010}
 
@@ -597,7 +597,7 @@ Sources: [\[SRC-988\]](#src-988) [\[SRC-1152\]](#src-1152) [\[SRC-046\]](#src-04
 
 **Related questions:** [Q004](#q004), [Q006](#q006), [Q103](#q103), [Q258](#q258), [Q001](#q001)
 
-**What changed in Edition 117:** Expanded to six sections with explicit attribution of all existing sources, new arguments from Aboodi, Melgaard, Lim, Collins, Kulkarni et al., Capraro et al., Boyd and Markowitz, and Höfer, sharper correlational caveats, and cross-references. [(816 → 2,237 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with explicit attribution of all existing sources, new arguments from Aboodi, Melgaard, Lim, Collins, Kulkarni et al., Capraro et al., Boyd and Markowitz, and Höfer, sharper correlational caveats, and cross-references. [(816 → 2,237 words · 8 new sources)]{.small}
 
 ### Q102 If a machine can produce an original-seeming idea, what remains of the concept of authorship in student work? {#q102}
 
@@ -661,7 +661,7 @@ Sources: [\[SRC-1368\]](#src-1368) [\[SRC-719\]](#src-719) [\[SRC-615\]](#src-61
 
 **Related questions:** [Q008](#q008), [Q005](#q005), [Q007](#q007), [Q105](#q105), [Q106](#q106)
 
-**What changed in Edition 117:** Converted the two bulleted lists (the four-mode faculty typology and the three educative commitments) into running prose to remove list formatting; all other content, wording and sources unchanged. [(1,067 → 2,193 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the two bulleted lists (the four-mode faculty typology and the three educative commitments) into running prose to remove list formatting; all other content, wording and sources unchanged. [(1,067 → 2,193 words · 6 new sources)]{.small}
 
 ### Q103 Does AI change what it means to be educated, as distinct from being skilled or informed? {#q103}
 
@@ -705,7 +705,7 @@ Sources: [\[SRC-104\]](#src-104) [\[SRC-099\]](#src-099) [\[SRC-533\]](#src-533)
 
 **Related questions:** [Q002](#q002), [Q005](#q005), [Q003](#q003), [Q006](#q006), [Q009](#q009)
 
-**What changed in Edition 117:** Expanded and restructured the essay, adding recent evidence on clinical reasoning redesign, never-skilling, student well-being, longitudinal adoption and faculty AI literacy, with explicit limits and cross-references to Q003, Q005 and Q258. [(1,017 → 2,090 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the essay, adding recent evidence on clinical reasoning redesign, never-skilling, student well-being, longitudinal adoption and faculty AI literacy, with explicit limits and cross-references to Q003, Q005 and Q258. [(1,017 → 2,090 words · 5 new sources)]{.small}
 
 ### Q104 What obligations does a society have toward knowledge that no human any longer holds unaided? {#q104}
 
@@ -781,7 +781,7 @@ Sources: [\[SRC-1084\]](#src-1084) [\[SRC-1123\]](#src-1123) [\[SRC-262\]](#src-
 
 **Related questions:** [Q003](#q003), [Q005](#q005), [Q006](#q006), [Q001](#q001), [Q004](#q004)
 
-**What changed in Edition 117:** Expanded and restructured into six sections; corrected the count to six obligations; added Bui, Akinwalere and Chang, and teacher- and student-readiness surveys; flagged replication and correlational limits; added cross-references to Q003, Q004, Q005 and Q020. [(1,031 → 1,960 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections; corrected the count to six obligations; added Bui, Akinwalere and Chang, and teacher- and student-readiness surveys; flagged replication and correlational limits; added cross-references to Q003, Q004, Q005 and Q020. [(1,031 → 1,960 words · 6 new sources)]{.small}
 
 ### Q105 Is curiosity a trainable capacity, and what does current evidence say about whether answer-on-demand technology weakens or strengthens it? {#q105}
 
@@ -851,7 +851,7 @@ Sources: [\[SRC-472\]](#src-472) [\[SRC-1305\]](#src-1305) [\[SRC-996\]](#src-99
 
 **Related questions:** [Q001](#q001), [Q002](#q002), [Q005](#q005), [Q007](#q007), [Q009](#q009)
 
-**What changed in Edition 117:** Expanded to six sections that separate trainability evidence from contested answer-engine effects, add 2024–2026 higher-education studies on curiosity and technology adoption, flag correlational limits, and cross-reference motivation, tutoring, translation and policy questions. [(927 → 2,215 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections that separate trainability evidence from contested answer-engine effects, add 2024–2026 higher-education studies on curiosity and technology adoption, flag correlational limits, and cross-reference motivation, tutoring, translation and policy questions. [(927 → 2,215 words · 4 new sources)]{.small}
 
 ### Q106 Can a machine participate in a tradition of inquiry, or only imitate its outputs? {#q106}
 
@@ -929,7 +929,7 @@ Sources: [\[SRC-639\]](#src-639) [\[SRC-118\]](#src-118) [\[SRC-284\]](#src-284)
 
 **Related questions:** [Q008](#q008), [Q102](#q102), [Q001](#q001), [Q002](#q002), [Q003](#q003)
 
-**What changed in Edition 117:** Expanded to six sections, adding the mimicry-trap analysis (Sánchez 2026), reflexive human-AI inquiry (Brailas 2024), curricular and teacher-literacy studies, nursing and governance parallels, evidence-strength caveats, and cross-references to Q010, Q102, Q104. [(965 → 2,168 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, adding the mimicry-trap analysis (Sánchez 2026), reflexive human-AI inquiry (Brailas 2024), curricular and teacher-literacy studies, nursing and governance parallels, evidence-strength caveats, and cross-references to Q010, Q102, Q104. [(965 → 2,168 words · 7 new sources)]{.small}
 
 ### Q258 What does classical virtue ethics contribute to the question of how much AI assistance is compatible with the intellectual and moral development education is meant to cultivate? {#q258}
 
@@ -970,6 +970,8 @@ Virtue ethics thus suggests a standard for AI assistance that is contextual rath
 Sources: [\[SRC-1409\]](#src-1409) [\[SRC-1410\]](#src-1410) [\[SRC-1411\]](#src-1411) [\[SRC-1412\]](#src-1412) [\[SRC-1413\]](#src-1413) [\[SRC-1414\]](#src-1414) [\[SRC-1415\]](#src-1415) [\[SRC-1416\]](#src-1416) [\[SRC-1417\]](#src-1417) [\[SRC-1418\]](#src-1418) [\[SRC-1419\]](#src-1419) [\[SRC-1420\]](#src-1420)
 
 **Related questions:** [Q002](#q002), [Q006](#q006), [Q008](#q008), [Q009](#q009), [Q010](#q010)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 2: Ethical Dimensions {#chapter-02}
 
@@ -1027,7 +1029,7 @@ Sources: [\[SRC-937\]](#src-937) [\[SRC-670\]](#src-670) [\[SRC-059\]](#src-059)
 
 **Related questions:** [Q018](#q018), [Q012](#q012), [Q013](#q013), [Q014](#q014), [Q016](#q016)
 
-**What changed in Edition 117:** Expanded to six continuous sections, adding Collins on fluent fabrication, Yvan et al.'s detector-bias figures, McDonald et al.'s R1 policy analysis and teacher-preparation and student-agency evidence, with cross-references to Q019, Q246 and Q259. [(724 → 2,034 words · 11 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six continuous sections, adding Collins on fluent fabrication, Yvan et al.'s detector-bias figures, McDonald et al.'s R1 policy analysis and teacher-preparation and student-agency evidence, with cross-references to Q019, Q246 and Q259. [(724 → 2,034 words · 11 new sources)]{.small}
 
 ### Q012 How should student data collected by AI systems be governed, and who owns the learning profile of a child? {#q012}
 
@@ -1097,7 +1099,7 @@ Sources: [\[SRC-811\]](#src-811) [\[SRC-1141\]](#src-1141) [\[SRC-182\]](#src-18
 
 **Related questions:** [Q016](#q016), [Q018](#q018), [Q020](#q020), [Q101](#q101), [Q109](#q109)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributed every claim to named sources, added children's-rights, complex-systems, child-perception and biometric-inference evidence, distinguished ownership from rights framings, and added cross-references to related questions. [(1,040 → 2,058 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributed every claim to named sources, added children's-rights, complex-systems, child-perception and biometric-inference evidence, distinguished ownership from rights framings, and added cross-references to related questions. [(1,040 → 2,058 words · 4 new sources)]{.small}
 
 ### Q013 Does personalized AI tutoring risk creating algorithmic determinism — locking students into predicted trajectories? {#q013}
 
@@ -1145,7 +1147,7 @@ Sources: [\[SRC-789\]](#src-789) [\[SRC-184\]](#src-184) [\[SRC-278\]](#src-278)
 
 **Related questions:** [Q011](#q011), [Q012](#q012), [Q014](#q014), [Q016](#q016), [Q017](#q017)
 
-**What changed in Edition 117:** Expanded to six sections, adding Chick's equity review, Moganadas's triadic mediator model, Petrova's simulated-Delphi framework, Wiener-workshop agency arguments, and Jandrić's critique of solutionism, with explicit evidential limits, attributed statistics, and cross-references. [(678 → 2,066 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, adding Chick's equity review, Moganadas's triadic mediator model, Petrova's simulated-Delphi framework, Wiener-workshop agency arguments, and Jandrić's critique of solutionism, with explicit evidential limits, attributed statistics, and cross-references. [(678 → 2,066 words · 5 new sources)]{.small}
 
 ### Q014 How do we prevent AI from amplifying existing inequalities of class, language, geography, and disability in education? {#q014}
 
@@ -1193,7 +1195,7 @@ Sources: [\[SRC-762\]](#src-762) [\[SRC-241\]](#src-241) [\[SRC-661\]](#src-661)
 
 **Related questions:** [Q019](#q019), [Q011](#q011), [Q012](#q012), [Q013](#q013), [Q016](#q016)
 
-**What changed in Edition 117:** Expanded and restructured into seven unheaded sections, integrating Capraro et al., Farahani and Ghasemi, Foley and Melese, López-Gazpio, Arora, Laukkonen et al. and van Kessel et al., with cross-references, caveats, and attributed statistics. [(903 → 2,073 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into seven unheaded sections, integrating Capraro et al., Farahani and Ghasemi, Foley and Melese, López-Gazpio, Arora, Laukkonen et al. and van Kessel et al., with cross-references, caveats, and attributed statistics. [(903 → 2,073 words · 7 new sources)]{.small}
 
 ### Q016 What consent can a minor meaningfully give to AI-mediated education? {#q016}
 
@@ -1239,7 +1241,7 @@ Sources: [\[SRC-583\]](#src-583) [\[SRC-710\]](#src-710) [\[SRC-406\]](#src-406)
 
 **Related questions:** [Q012](#q012), [Q259](#q259), [Q011](#q011), [Q013](#q013), [Q014](#q014)
 
-**What changed in Edition 117:** Expanded to six sections with a direct opening answer. Added AI Act emotion-recognition ban, California and French sources, and recent evidence on autonomy, privacy ownership and consent perceptions. Distinguished assent from consent and added cross-references. [(1,120 → 1,990 words · 6 new sources · 1 source replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with a direct opening answer. Added AI Act emotion-recognition ban, California and French sources, and recent evidence on autonomy, privacy ownership and consent perceptions. Distinguished assent from consent and added cross-references. [(1,120 → 1,990 words · 6 new sources · 1 source replaced)]{.small}
 
 ### Q017 How do we preserve academic integrity when the boundary between assistance and authorship dissolves? {#q017}
 
@@ -1281,7 +1283,7 @@ Sources: [\[SRC-217\]](#src-217) [\[SRC-079\]](#src-079) [\[SRC-056\]](#src-056)
 
 **Related questions:** [Q011](#q011), [Q012](#q012), [Q013](#q013), [Q014](#q014), [Q016](#q016)
 
-**What changed in Edition 117:** Expanded into six headingless sections, attributed all statistics to named sources, added philosophical, disclosure-framework, discourse and qualitative evidence from new 2025–2026 works, flagged disputes over authorship and detection, and added cross-references. [(736 → 2,188 words · 11 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six headingless sections, attributed all statistics to named sources, added philosophical, disclosure-framework, discourse and qualitative evidence from new 2025–2026 works, flagged disputes over authorship and detection, and added cross-references. [(736 → 2,188 words · 11 new sources)]{.small}
 
 ### Q018 Should there be a "right to a human teacher," analogous to a right to human medical care? {#q018}
 
@@ -1321,7 +1323,7 @@ Sources: [\[SRC-1381\]](#src-1381) [\[SRC-799\]](#src-799) [\[SRC-657\]](#src-65
 
 **Related questions:** [Q011](#q011), [Q012](#q012), [Q109](#q109), [Q013](#q013), [Q014](#q014)
 
-**What changed in Edition 117:** Expanded into six sections. Added evidence on contested AI competence (Krichevsky, Ong), care reciprocity (Respess), developmental theory (Navarro), epistemic destabilisation (Pollak), inequality (Capraro) and social superintelligence (Torrance), plus cross-references. [(776 → 2,066 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six sections. Added evidence on contested AI competence (Krichevsky, Ong), care reciprocity (Respess), developmental theory (Navarro), epistemic destabilisation (Pollak), inequality (Capraro) and social superintelligence (Torrance), plus cross-references. [(776 → 2,066 words · 8 new sources)]{.small}
 
 ### Q019 How do we address the cultural and ideological biases embedded in models trained predominantly on certain languages and worldviews? {#q019}
 
@@ -1377,7 +1379,7 @@ Sources: [\[SRC-1299\]](#src-1299) [\[SRC-365\]](#src-365) [\[SRC-492\]](#src-49
 
 **Related questions:** [Q014](#q014), [Q243](#q243), [Q011](#q011), [Q012](#q012), [Q013](#q013)
 
-**What changed in Edition 117:** Expanded and restructured into six sections. Added evidence on LLM cultural self-perception, benchmark inadequacies, African ethical values, indigenous co-creation, intersectionality, contested fairness and classroom ethics, plus cross-references and explicit limits of evidence. [(763 → 2,039 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections. Added evidence on LLM cultural self-perception, benchmark inadequacies, African ethical values, indigenous co-creation, intersectionality, contested fairness and classroom ethics, plus cross-references and explicit limits of evidence. [(763 → 2,039 words · 8 new sources)]{.small}
 
 ### Q020 What ethical obligations do AI companies have toward education systems they disrupt but do not serve? {#q020}
 
@@ -1429,7 +1431,7 @@ Sources: [\[SRC-1179\]](#src-1179) [\[SRC-670\]](#src-670) [\[SRC-961\]](#src-96
 
 **Related questions:** [Q111](#q111), [Q259](#q259), [Q012](#q012), [Q101](#q101), [Q011](#q011)
 
-**What changed in Edition 117:** Expanded to six sections, with recent scholarship on AI-in-education risk taxonomies, comparative ethics policy, accountability gaps, workplace insecurity and governance practice. Vendor pledges are now separated from research, and three cross-references have been added. [(790 → 2,089 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, with recent scholarship on AI-in-education risk taxonomies, comparative ethics policy, accountability gaps, workplace insecurity and governance practice. Vendor pledges are now separated from research, and three cross-references have been added. [(790 → 2,089 words · 9 new sources)]{.small}
 
 ### Q109 Is it defensible for a school to require AI use when families object on religious or philosophical grounds? {#q109}
 
@@ -1475,7 +1477,7 @@ Sources: [\[SRC-919\]](#src-919) [\[SRC-918\]](#src-918) [\[SRC-917\]](#src-917)
 
 **Related questions:** [Q012](#q012), [Q018](#q018), [Q011](#q011), [Q013](#q013), [Q014](#q014)
 
-**What changed in Edition 117:** Expanded and restructured into six sections; clarified Mahmoud v. Taylor's limits for AI; added scholarship on religious communities, religious education and school AI adoption; made the opt-out disagreement explicit; added cross-references. [(854 → 2,144 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections; clarified Mahmoud v. Taylor's limits for AI; added scholarship on religious communities, religious education and school AI adoption; made the opt-out disagreement explicit; added cross-references. [(854 → 2,144 words · 7 new sources)]{.small}
 
 ### Q111 What duties do educators have toward students who cannot or will not use AI? {#q111}
 
@@ -1515,7 +1517,7 @@ Sources: [\[SRC-1377\]](#src-1377) [\[SRC-090\]](#src-090) [\[SRC-1263\]](#src-1
 
 **Related questions:** [Q020](#q020), [Q259](#q259), [Q011](#q011), [Q012](#q012), [Q013](#q013)
 
-**What changed in Edition 117:** Deepened from about 900 to about 1805 words in heading-free sections, adding 10 recent peer-reviewed sources while keeping the earlier text and its sources. [(900 → 1,805 words · 10 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 900 to about 1805 words in heading-free sections, adding 10 recent peer-reviewed sources while keeping the earlier text and its sources. [(900 → 1,805 words · 10 new sources)]{.small}
 
 ### Q101 Should teachers be required to disclose their own classroom use of AI, as the EU AI Act requires of AI systems, even when disclosure weakens the exercise? {#q101}
 
@@ -1605,7 +1607,7 @@ Sources: [\[SRC-1308\]](#src-1308) [\[SRC-310\]](#src-310) [\[SRC-422\]](#src-42
 
 **Related questions:** [Q012](#q012), [Q020](#q020), [Q011](#q011), [Q013](#q013), [Q014](#q014)
 
-**What changed in Edition 117:** Expanded to six sections. Added recent evidence on student concealment, teacher judgment and the range of teacher AI uses. Clarified that provider-side marking duties and the editorial-responsibility exception apply. Added post-hoc disclosure and cross-references. Converted the two bulleted lists into running prose. [(1,061 → 2,092 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections. Added recent evidence on student concealment, teacher judgment and the range of teacher AI uses. Clarified that provider-side marking duties and the editorial-responsibility exception apply. Added post-hoc disclosure and cross-references. Converted the two bulleted lists into running prose. [(1,061 → 2,092 words · 6 new sources)]{.small}
 
 ### Q259 What obligations do AI developers and companies owe specifically to the education sector, and what regulatory or market mechanisms might enforce those obligations? {#q259}
 
@@ -1652,6 +1654,8 @@ Enforcement gaps remain significant. Regulatory agencies have limited capacity, 
 Sources: [\[SRC-1421\]](#src-1421) [\[SRC-1422\]](#src-1422) [\[SRC-1423\]](#src-1423) [\[SRC-1424\]](#src-1424) [\[SRC-757\]](#src-757) [\[SRC-1425\]](#src-1425) [\[SRC-1426\]](#src-1426) [\[SRC-1427\]](#src-1427) [\[SRC-1428\]](#src-1428) [\[SRC-1429\]](#src-1429) [\[SRC-1430\]](#src-1430)
 
 **Related questions:** [Q020](#q020), [Q012](#q012), [Q016](#q016), [Q111](#q111), [Q011](#q011)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 3: AI's Role in Teaching {#chapter-03}
 
@@ -1701,7 +1705,7 @@ Sources: [\[SRC-236\]](#src-236) [\[SRC-247\]](#src-247) [\[SRC-021\]](#src-021)
 
 **Related questions:** [Q025](#q025), [Q260](#q260), [Q022](#q022), [Q023](#q023), [Q024](#q024)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections; added evidence from Bardach (2025), Sevilla (2025), Preiss and Sternberg (2025), Gordon (2024) and others; attributed all statistics; flagged disputed efficacy evidence; added cross-references. [(728 → 2,028 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections; added evidence from Bardach (2025), Sevilla (2025), Preiss and Sternberg (2025), Gordon (2024) and others; attributed all statistics; flagged disputed efficacy evidence; added cross-references. [(728 → 2,028 words · 9 new sources)]{.small}
 
 ### Q022 How should the teacher's role be redefined — from transmitter of knowledge to what, exactly? {#q022}
 
@@ -1751,7 +1755,7 @@ Sources: [\[SRC-1057\]](#src-1057) [\[SRC-864\]](#src-864) [\[SRC-858\]](#src-85
 
 **Related questions:** [Q114](#q114), [Q021](#q021), [Q023](#q023), [Q024](#q024), [Q025](#q025)
 
-**What changed in Edition 117:** Expanded into six connected sections that add recent studies on facilitation, AI governance, AI-TPACK training, teacher self-efficacy and readiness. The revision makes the designer-versus-symbiosis disagreement explicit and adds cross-references to Q025, Q026 and Q260. [(615 → 1,979 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six connected sections that add recent studies on facilitation, AI governance, AI-TPACK training, teacher self-efficacy and readiness. The revision makes the designer-versus-symbiosis disagreement explicit and adds cross-references to Q025, Q026 and Q260. [(615 → 1,979 words · 6 new sources)]{.small}
 
 ### Q023 What pedagogical models (Socratic, constructivist, mastery-based) does AI enable at scale for the first time? {#q023}
 
@@ -1813,7 +1817,7 @@ Sources: [\[SRC-675\]](#src-675) [\[SRC-238\]](#src-238) [\[SRC-239\]](#src-239)
 
 **Related questions:** [Q024](#q024), [Q030](#q030), [Q227](#q227), [Q260](#q260), [Q021](#q021)
 
-**What changed in Edition 117:** Expanded to six sections, added critical evidence on Socratic mimicry, constructivist scaffolding and fading, teacher perceptions and adoption, cited all eleven original sources, qualified vendor and review statistics, and added cross-references. [(818 → 2,021 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, added critical evidence on Socratic mimicry, constructivist scaffolding and fading, teacher perceptions and adoption, cited all eleven original sources, qualified vendor and review statistics, and added cross-references. [(818 → 2,021 words · 8 new sources)]{.small}
 
 ### Q024 How can AI support teachers (planning, assessment, feedback) without deskilling or replacing them? {#q024}
 
@@ -1869,7 +1873,7 @@ Sources: [\[SRC-1297\]](#src-1297) [\[SRC-785\]](#src-785) [\[SRC-783\]](#src-78
 
 **Related questions:** [Q230](#q230), [Q274](#q274), [Q023](#q023), [Q028](#q028), [Q114](#q114)
 
-**What changed in Edition 117:** Expanded and restructured into six sections. Added peer-reviewed evidence on structural deskilling, trainee-teacher trust, authentic assessment and critical thinking. Vendor and second-hand statistics are now flagged, and cross-references to related questions are added. [(837 → 2,079 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections. Added peer-reviewed evidence on structural deskilling, trainee-teacher trust, authentic assessment and critical thinking. Vendor and second-hand statistics are now flagged, and cross-references to related questions are added. [(837 → 2,079 words · 8 new sources)]{.small}
 
 ### Q025 What does effective human–AI co-teaching look like in a real classroom? {#q025}
 
@@ -1917,7 +1921,7 @@ Sources: [\[SRC-1398\]](#src-1398) [\[SRC-1067\]](#src-1067) [\[SRC-1096\]](#src
 
 **Related questions:** [Q036](#q036), [Q021](#q021), [Q260](#q260), [Q022](#q022), [Q023](#q023)
 
-**What changed in Edition 117:** Expanded into six continuous sections adding classroom evidence on AI-guided peer discussion, distraction detection, human-centred design reviews, teacher competency frameworks and human co-teaching parity, with clearer caveats and cross-references. [(611 → 1,876 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six continuous sections adding classroom evidence on AI-guided peer discussion, distraction detection, human-centred design reviews, teacher competency frameworks and human co-teaching parity, with clearer caveats and cross-references. [(611 → 1,876 words · 8 new sources)]{.small}
 
 ### Q026 How should teacher training change so educators can critically use, evaluate, and challenge AI tools? {#q026}
 
@@ -1969,7 +1973,7 @@ Sources: [\[SRC-677\]](#src-677) [\[SRC-676\]](#src-676) [\[SRC-673\]](#src-673)
 
 **Related questions:** [Q230](#q230), [Q021](#q021), [Q022](#q022), [Q023](#q023), [Q024](#q024)
 
-**What changed in Edition 117:** Converted the bulleted list of UNESCO framework areas in section three into a single prose sentence and merged the following remark into the same paragraph to remove the disallowed list; all other content, wording and sources unchanged. [(688 → 1,924 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the bulleted list of UNESCO framework areas in section three into a single prose sentence and merged the following remark into the same paragraph to remove the disallowed list; all other content, wording and sources unchanged. [(688 → 1,924 words · 8 new sources)]{.small}
 
 ### Q027 Can AI meaningfully teach non-cognitive skills — empathy, collaboration, resilience, character? {#q027}
 
@@ -2015,7 +2019,7 @@ Sources: [\[SRC-606\]](#src-606) [\[SRC-043\]](#src-043) [\[SRC-790\]](#src-790)
 
 **Related questions:** [Q028](#q028), [Q030](#q030), [Q260](#q260), [Q021](#q021), [Q022](#q022)
 
-**What changed in Edition 117:** Expanded to six sections with explicit source attribution, integrating new scientometric, systematic-review, qualitative and alignment research, marking disputed claims, and adding cross-references to Q030, Q230, Q260 and Q025. [(603 → 1,922 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with explicit source attribution, integrating new scientometric, systematic-review, qualitative and alignment research, marking disputed claims, and adding cross-references to Q030, Q230, Q260 and Q025. [(603 → 1,922 words · 7 new sources)]{.small}
 
 ### Q028 How do we assess learning authentically when AI can complete any traditional assessment? {#q028}
 
@@ -2055,7 +2059,7 @@ Sources: [\[SRC-084\]](#src-084) [\[SRC-1183\]](#src-1183) [\[SRC-1058\]](#src-1
 
 **Related questions:** [Q024](#q024), [Q027](#q027), [Q114](#q114), [Q227](#q227), [Q230](#q230)
 
-**What changed in Edition 117:** Expanded the answer with evidence from Newton and Jones, the AIAS papers, Su and colleagues, Thandla and colleagues, and others. Added explicit attribution, a Two-Lane versus AIAS comparison, methodological limits and cross-references. [(733 → 2,064 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded the answer with evidence from Newton and Jones, the AIAS papers, Su and colleagues, Thandla and colleagues, and others. Added explicit attribution, a Two-Lane versus AIAS comparison, methodological limits and cross-references. [(733 → 2,064 words · 9 new sources)]{.small}
 
 ### Q030 How do we design AI systems that strengthen rather than substitute students' thinking (avoiding cognitive offloading)? {#q030}
 
@@ -2115,7 +2119,7 @@ Sources: [\[SRC-1221\]](#src-1221) [\[SRC-823\]](#src-823) [\[SRC-271\]](#src-27
 
 **Related questions:** [Q230](#q230), [Q023](#q023), [Q027](#q027), [Q116](#q116), [Q260](#q260)
 
-**What changed in Edition 117:** Expanded and restructured into six headingless sections, attributed all claims to sources, added counter-evidence (Ziani, Zhang and Liu, Hu) and teacher-preparation studies, flagged vendor claims and correlational limits, and added cross-references. [(855 → 2,112 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six headingless sections, attributed all claims to sources, added counter-evidence (Ziani, Zhang and Liu, Hu) and teacher-preparation studies, flagged vendor claims and correlational limits, and added cross-references. [(855 → 2,112 words · 8 new sources)]{.small}
 
 ### Q114 What happens to teacher expertise and professional identity when curriculum materials are machine-generated? {#q114}
 
@@ -2155,7 +2159,7 @@ Sources: [\[SRC-108\]](#src-108) [\[SRC-151\]](#src-151) [\[SRC-561\]](#src-561)
 
 **Related questions:** [Q022](#q022), [Q024](#q024), [Q028](#q028), [Q260](#q260), [Q021](#q021)
 
-**What changed in Edition 117:** Expanded to six sections integrating Černý, Kelley and Wenzel, Mutelo and Yakobi, Leitgeb and Leitgeb, Baizhanov et al. and Feigerlova; flagged correlational limits and vendor advocacy; added cross-references to Q022, Q026, Q254, Q255 and Q260. [(950 → 2,046 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections integrating Černý, Kelley and Wenzel, Mutelo and Yakobi, Leitgeb and Leitgeb, Baizhanov et al. and Feigerlova; flagged correlational limits and vendor advocacy; added cross-references to Q022, Q026, Q254, Q255 and Q260. [(950 → 2,046 words · 6 new sources)]{.small}
 
 ### Q116 What effect does AI support have on novice, substitute, and under-qualified teachers specifically? {#q116}
 
@@ -2217,7 +2221,7 @@ Sources: [\[SRC-065\]](#src-065) [\[SRC-631\]](#src-631) [\[SRC-711\]](#src-711)
 
 **Related questions:** [Q024](#q024), [Q030](#q030), [Q274](#q274), [Q021](#q021), [Q022](#q022)
 
-**What changed in Edition 117:** Expanded and restructured the answer, distinguished vendor accounts from research, and added peer-reviewed evidence on novice–mentor learning communities, pre-service perceptions, STEM teachers' split views, training effects, and school support. [(927 → 2,061 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, distinguished vendor accounts from research, and added peer-reviewed evidence on novice–mentor learning communities, pre-service perceptions, STEM teachers' split views, training effects, and school support. [(927 → 2,061 words · 8 new sources)]{.small}
 
 ### Q227 How is generative AI changing pedagogy, authorship, and assessment in creative arts education? {#q227}
 
@@ -2281,7 +2285,7 @@ Sources: [\[SRC-2477\]](#src-2477) [\[SRC-2478\]](#src-2478) [\[SRC-2479\]](#src
 
 **Related questions:** [Q208](#q208), [Q023](#q023), [Q024](#q024), [Q028](#q028), [Q230](#q230)
 
-**What changed in Edition 118:** This revision adds creative-industry reviews, two small studies of art and design students, research on whether students disclose AI use, and a metacognition rationale for process-based assessment, and flags their correlational or small-sample limits. It also trims redundant sentences across all sections to bring the length under the word limit. [(2,227 → 2,474 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: This revision adds creative-industry reviews, two small studies of art and design students, research on whether students disclose AI use, and a metacognition rationale for process-based assessment, and flags their correlational or small-sample limits. It also trims redundant sentences across all sections to bring the length under the word limit. [(2,227 → 2,474 words · 6 new sources)]{.small}
 
 ### Q230 How can educators design formative assessment with AI that strengthens feedback, self-regulation, and learning rather than task substitution? {#q230}
 
@@ -2327,7 +2331,7 @@ Sources: [\[SRC-342\]](#src-342) [\[SRC-1854\]](#src-1854) [\[SRC-2149\]](#src-2
 
 **Related questions:** [Q024](#q024), [Q030](#q030), [Q026](#q026), [Q028](#q028), [Q088](#q088)
 
-**What changed in Edition 117:** Deepened from about 631 to about 2384 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(631 → 2,384 words · 5 new sources · 9 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 631 to about 2384 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(631 → 2,384 words · 5 new sources · 9 sources replaced)]{.small}
 
 ### Q260 How do teachers maintain instructional authority, pedagogical presence, and classroom trust when AI systems are simultaneously delivering competing explanations to students? {#q260}
 
@@ -2370,6 +2374,8 @@ Evidence on these strategies is still developing, and few studies directly measu
 Sources: [\[SRC-1413\]](#src-1413) [\[SRC-1097\]](#src-1097) [\[SRC-1431\]](#src-1431) [\[SRC-1432\]](#src-1432) [\[SRC-1433\]](#src-1433) [\[SRC-1434\]](#src-1434) [\[SRC-1435\]](#src-1435) [\[SRC-1436\]](#src-1436) [\[SRC-1437\]](#src-1437) [\[SRC-1438\]](#src-1438) [\[SRC-1439\]](#src-1439) [\[SRC-1440\]](#src-1440)
 
 **Related questions:** [Q021](#q021), [Q023](#q023), [Q024](#q024), [Q025](#q025), [Q027](#q027)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q274 Now that the same generative model can act as a personal tutor, a whole-class assistant, or a teacher's planning copilot, how should schools balance one-on-one AI tutoring with AI support for classrooms and teachers? {#q274}
 
@@ -2425,7 +2431,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor replications of guarded versus unguarded tutor trials, scaled results from human-tutor copilot programmes, and generative-era evaluations of real-time teacher orchestration tools.
 -   *Related questions:* [Q026](#q026), [Q114](#q114), [Q116](#q116), [Q230](#q230), [Q260](#q260).
 
-**What changed in Edition 118:** New in this edition: examines how schools should allocate one generative model across student tutoring, classroom orchestration and teacher support, weighing trial evidence, guardrail risks, equity and teacher preparation. [(0 → 2,123 words · 17 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: examines how schools should allocate one generative model across student tutoring, classroom orchestration and teacher support, weighing trial evidence, guardrail risks, equity and teacher preparation. [(0 → 2,123 words · 17 new sources)]{.small}
 
 ## Chapter 4: The Learner's Experience {#chapter-04}
 
@@ -2475,7 +2481,7 @@ Sources: [\[SRC-679\]](#src-679) [\[SRC-1248\]](#src-1248) [\[SRC-021\]](#src-02
 
 **Related questions:** [Q032](#q032), [Q118](#q118), [Q033](#q033), [Q034](#q034), [Q035](#q035)
 
-**What changed in Edition 117:** Expanded to six sections, adding evidence on curiosity's definition, small-sample motivation studies, faculty and student-affect findings, explicit study attributions and limits, and cross-references to Q120, Q261, Q037, and Q118. [(773 → 1,791 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, adding evidence on curiosity's definition, small-sample motivation studies, faculty and student-affect findings, explicit study attributions and limits, and cross-references to Q120, Q261, Q037, and Q118. [(773 → 1,791 words · 6 new sources)]{.small}
 
 ### Q032 What are the effects of AI companionship on students' social development and human relationships? {#q032}
 
@@ -2543,7 +2549,7 @@ Sources: [\[SRC-129\]](#src-129) [\[SRC-133\]](#src-133) [\[SRC-1300\]](#src-130
 
 **Related questions:** [Q031](#q031), [Q118](#q118), [Q233](#q233), [Q033](#q033), [Q034](#q034)
 
-**What changed in Edition 117:** Expanded with student-specific longitudinal and survey evidence (Xie and Wang, Crawford, Liu), relational theory (MIRA, Erikson), the exploitation critique, explicit attribution and reliability ratings, and cross-references to Q118, Q121 and Q261. [(784 → 1,848 words · 10 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded with student-specific longitudinal and survey evidence (Xie and Wang, Crawford, Liu), relational theory (MIRA, Erikson), the exploitation critique, explicit attribution and reliability ratings, and cross-references to Q118, Q121 and Q261. [(784 → 1,848 words · 10 new sources)]{.small}
 
 ### Q033 How do we cultivate critical thinking in students who grow up trusting AI-generated answers? {#q033}
 
@@ -2587,7 +2593,7 @@ Sources: [\[SRC-943\]](#src-943) [\[SRC-671\]](#src-671) [\[SRC-698\]](#src-698)
 
 **Related questions:** [Q261](#q261), [Q005](#q005), [Q121](#q121), [Q031](#q031), [Q032](#q032)
 
-**What changed in Edition 117:** Expanded to six sections, adding cross-national survey evidence, trust-formation research, classroom studies, teacher-education gaps and the integration-versus-protection debate. All original claims are preserved, sources are attributed, and three cross-references are added. [(685 → 2,119 words · 10 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, adding cross-national survey evidence, trust-formation research, classroom studies, teacher-education gaps and the integration-versus-protection debate. All original claims are preserved, sources are attributed, and three cross-references are added. [(685 → 2,119 words · 10 new sources)]{.small}
 
 ### Q034 What new literacies (AI literacy, prompt literacy, epistemic hygiene) become as fundamental as reading and writing? {#q034}
 
@@ -2635,7 +2641,7 @@ Sources: [\[SRC-1387\]](#src-1387) [\[SRC-206\]](#src-206) [\[SRC-1303\]](#src-1
 
 **Related questions:** [Q037](#q037), [Q031](#q031), [Q032](#q032), [Q033](#q033), [Q035](#q035)
 
-**What changed in Edition 117:** Expanded to six sections, added evidence on data bias, delegation criteria, misinformation legislation, cognitive autonomy and early critical thinking, flagged the disputed durability of prompt literacy, and added cross-references. [(748 → 2,175 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, added evidence on data bias, delegation criteria, misinformation legislation, cognitive autonomy and early critical thinking, flagged the disputed durability of prompt literacy, and added cross-references. [(748 → 2,175 words · 5 new sources)]{.small}
 
 ### Q035 What is the promise and the peril of AI-driven accessibility for learners with disabilities, neurodivergence, or language barriers, from the learner's own perspective? {#q035}
 
@@ -2687,7 +2693,7 @@ Sources: [\[SRC-1265\]](#src-1265) [\[SRC-1306\]](#src-1306) [\[SRC-071\]](#src-
 
 **Related questions:** [Q233](#q233), [Q031](#q031), [Q032](#q032), [Q033](#q033), [Q034](#q034)
 
-**What changed in Edition 117:** Expanded and restructured the answer into six unheaded sections. It adds empirical evidence from recent language-learning and inclusion studies and notes where findings conflict on autonomy and critical thinking, with cross-references. [(781 → 1,798 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer into six unheaded sections. It adds empirical evidence from recent language-learning and inclusion studies and notes where findings conflict on autonomy and critical thinking, with cross-references. [(781 → 1,798 words · 8 new sources)]{.small}
 
 ### Q036 What does self-directed, lifelong learning look like when everyone has a personal AI mentor? {#q036}
 
@@ -2737,7 +2743,7 @@ Sources: [\[SRC-902\]](#src-902) [\[SRC-787\]](#src-787) [\[SRC-330\]](#src-330)
 
 **Related questions:** [Q025](#q025), [Q120](#q120), [Q121](#q121), [Q233](#q233), [Q031](#q031)
 
-**What changed in Edition 117:** Expanded to about 2,000 words with OpenAlex evidence on distance learners, AI coaching, ethics, teacher competence, employability and SkillsFuture; flagged the disputed autonomy evidence, added caveats on trial generalisability and cross-references. [(769 → 2,202 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to about 2,000 words with OpenAlex evidence on distance learners, AI coaching, ethics, teacher competence, employability and SkillsFuture; flagged the disputed autonomy evidence, added caveats on trial generalisability and cross-references. [(769 → 2,202 words · 9 new sources)]{.small}
 
 ### Q037 How do we protect and develop memory, attention, and deep reading in an AI-saturated environment? {#q037}
 
@@ -2793,7 +2799,7 @@ Sources: [\[SRC-233\]](#src-233) [\[SRC-337\]](#src-337) [\[SRC-1404\]](#src-140
 
 **Related questions:** [Q034](#q034), [Q031](#q031), [Q032](#q032), [Q033](#q033), [Q035](#q035)
 
-**What changed in Edition 117:** Expanded and reorganized into six sections, adding evidence from Chardonnens, Lau et al., Seneviratne et al., Salgado Granda et al., and Grossberg, flagging disputed findings on AI use and critical thinking, and adding cross-references. [(908 → 1,931 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganized into six sections, adding evidence from Chardonnens, Lau et al., Seneviratne et al., Salgado Granda et al., and Grossberg, flagging disputed findings on AI use and critical thinking, and adding cross-references. [(908 → 1,931 words · 5 new sources)]{.small}
 
 ### Q118 How does always-available tutoring change help-seeking behaviour and peer learning? {#q118}
 
@@ -2859,7 +2865,7 @@ Sources: [\[SRC-292\]](#src-292) [\[SRC-376\]](#src-376) [\[SRC-978\]](#src-978)
 
 **Related questions:** [Q121](#q121), [Q031](#q031), [Q032](#q032), [Q033](#q033), [Q034](#q034)
 
-**What changed in Edition 117:** Expanded and reorganised into seven sections, adding recent evidence on stress, procrastination and AI help-seeking, AI-orchestrated peer discussion, longitudinal usage and multilingual equity, with explicit correlational caveats and cross-references. [(905 → 2,117 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into seven sections, adding recent evidence on stress, procrastination and AI help-seeking, AI-orchestrated peer discussion, longitudinal usage and multilingual equity, with explicit correlational caveats and cross-references. [(905 → 2,117 words · 6 new sources)]{.small}
 
 ### Q120 What does AI assistance do to students' self-assessment accuracy and metacognition? {#q120}
 
@@ -2919,7 +2925,7 @@ Sources: [\[SRC-678\]](#src-678) [\[SRC-541\]](#src-541) [\[SRC-429\]](#src-429)
 
 **Related questions:** [Q036](#q036), [Q121](#q121), [Q261](#q261), [Q031](#q031), [Q032](#q032)
 
-**What changed in Edition 117:** Expanded to six sections integrating two systematic reviews, a GenAI-SRL measurement study and a 1,761-student dispositional survey. Added prose attribution, flagged the AI-versus-human tone debate as disputed, and added cross-references to Q033, Q118 and Q261. [(838 → 1,912 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections integrating two systematic reviews, a GenAI-SRL measurement study and a 1,761-student dispositional survey. Added prose attribution, flagged the AI-versus-human tone debate as disputed, and added cross-references to Q033, Q118 and Q261. [(838 → 1,912 words · 4 new sources)]{.small}
 
 ### Q121 How is AI reshaping collaboration, peer help, and cheating norms within student cultures? {#q121}
 
@@ -2959,7 +2965,7 @@ Sources: [\[SRC-1394\]](#src-1394) [\[SRC-542\]](#src-542) [\[SRC-395\]](#src-39
 
 **Related questions:** [Q118](#q118), [Q033](#q033), [Q036](#q036), [Q120](#q120), [Q031](#q031)
 
-**What changed in Edition 117:** Expanded and restructured the answer with peer-reviewed evidence on high-school cheating rates, indirect and peer-attributed measurement, AI-structured collaboration, and essay analysis. It also flags Wiley as an industry survey and adds cross-references. [(868 → 1,961 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer with peer-reviewed evidence on high-school cheating rates, indirect and peer-attributed measurement, AI-structured collaboration, and essay analysis. It also flags Wiley as an industry survey and adds cross-references. [(868 → 1,961 words · 7 new sources)]{.small}
 
 ### Q233 What are the specific opportunities and risks of AI-powered personalisation for gifted and high-ability learners? {#q233}
 
@@ -3015,7 +3021,7 @@ Sources: [\[SRC-2169\]](#src-2169) [\[SRC-2170\]](#src-2170) [\[SRC-1008\]](#src
 
 **Related questions:** [Q032](#q032), [Q035](#q035), [Q036](#q036), [Q031](#q031), [Q033](#q033)
 
-**What changed in Edition 118:** This revision adds recent work on content limits in adaptive platforms, a purpose-built gifted tutoring framework, teachable-agent designs, inclusive-education mapping and low-income access, while keeping all earlier claims, cautions and cross-references. [(2,056 → 2,489 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: This revision adds recent work on content limits in adaptive platforms, a purpose-built gifted tutoring framework, teachable-agent designs, inclusive-education mapping and low-income access, while keeping all earlier claims, cautions and cross-references. [(2,056 → 2,489 words · 5 new sources)]{.small}
 
 ### Q261 What evidence, if any, links a student's AI usage patterns in early adolescence to their academic independence, metacognition, and critical thinking in later years? {#q261}
 
@@ -3058,6 +3064,8 @@ The research gap is clear. Answering the question would require longitudinal stu
 Sources: [\[SRC-1441\]](#src-1441) [\[SRC-1442\]](#src-1442) [\[SRC-1414\]](#src-1414) [\[SRC-1413\]](#src-1413) [\[SRC-1431\]](#src-1431) [\[SRC-297\]](#src-297) [\[SRC-1443\]](#src-1443) [\[SRC-1444\]](#src-1444) [\[SRC-1445\]](#src-1445) [\[SRC-1446\]](#src-1446) [\[SRC-1447\]](#src-1447) [\[SRC-1448\]](#src-1448)
 
 **Related questions:** [Q033](#q033), [Q120](#q120), [Q031](#q031), [Q032](#q032), [Q034](#q034)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 5: Institutions and Systems {#chapter-05}
 
@@ -3107,7 +3115,7 @@ Sources: [\[SRC-1230\]](#src-1230) [\[SRC-613\]](#src-613) [\[SRC-1289\]](#src-1
 
 **Related questions:** [Q039](#q039), [Q042](#q042), [Q040](#q040), [Q041](#q041), [Q043](#q043)
 
-**What changed in Edition 117:** Expanded to six sections integrating peer-reviewed work on competency frameworks, AI-driven personalization, non-formal decentralized education and higher-education disruption; flagged non-research sources and vendor statistics; added cross-references to Q039, Q040, Q043 and Q126. [(725 → 2,211 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections integrating peer-reviewed work on competency frameworks, AI-driven personalization, non-formal decentralized education and higher-education disruption; flagged non-research sources and vendor statistics; added cross-references to Q039, Q040, Q043 and Q126. [(725 → 2,211 words · 8 new sources)]{.small}
 
 ### Q039 How should curricula be redesigned when factual content is instantly accessible and rapidly obsolete? {#q039}
 
@@ -3175,7 +3183,7 @@ Sources: [\[SRC-1183\]](#src-1183) [\[SRC-370\]](#src-370) [\[SRC-534\]](#src-53
 
 **Related questions:** [Q038](#q038), [Q040](#q040), [Q041](#q041), [Q042](#q042), [Q043](#q043)
 
-**What changed in Edition 117:** Expanded to six continuous unheaded sections, added evidence from Zhao, Qin, Zhang and Liu, Babacan, Almusharraf, Sharma, Thind and Lopez-Gazpio, qualified the vendor statistic, flagged disputes, and added cross-references. [(761 → 2,096 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six continuous unheaded sections, added evidence from Zhao, Qin, Zhang and Liu, Babacan, Almusharraf, Sharma, Thind and Lopez-Gazpio, qualified the vendor statistic, flagged disputes, and added cross-references. [(761 → 2,096 words · 8 new sources)]{.small}
 
 ### Q040 What is the future of universities, credentials, and degrees when skills can be learned and demonstrated outside institutions? {#q040}
 
@@ -3221,7 +3229,7 @@ Sources: [\[SRC-1279\]](#src-1279) [\[SRC-998\]](#src-998) [\[SRC-934\]](#src-93
 
 **Related questions:** [Q126](#q126), [Q279](#q279), [Q038](#q038), [Q039](#q039), [Q041](#q041)
 
-**What changed in Edition 117:** Expanded and restructured as continuous unheaded prose, adding peer-reviewed evidence on AI-driven credential integrity, European open credentials, LLM-assisted recognition and learner perceptions, flagging vendor statistics, and cross-referencing Q039, Q042 and Q056. [(813 → 2,067 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured as continuous unheaded prose, adding peer-reviewed evidence on AI-driven credential integrity, European open credentials, LLM-assisted recognition and learner perceptions, flagging vendor statistics, and cross-referencing Q039, Q042 and Q056. [(813 → 2,067 words · 5 new sources)]{.small}
 
 ### Q041 How can public education systems keep pace with private AI development without surrendering governance to tech companies? {#q041}
 
@@ -3269,7 +3277,7 @@ Sources: [\[SRC-025\]](#src-025) [\[SRC-486\]](#src-486) [\[SRC-1132\]](#src-113
 
 **Related questions:** [Q043](#q043), [Q126](#q126), [Q279](#q279), [Q124](#q124), [Q235](#q235)
 
-**What changed in Edition 117:** Deepened from about 953 to about 2130 words in heading-free sections, adding 4 recent peer-reviewed sources while keeping the earlier text and its sources. [(953 → 2,130 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 953 to about 2130 words in heading-free sections, adding 4 recent peer-reviewed sources while keeping the earlier text and its sources. [(953 → 2,130 words · 4 new sources)]{.small}
 
 ### Q042 Who has legitimate authority to govern AI in education — states, markets, professions, or communities — and on what principles? {#q042}
 
@@ -3317,7 +3325,7 @@ Sources: [\[SRC-802\]](#src-802) [\[SRC-1134\]](#src-1134) [\[SRC-1351\]](#src-1
 
 **Related questions:** [Q038](#q038), [Q043](#q043), [Q039](#q039), [Q040](#q040), [Q041](#q041)
 
-**What changed in Edition 117:** Expanded to six sections, added evidence from pharmacy regulators, AI terms-of-use enforceability, academic integrity governance, Thomistic accountability and liquidation oversight, flagged principle-versus-mandate disagreement, and added cross-references to Q041, Q234 and Q235. [(893 → 1,908 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, added evidence from pharmacy regulators, AI terms-of-use enforceability, academic integrity governance, Thomistic accountability and liquidation oversight, flagged principle-versus-mandate disagreement, and added cross-references to Q041, Q234 and Q235. [(893 → 1,908 words · 5 new sources)]{.small}
 
 ### Q043 How do developing nations avoid a new "AI colonialism" in education while leapfrogging infrastructure gaps? {#q043}
 
@@ -3363,7 +3371,7 @@ Sources: [\[SRC-505\]](#src-505) [\[SRC-658\]](#src-658) [\[SRC-647\]](#src-647)
 
 **Related questions:** [Q041](#q041), [Q042](#q042), [Q122](#q122), [Q279](#q279), [Q038](#q038)
 
-**What changed in Edition 117:** Expanded into a seven-section essay adding leapfrogging-versus-absorptive-capacity, energy-independence, health-system readiness, asset-ownership and reglobalization evidence, attributing every claim, flagging disputed multipolarity, and cross-referencing Q041, Q042, Q122, Q124 and Q235. [(830 → 1,990 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into a seven-section essay adding leapfrogging-versus-absorptive-capacity, energy-independence, health-system readiness, asset-ownership and reglobalization evidence, attributing every claim, flagging disputed multipolarity, and cross-referencing Q041, Q042, Q122, Q124 and Q235. [(830 → 1,990 words · 7 new sources)]{.small}
 
 ### Q122 What is the total cost of AI to a school system, including licences, infrastructure, training, and staff time? {#q122}
 
@@ -3429,7 +3437,7 @@ Sources: [\[SRC-982\]](#src-982) [\[SRC-983\]](#src-983) [\[SRC-1050\]](#src-105
 
 **Related questions:** [Q279](#q279), [Q043](#q043), [Q038](#q038), [Q039](#q039), [Q040](#q040)
 
-**What changed in Edition 117:** Deepened from about 888 to about 2097 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(888 → 2,097 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 888 to about 2097 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(888 → 2,097 words · 5 new sources)]{.small}
 
 ### Q124 What happens to a school when its AI vendor raises prices, is acquired, or ceases operation? {#q124}
 
@@ -3485,7 +3493,7 @@ Sources: [\[SRC-525\]](#src-525) [\[SRC-537\]](#src-537) [\[SRC-903\]](#src-903)
 
 **Related questions:** [Q234](#q234), [Q041](#q041), [Q126](#q126), [Q235](#q235), [Q279](#q279)
 
-**What changed in Edition 117:** Converted the bulleted list of contractual safeguards in the fifth section into running prose to remove the disallowed list format. All other content, wording, sources and reliability labels are unchanged. [(984 → 2,058 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the bulleted list of contractual safeguards in the fifth section into running prose to remove the disallowed list format. All other content, wording, sources and reliability labels are unchanged. [(984 → 2,058 words · 5 new sources)]{.small}
 
 ### Q126 What organisational conditions distinguish institutions that adopt AI successfully from those that do not? {#q126}
 
@@ -3537,7 +3545,7 @@ Sources: [\[SRC-982\]](#src-982) [\[SRC-1364\]](#src-1364) [\[SRC-1050\]](#src-1
 
 **Related questions:** [Q041](#q041), [Q040](#q040), [Q124](#q124), [Q235](#q235), [Q279](#q279)
 
-**What changed in Edition 117:** Expanded with recent reviews and surveys on school-leadership governance, low-income and developing-country contexts, and staff perceptions; softened causal claims; flagged unverified cost thresholds; added cross-references and noted disagreement about transferability. [(879 → 2,084 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded with recent reviews and surveys on school-leadership governance, low-income and developing-country contexts, and staff perceptions; softened causal claims; flagged unverified cost thresholds; added cross-references and noted disagreement about transferability. [(879 → 2,084 words · 6 new sources)]{.small}
 
 ### Q234 What data-protection and contractual clauses should every school-AI vendor agreement contain to safeguard student data and institutional interests? {#q234}
 
@@ -3584,6 +3592,8 @@ None of these clauses guarantees good conduct, and enforcement depends on school
 Sources: [\[SRC-1423\]](#src-1423) [\[SRC-1449\]](#src-1449) [\[SRC-1450\]](#src-1450) [\[SRC-1451\]](#src-1451) [\[SRC-1424\]](#src-1424) [\[SRC-1421\]](#src-1421) [\[SRC-1452\]](#src-1452) [\[SRC-1453\]](#src-1453) [\[SRC-1454\]](#src-1454) [\[SRC-1455\]](#src-1455) [\[SRC-1456\]](#src-1456) [\[SRC-1457\]](#src-1457)
 
 **Related questions:** [Q124](#q124), [Q016](#q016), [Q038](#q038), [Q039](#q039), [Q040](#q040)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q235 What governance structures give teachers, students, and parents meaningful input into a school's AI adoption decisions? {#q235}
 
@@ -3632,6 +3642,8 @@ The research base on which of these structures produces the best educational out
 Sources: [\[SRC-1458\]](#src-1458) [\[SRC-1459\]](#src-1459) [\[SRC-1460\]](#src-1460) [\[SRC-1286\]](#src-1286) [\[SRC-1461\]](#src-1461) [\[SRC-1432\]](#src-1432) [\[SRC-1462\]](#src-1462) [\[SRC-1463\]](#src-1463) [\[SRC-087\]](#src-087) [\[SRC-1464\]](#src-1464) [\[SRC-1465\]](#src-1465) [\[SRC-1466\]](#src-1466)
 
 **Related questions:** [Q041](#q041), [Q124](#q124), [Q126](#q126), [Q279](#q279), [Q038](#q038)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q279 How are leading universities building institution-wide AI strategies — including campus-wide generative-AI licences — that balance innovation, governance, and academic freedom? {#q279}
 
@@ -3711,7 +3723,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor follow-up policy analyses of leading universities, published evaluations of institutional licence deployments, and surveys of academic staff on perceived freedom to choose AI tools.
 -   *Related questions:* [Q040](#q040), [Q042](#q042), [Q122](#q122), [Q124](#q124), [Q126](#q126), [Q234](#q234), [Q235](#q235).
 
-**What changed in Edition 118:** New in this edition: examines how universities construct institution-wide AI strategies and campus licences, the governance frameworks shaping them, and the academic-freedom trade-offs of central provision versus devolved discretion. [(0 → 2,137 words · 14 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: examines how universities construct institution-wide AI strategies and campus licences, the governance frameworks shaping them, and the academic-freedom trade-offs of central provision versus devolved discretion. [(0 → 2,137 words · 14 new sources)]{.small}
 
 ## Chapter 6: Work, Economy, and Society {#chapter-06}
 
@@ -3759,7 +3771,7 @@ Sources: [\[SRC-718\]](#src-718) [\[SRC-032\]](#src-032) [\[SRC-462\]](#src-462)
 
 **Related questions:** [Q046](#q046), [Q127](#q127), [Q129](#q129), [Q131](#q131), [Q262](#q262)
 
-**What changed in Edition 117:** Expanded and restructured into six sections, attributed every statistic to a named source, flagged vendor and blog data, added peer-reviewed evidence on creativity, entrepreneurial judgement, digital-skill wage correlations and policy, and cross-referenced Q127, Q128, Q130 and Q050. [(1,096 → 2,194 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections, attributed every statistic to a named source, flagged vendor and blog data, added peer-reviewed evidence on creativity, entrepreneurial judgement, digital-skill wage correlations and policy, and cross-referenced Q127, Q128, Q130 and Q050. [(1,096 → 2,194 words · 5 new sources)]{.small}
 
 ### Q045 How should education respond to the possible decoupling of learning from employment (if AI displaces large categories of work)? {#q045}
 
@@ -3835,7 +3847,7 @@ Sources: [\[SRC-1292\]](#src-1292) [\[SRC-283\]](#src-283) [\[SRC-109\]](#src-10
 
 **Related questions:** [Q047](#q047), [Q128](#q128), [Q044](#q044), [Q046](#q046), [Q048](#q048)
 
-**What changed in Edition 117:** Expanded the essay with attributed sourcing and new evidence on firm-level automation, regional wage inequality, work and wellbeing, alternative organizing, and AI creativity, while flagging disputed claims and adding cross-references to Q048, Q102, Q127, Q128 and Q130. [(809 → 2,169 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded the essay with attributed sourcing and new evidence on firm-level automation, regional wage inequality, work and wellbeing, alternative organizing, and AI creativity, while flagging disputed claims and adding cross-references to Q048, Q102, Q127, Q128 and Q130. [(809 → 2,169 words · 8 new sources)]{.small}
 
 ### Q046 What is the role of education in a society where economic productivity no longer requires most human labor — education for meaning rather than for jobs? {#q046}
 
@@ -3879,7 +3891,7 @@ Sources: [\[SRC-1236\]](#src-1236) [\[SRC-1238\]](#src-1238) [\[SRC-791\]](#src-
 
 **Related questions:** [Q044](#q044), [Q049](#q049), [Q127](#q127), [Q262](#q262), [Q005](#q005)
 
-**What changed in Edition 117:** Expanded with recent economics evidence (Saam, Shen and Zhang, Saba and Ngepah, Davidson) that disputes the post-work premise, added augmentation and creativity findings, attributed all claims, and added cross-references. [(711 → 1,828 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded with recent economics evidence (Saam, Shen and Zhang, Saba and Ngepah, Davidson) that disputes the post-work premise, added augmentation and creativity findings, attributed all claims, and added cross-references. [(711 → 1,828 words · 9 new sources)]{.small}
 
 ### Q047 How do we manage the transition for current workers whose skills are being obsoleted faster than retraining systems can respond? {#q047}
 
@@ -3927,7 +3939,7 @@ Sources: [\[SRC-1403\]](#src-1403) [\[SRC-1114\]](#src-1114) [\[SRC-1193\]](#src
 
 **Related questions:** [Q130](#q130), [Q045](#q045), [Q050](#q050), [Q128](#q128), [Q262](#q262)
 
-**What changed in Edition 117:** Expanded to roughly 2,000 words, attributed every statistic to its source, flagged vendor and projection limits, added fresh 2024–2026 evidence on entrepreneurship, expiring knowledge, emotional skills, professional deskilling and value distribution, and added cross-references. [(834 → 1,994 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to roughly 2,000 words, attributed every statistic to its source, flagged vendor and projection limits, added fresh 2024–2026 evidence on entrepreneurship, expiring knowledge, emotional skills, professional deskilling and value distribution, and added cross-references. [(834 → 1,994 words · 7 new sources)]{.small}
 
 ### Q048 How does AI in education affect democracy — the formation of citizens capable of judgment, deliberation, and resistance to manipulation? {#q048}
 
@@ -3975,7 +3987,7 @@ Sources: [\[SRC-017\]](#src-017) [\[SRC-1253\]](#src-1253) [\[SRC-641\]](#src-64
 
 **Related questions:** [Q044](#q044), [Q045](#q045), [Q046](#q046), [Q047](#q047), [Q049](#q049)
 
-**What changed in Edition 117:** Expanded to six sections integrating Ferdman, Sharadin, Palese, Rieger and Haim, Subías-Beltrán, Schwarting and Reihlen, Hidalgo, and Seceleanu and Stoia; flagged vendor commentary, clarified evidentiary limits, added cross-references. [(726 → 1,895 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections integrating Ferdman, Sharadin, Palese, Rieger and Haim, Subías-Beltrán, Schwarting and Reihlen, Hidalgo, and Seceleanu and Stoia; flagged vendor commentary, clarified evidentiary limits, added cross-references. [(726 → 1,895 words · 8 new sources)]{.small}
 
 ### Q049 What shared human culture and values should education transmit when AI fragments information into personalized realities? {#q049}
 
@@ -4025,7 +4037,7 @@ Sources: [\[SRC-883\]](#src-883) [\[SRC-668\]](#src-668) [\[SRC-669\]](#src-669)
 
 **Related questions:** [Q050](#q050), [Q046](#q046), [Q044](#q044), [Q045](#q045), [Q047](#q047)
 
-**What changed in Edition 117:** Expanded to six sections that add evidence on personalization gains (Wang 2026; Bagdonaitė & Dagienė 2025), information integrity, heritage authenticity, Indigenous reciprocity and formation. The revision states disagreements plainly and adds cross-references to Q003, Q005, Q013 and Q046. [(708 → 2,132 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections that add evidence on personalization gains (Wang 2026; Bagdonaitė & Dagienė 2025), information integrity, heritage authenticity, Indigenous reciprocity and formation. The revision states disagreements plainly and adds cross-references to Q003, Q005, Q013 and Q046. [(708 → 2,132 words · 8 new sources)]{.small}
 
 ### Q050 Which current decisions about AI in education do researchers and policymakers identify as most consequential, and on what grounds? {#q050}
 
@@ -4071,7 +4083,7 @@ Sources: [\[SRC-943\]](#src-943) [\[SRC-641\]](#src-641) [\[SRC-851\]](#src-851)
 
 **Related questions:** [Q049](#q049), [Q047](#q047), [Q262](#q262), [Q044](#q044), [Q045](#q045)
 
-**What changed in Edition 117:** Expanded into six sections with explicit source attribution, and added governance scholarship (Emery-Xu et al., Bagonza and Ndungu, Osadchyi et al., Bashir and Lapshun) and status-legitimacy evidence (Schenk et al.). Clarified evidence strength and added cross-references to related questions. [(811 → 2,223 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six sections with explicit source attribution, and added governance scholarship (Emery-Xu et al., Bagonza and Ndungu, Osadchyi et al., Bashir and Lapshun) and status-legitimacy evidence (Schenk et al.). Clarified evidence strength and added cross-references to related questions. [(811 → 2,223 words · 5 new sources)]{.small}
 
 ### Q127 Which educational credentials are losing labour-market signalling value because of AI, and which are gaining it? {#q127}
 
@@ -4131,7 +4143,7 @@ Sources: [\[SRC-1314\]](#src-1314) [\[SRC-420\]](#src-420) [\[SRC-378\]](#src-37
 
 **Related questions:** [Q044](#q044), [Q262](#q262), [Q046](#q046), [Q128](#q128), [Q129](#q129)
 
-**What changed in Edition 117:** Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(836 → 2,080 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(836 → 2,080 words · 6 new sources)]{.small}
 
 ### Q128 How is AI changing entry-level work, and what does that mean for the school-to-work transition? {#q128}
 
@@ -4177,7 +4189,7 @@ Sources: [\[SRC-763\]](#src-763) [\[SRC-393\]](#src-393) [\[SRC-1129\]](#src-112
 
 **Related questions:** [Q045](#q045), [Q047](#q047), [Q127](#q127), [Q130](#q130), [Q044](#q044)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections, adding source caveats (working paper, journalism, vendor perspectives), three new studies on work-based learning, faculty AI literacy and AI-integration typology, explicit disagreements, and cross-references. [(923 → 2,031 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections, adding source caveats (working paper, journalism, vendor perspectives), three new studies on work-based learning, faculty AI literacy and AI-integration typology, explicit disagreements, and cross-references. [(923 → 2,031 words · 3 new sources)]{.small}
 
 ### Q129 What is happening to the economics of private tutoring, test preparation, and supplementary education? {#q129}
 
@@ -4235,7 +4247,7 @@ Sources: [\[SRC-822\]](#src-822) [\[SRC-1186\]](#src-1186) [\[SRC-952\]](#src-95
 
 **Related questions:** [Q044](#q044), [Q127](#q127), [Q130](#q130), [Q131](#q131), [Q045](#q045)
 
-**What changed in Edition 117:** Expanded and reorganised the answer, attributed all market figures to named research firms with caveats, added evidence on shadow education, AI tutoring engagement, gifted education and fairness, and cross-referenced Q131 and Q127. [(823 → 1,925 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised the answer, attributed all market figures to named research firms with caveats, added evidence on shadow education, AI tutoring engagement, gifted education and fairness, and cross-referenced Q131 and Q127. [(823 → 1,925 words · 4 new sources)]{.small}
 
 ### Q130 How is AI affecting adult retraining and mid-career education systems? {#q130}
 
@@ -4295,7 +4307,7 @@ Sources: [\[SRC-949\]](#src-949) [\[SRC-377\]](#src-377) [\[SRC-859\]](#src-859)
 
 **Related questions:** [Q047](#q047), [Q128](#q128), [Q129](#q129), [Q044](#q044), [Q045](#q045)
 
-**What changed in Edition 117:** Deepened from about 928 to about 1946 words in heading-free sections, adding 7 recent peer-reviewed sources while keeping the earlier text and its sources. [(928 → 1,946 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 928 to about 1946 words in heading-free sections, adding 7 recent peer-reviewed sources while keeping the earlier text and its sources. [(928 → 1,946 words · 7 new sources)]{.small}
 
 ### Q131 Who profits from AI in education, and what business models are emerging around students? {#q131}
 
@@ -4363,7 +4375,7 @@ Sources: [\[SRC-753\]](#src-753) [\[SRC-924\]](#src-924) [\[SRC-969\]](#src-969)
 
 **Related questions:** [Q044](#q044), [Q127](#q127), [Q129](#q129), [Q262](#q262), [Q045](#q045)
 
-**What changed in Edition 117:** Expanded to six sections that treat market forecasts as contested commercial estimates and attribute vendor statistics explicitly. Adds peer-reviewed evidence on student and educator perceptions, data-driven micro-targeting and uneven global adoption, plus cross-references. Converted the bulleted list in the final section into running prose to comply with the no-lists rule. [(865 → 2,061 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections that treat market forecasts as contested commercial estimates and attribute vendor statistics explicitly. Adds peer-reviewed evidence on student and educator perceptions, data-driven micro-targeting and uneven global adoption, plus cross-references. Converted the bulleted list in the final section into running prose to comply with the no-lists rule. [(865 → 2,061 words · 7 new sources)]{.small}
 
 ### Q262 What micro-credentials, digital badges, and AI-verified competency records are emerging as alternatives or supplements to traditional degrees, and what is their current labour-market traction? {#q262}
 
@@ -4408,6 +4420,8 @@ The overall picture is one of rapid growth in supply, maturing technical standar
 Sources: [\[SRC-1467\]](#src-1467) [\[SRC-1468\]](#src-1468) [\[SRC-1469\]](#src-1469) [\[SRC-1470\]](#src-1470) [\[SRC-1471\]](#src-1471) [\[SRC-1472\]](#src-1472) [\[SRC-1473\]](#src-1473) [\[SRC-1474\]](#src-1474) [\[SRC-1475\]](#src-1475) [\[SRC-1476\]](#src-1476) [\[SRC-1477\]](#src-1477) [\[SRC-1478\]](#src-1478)
 
 **Related questions:** [Q127](#q127), [Q044](#q044), [Q046](#q046), [Q047](#q047), [Q050](#q050)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 7: The Evidence Base — What Research Actually Shows {#chapter-07}
 
@@ -4471,7 +4485,7 @@ Sources: [\[SRC-550\]](#src-550) [\[SRC-019\]](#src-019) [\[SRC-376\]](#src-376)
 
 **Related questions:** [Q059](#q059), [Q054](#q054), [Q056](#q056), [Q058](#q058), [Q053](#q053)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections. Added named attributions, adjacent-field reviews (nursing, medical, mathematics), meta-analytic and self-regulation evidence, equity findings and cross-references. Distinguished established from emerging and disputed claims. [(694 → 2,043 words · 11 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections. Added named attributions, adjacent-field reviews (nursing, medical, mathematics), meta-analytic and self-regulation evidence, equity findings and cross-references. Distinguished established from emerging and disputed claims. [(694 → 2,043 words · 11 new sources)]{.small}
 
 ### Q052 What does research reveal about how students actually use generative AI when unsupervised — as distinct from how they report using it? {#q052}
 
@@ -4523,7 +4537,7 @@ Sources: [\[SRC-1144\]](#src-1144) [\[SRC-1145\]](#src-1145) [\[SRC-174\]](#src-
 
 **Related questions:** [Q053](#q053), [Q056](#q056), [Q058](#q058), [Q059](#q059), [Q273](#q273)
 
-**What changed in Edition 117:** Expanded to six sections; added observational evidence (Yan 2026), ethics-scale findings (Pérez-Portabella 2026), guideline and faculty studies; flagged Copyleaks as vendor data; attributed all figures; added cross-references and explicit methodological limits. [(736 → 2,029 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections; added observational evidence (Yan 2026), ethics-scale findings (Pérez-Portabella 2026), guideline and faculty studies; flagged Copyleaks as vendor data; attributed all figures; added cross-references and explicit methodological limits. [(736 → 2,029 words · 5 new sources)]{.small}
 
 ### Q053 What is currently known from cognitive science about AI's effects on memory formation, retention, and transfer of learning? {#q053}
 
@@ -4565,7 +4579,7 @@ Sources: [\[SRC-335\]](#src-335) [\[SRC-823\]](#src-823) [\[SRC-1207\]](#src-120
 
 **Related questions:** [Q059](#q059), [Q051](#q051), [Q052](#q052), [Q058](#q058), [Q015](#q015)
 
-**What changed in Edition 117:** Expanded to an essay with no headings, adding Agentivism theory, a childhood digital-device review, NLP misconception detection and a memory-as-salience perspective, with clearer evidence-strength labels and cross-references to Q015, Q051, Q054, Q092 and Q263. [(751 → 2,079 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to an essay with no headings, adding Agentivism theory, a childhood digital-device review, NLP misconception detection and a memory-as-salience perspective, with clearer evidence-strength labels and cross-references to Q015, Q051, Q054, Q092 and Q263. [(751 → 2,079 words · 4 new sources)]{.small}
 
 ### Q054 What does the evidence show about AI's impact on writing skill development, from early literacy through academic and professional writing? {#q054}
 
@@ -4621,7 +4635,7 @@ Sources: [\[SRC-402\]](#src-402) [\[SRC-1356\]](#src-1356) [\[SRC-263\]](#src-26
 
 **Related questions:** [Q051](#q051), [Q056](#q056), [Q059](#q059), [Q060](#q060), [Q055](#q055)
 
-**What changed in Edition 117:** Deepened from about 720 to about 1971 words in heading-free sections, adding 9 recent peer-reviewed sources while keeping the earlier text and its sources. [(720 → 1,971 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 720 to about 1971 words in heading-free sections, adding 9 recent peer-reviewed sources while keeping the earlier text and its sources. [(720 → 1,971 words · 9 new sources)]{.small}
 
 ### Q055 What have studies found about AI feedback compared with human feedback — in accuracy, usefulness, and student receptivity? {#q055}
 
@@ -4679,7 +4693,7 @@ Sources: [\[SRC-610\]](#src-610) [\[SRC-270\]](#src-270) [\[SRC-693\]](#src-693)
 
 **Related questions:** [Q058](#q058), [Q051](#q051), [Q054](#q054), [Q056](#q056), [Q059](#q059)
 
-**What changed in Edition 117:** Expanded with effect sizes, confidence intervals and samples from new meta-analyses and trials. Added evidence that perception and learning can diverge, and that algorithm aversion is contested. Added hybrid-workflow costs and cross-references. [(771 → 1,910 words · 11 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded with effect sizes, confidence intervals and samples from new meta-analyses and trials. Added evidence that perception and learning can diverge, and that algorithm aversion is contested. Added hybrid-workflow costs and cross-references. [(771 → 1,910 words · 11 new sources)]{.small}
 
 ### Q056 What does research show about the reliability of AI-detection tools, and what have institutions learned from relying on them? {#q056}
 
@@ -4727,7 +4741,7 @@ Sources: [\[SRC-798\]](#src-798) [\[SRC-1278\]](#src-1278) [\[SRC-146\]](#src-14
 
 **Related questions:** [Q051](#q051), [Q054](#q054), [Q058](#q058), [Q052](#q052), [Q055](#q055)
 
-**What changed in Edition 117:** Expanded to six sections with attributed evidence, flagged vendor statistics as non-research, added cross-domain studies on detection drift, bias, explainability and overstated vendor claims, and cross-referenced Q052, Q054, Q060 and Q253. [(676 → 2,097 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with attributed evidence, flagged vendor statistics as non-research, added cross-domain studies on detection drift, bias, explainability and overstated vendor claims, and cross-referenced Q052, Q054, Q060 and Q253. [(676 → 2,097 words · 5 new sources)]{.small}
 
 ### Q057 What evidence exists on how AI use affects different learner profiles — high vs. low performers, younger vs. older students, novices vs. experts? {#q057}
 
@@ -4797,7 +4811,7 @@ Sources: [\[SRC-376\]](#src-376) [\[SRC-825\]](#src-825) [\[SRC-893\]](#src-893)
 
 **Related questions:** [Q051](#q051), [Q054](#q054), [Q059](#q059), [Q060](#q060), [Q136](#q136)
 
-**What changed in Edition 117:** Expanded and reorganised the answer. It adds the Choi et al. law-school RCT as counter-evidence on equalisation, person-centred profile studies on motivation and AI literacy, explicit source attribution, a caveat on aggregator statistics, and cross-references. [(1,095 → 2,034 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised the answer. It adds the Choi et al. law-school RCT as counter-evidence on equalisation, person-centred profile studies on motivation and AI literacy, explicit source attribution, a caveat on aggregator statistics, and cross-references. [(1,095 → 2,034 words · 4 new sources)]{.small}
 
 ### Q058 What do studies reveal about teachers' actual adoption patterns, workload effects, and attitudes toward AI tools? {#q058}
 
@@ -4859,7 +4873,7 @@ Sources: [\[SRC-1052\]](#src-1052) [\[SRC-526\]](#src-526) [\[SRC-1286\]](#src-1
 
 **Related questions:** [Q051](#q051), [Q055](#q055), [Q056](#q056), [Q059](#q059), [Q052](#q052)
 
-**What changed in Edition 117:** Expanded to six sections adding peer-reviewed acceptance studies from the Philippines, China, Poland, Norway, Morocco, Northern Cyprus, flagging aggregator-sourced statistics, conflicting adoption figures, disputed workload evidence, and disagreement over social influence. [(683 → 1,904 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections adding peer-reviewed acceptance studies from the Philippines, China, Poland, Norway, Morocco, Northern Cyprus, flagging aggregator-sourced statistics, conflicting adoption figures, disputed workload evidence, and disagreement over social influence. [(683 → 1,904 words · 8 new sources)]{.small}
 
 ### Q059 What does current evidence show about AI's effects on student motivation, engagement, and persistence — and how do these findings differ from marketing claims? {#q059}
 
@@ -4935,7 +4949,7 @@ Sources: [\[SRC-246\]](#src-246) [\[SRC-1097\]](#src-1097) [\[SRC-662\]](#src-66
 
 **Related questions:** [Q051](#q051), [Q060](#q060), [Q053](#q053), [Q054](#q054), [Q058](#q058)
 
-**What changed in Edition 117:** Reorganised into six unheaded sections, added a generative-AI motivation meta-analysis and several quasi-experimental and survey studies with their design limits, clarified correlational and educator-sample findings, and added cross-references. [(736 → 2,034 words · 11 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Reorganised into six unheaded sections, added a generative-AI motivation meta-analysis and several quasi-experimental and survey studies with their design limits, clarified correlational and educator-sample findings, and added cross-references. [(736 → 2,034 words · 11 new sources)]{.small}
 
 ### Q060 Which widely repeated claims about AI in education lack solid evidence, and which early findings have failed to replicate? {#q060}
 
@@ -4971,7 +4985,7 @@ Sources: [\[SRC-105\]](#src-105) [\[SRC-042\]](#src-042) [\[SRC-644\]](#src-644)
 
 **Related questions:** [Q059](#q059), [Q054](#q054), [Q051](#q051), [Q057](#q057), [Q136](#q136)
 
-**What changed in Edition 117:** Expanded to six sections that keep all original claims. Added explicit source attribution, caveats on the MIT EEG and Harvard studies, cross-disciplinary evidence on translation gaps, bias and AI assessment reliability, and cross-references to Q051, Q053 and Q059. [(730 → 1,892 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections that keep all original claims. Added explicit source attribution, caveats on the MIT EEG and Harvard studies, cross-disciplinary evidence on translation gaps, bias and AI assessment reliability, and cross-references to Q051, Q053 and Q059. [(730 → 1,892 words · 4 new sources)]{.small}
 
 ### Q136 What are the recurring methodological weaknesses in this literature, and how should a reader discount for them? {#q136}
 
@@ -5033,7 +5047,7 @@ Sources: [\[SRC-955\]](#src-955) [\[SRC-048\]](#src-048) [\[SRC-737\]](#src-737)
 
 **Related questions:** [Q051](#q051), [Q054](#q054), [Q057](#q057), [Q059](#q059), [Q060](#q060)
 
-**What changed in Edition 117:** Added the missing reliability field ("established") to the final section, which had no reliability value. No other content, wording or sources were changed. [(947 → 2,024 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Added the missing reliability field ("established") to the final section, which had no reliability value. No other content, wording or sources were changed. [(947 → 2,024 words · 4 new sources)]{.small}
 
 ### Q263 What systematic reviews and meta-analyses of AI-in-education interventions exist as of 2025–2026, and what do they collectively conclude about effect sizes and methodological quality? {#q263}
 
@@ -5082,6 +5096,8 @@ The measurement architecture that would make future syntheses more reliable, mea
 Sources: [\[SRC-1479\]](#src-1479) [\[SRC-1480\]](#src-1480) [\[SRC-1481\]](#src-1481) [\[SRC-1482\]](#src-1482) [\[SRC-1483\]](#src-1483) [\[SRC-1484\]](#src-1484) [\[SRC-1413\]](#src-1413) [\[SRC-1485\]](#src-1485) [\[SRC-1486\]](#src-1486) [\[SRC-1429\]](#src-1429) [\[SRC-1487\]](#src-1487) [\[SRC-1488\]](#src-1488)
 
 **Related questions:** [Q136](#q136), [Q051](#q051), [Q052](#q052), [Q053](#q053), [Q054](#q054)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q273 Do generative-AI tutors (2023–) improve durable learning, or mainly boost short-term task performance that fades once the tool is removed? {#q273}
 
@@ -5149,7 +5165,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor for follow-up retention data from large tutor trials, replications on standardized tests, and head-to-head comparisons of specific guardrail features.
 -   *Related questions:* [Q057](#q057), [Q059](#q059), [Q136](#q136), [Q263](#q263).
 
-**What changed in Edition 118:** New in this edition: examines whether generative-AI tutors since 2023 produce durable learning or short-lived performance gains, contrasting guardrailed tutor designs with open chatbots and identifying gaps in evidence on retention and transfer. [(0 → 2,124 words · 12 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: examines whether generative-AI tutors since 2023 produce durable learning or short-lived performance gains, contrasting guardrailed tutor designs with open chatbots and identifying gaps in evidence on retention and transfer. [(0 → 2,124 words · 12 new sources)]{.small}
 
 ## Chapter 8: Field Experiences — Case Studies from Real Classrooms {#chapter-08}
 
@@ -5207,7 +5223,7 @@ Sources: [\[SRC-828\]](#src-828) [\[SRC-409\]](#src-409) [\[SRC-826\]](#src-826)
 
 **Related questions:** [Q064](#q064), [Q068](#q068), [Q237](#q237), [Q062](#q062), [Q063](#q063)
 
-**What changed in Edition 117:** Expanded with peer-reviewed evidence on teacher readiness, the access–conversion gap, ICILS digital conditions and PISA achievement predictors. Attributed every statistic to its source and flagged vendor figures. Added cross-references and reliability ratings. [(924 → 1,970 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded with peer-reviewed evidence on teacher readiness, the access–conversion gap, ICILS digital conditions and PISA achievement predictors. Attributed every statistic to its source and flagged vendor figures. Added cross-references and reliability ratings. [(924 → 1,970 words · 9 new sources)]{.small}
 
 ### Q062 What lessons emerge from schools and universities that banned AI, then reversed course — or embraced it, then restricted it? {#q062}
 
@@ -5255,7 +5271,7 @@ Sources: [\[SRC-1108\]](#src-1108) [\[SRC-614\]](#src-614) [\[SRC-1386\]](#src-1
 
 **Related questions:** [Q064](#q064), [Q066](#q066), [Q061](#q061), [Q063](#q063), [Q065](#q065)
 
-**What changed in Edition 117:** Expanded to six sections with attributed evidence, adding international studies from Ireland, Lebanon, Catalonia, China and Nigeria, flagging vendor and perception-based figures, marking the evidence on AI integration as disputed, and adding cross-references. [(880 → 1,973 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with attributed evidence, adding international studies from Ireland, Lebanon, Catalonia, China and Nigeria, flagging vendor and perception-based figures, marking the evidence on AI integration as disputed, and adding cross-references. [(880 → 1,973 words · 6 new sources)]{.small}
 
 ### Q063 What do documented deployments of AI tutors in low-resource and developing-world contexts show about what transfers and what fails? {#q063}
 
@@ -5305,7 +5321,7 @@ Sources: [\[SRC-1288\]](#src-1288) [\[SRC-183\]](#src-183) [\[SRC-1395\]](#src-1
 
 **Related questions:** [Q068](#q068), [Q236](#q236), [Q061](#q061), [Q062](#q062), [Q064](#q064)
 
-**What changed in Edition 117:** Expanded to roughly 2,000 words in six sections, cited all seven original sources, added evidence from Kasie, Emmanuel and Esenogho, Sevilla, Gabrovšek, Dhurumraj and Al-Othman, and added cross-references. [(759 → 1,929 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to roughly 2,000 words in six sections, cited all seven original sources, added evidence from Kasie, Emmanuel and Esenogho, Sevilla, Gabrovšek, Dhurumraj and Al-Othman, and added cross-references. [(759 → 1,929 words · 6 new sources)]{.small}
 
 ### Q064 How have universities restructured courses, assessments, and honor codes in response to generative AI, and with what results? {#q064}
 
@@ -5365,7 +5381,7 @@ Sources: [\[SRC-733\]](#src-733) [\[SRC-1202\]](#src-1202) [\[SRC-399\]](#src-39
 
 **Related questions:** [Q062](#q062), [Q061](#q061), [Q066](#q066), [Q068](#q068), [Q237](#q237)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections, adding flagship-policy mapping, Kurdistan governance audit, assessment-validity analysis and course-integration evidence, attributing every statistic, flagging Turnitin's vendor claim, and adding cross-references to Q062, Q068 and Q237. [(940 → 2,035 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections, adding flagship-policy mapping, Kurdistan governance audit, assessment-validity analysis and course-integration evidence, attributing every statistic, flagging Turnitin's vendor claim, and adding cross-references to Q062, Q068 and Q237. [(940 → 2,035 words · 7 new sources)]{.small}
 
 ### Q065 What have K–12 schools learned from integrating AI into daily instruction — the successes, failures, and unexpected consequences? {#q065}
 
@@ -5433,7 +5449,7 @@ Sources: [\[SRC-328\]](#src-328) [\[SRC-865\]](#src-865) [\[SRC-536\]](#src-536)
 
 **Related questions:** [Q067](#q067), [Q061](#q061), [Q062](#q062), [Q063](#q063), [Q064](#q064)
 
-**What changed in Edition 117:** Expanded to six sourced sections with explicit attribution, new evidence on special education, school leadership, rural teachers, wellbeing and curriculum, clearer reliability judgements, and cross-references to Q056, Q067, Q068 and Q193. [(821 → 2,040 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sourced sections with explicit attribution, new evidence on special education, school leadership, rural teachers, wellbeing and curriculum, clearer reliability judgements, and cross-references to Q056, Q067, Q068 and Q193. [(821 → 2,040 words · 7 new sources)]{.small}
 
 ### Q066 What experiences have emerged from AI use in vocational, technical, and professional training (medicine, law, engineering, trades)? {#q066}
 
@@ -5485,7 +5501,7 @@ Sources: [\[SRC-595\]](#src-595) [\[SRC-396\]](#src-396) [\[SRC-601\]](#src-601)
 
 **Related questions:** [Q062](#q062), [Q064](#q064), [Q068](#q068), [Q061](#q061), [Q063](#q063)
 
-**What changed in Edition 117:** Expanded and restructured into six sections; added Jadjuli (2026), Ramírez-Montoya et al. (2025) and Buizza et al. (2026); flagged vendor statistics; sharpened evidence-quality caveats; added cross-references to Q064, Q068, Q254, Q111. [(917 → 2,025 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections; added Jadjuli (2026), Ramírez-Montoya et al. (2025) and Buizza et al. (2026); flagged vendor statistics; sharpened evidence-quality caveats; added cross-references to Q064, Q068, Q254, Q111. [(917 → 2,025 words · 3 new sources)]{.small}
 
 ### Q067 What can be learned from teachers who have become exemplary AI practitioners — what do they do differently? {#q067}
 
@@ -5533,7 +5549,7 @@ Sources: [\[SRC-138\]](#src-138) [\[SRC-950\]](#src-950) [\[SRC-846\]](#src-846)
 
 **Related questions:** [Q065](#q065), [Q061](#q061), [Q062](#q062), [Q063](#q063), [Q064](#q064)
 
-**What changed in Edition 117:** Deepened from about 1184 to about 1949 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(1,184 → 1,949 words · 3 new sources · 4 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 1184 to about 1949 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(1,184 → 1,949 words · 3 new sources · 4 sources replaced)]{.small}
 
 ### Q068 What documented harms — from data breaches to well-being incidents to learning setbacks — have occurred in real AI deployments, and what changed as a result? {#q068}
 
@@ -5587,7 +5603,7 @@ Sources: [\[SRC-816\]](#src-816) [\[SRC-1296\]](#src-1296) [\[SRC-142\]](#src-14
 
 **Related questions:** [Q063](#q063), [Q236](#q236), [Q061](#q061), [Q064](#q064), [Q066](#q066)
 
-**What changed in Edition 117:** Expanded and restructured into six sections; attributed every statistic to its source, flagged vendor and litigation evidence, and added peer-reviewed well-being research, rural teacher survey data, and Gans's counterargument on governance lag. [(897 → 2,149 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections; attributed every statistic to its source, flagged vendor and litigation evidence, and added peer-reviewed well-being research, rural teacher survey data, and Gans's counterargument on governance lag. [(897 → 2,149 words · 5 new sources)]{.small}
 
 ### Q236 What do documented AI implementations for neurodivergent and special-needs learners show about benefits, limitations, and potential harms? {#q236}
 
@@ -5635,6 +5651,8 @@ Sources: [\[SRC-1489\]](#src-1489) [\[SRC-1490\]](#src-1490) [\[SRC-1491\]](#src
 
 **Related questions:** [Q063](#q063), [Q068](#q068), [Q061](#q061), [Q062](#q062), [Q064](#q064)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q237 What do higher-education early adopters report about long-term student outcomes three or more years after systematic AI integration? {#q237}
 
 12 citations · 12 sources · 5 cross-references
@@ -5680,6 +5698,8 @@ The most defensible conclusion is that the long-term record does not yet exist i
 Sources: [\[SRC-1500\]](#src-1500) [\[SRC-1501\]](#src-1501) [\[SRC-1144\]](#src-1144) [\[SRC-1458\]](#src-1458) [\[SRC-1479\]](#src-1479) [\[SRC-1413\]](#src-1413) [\[SRC-1502\]](#src-1502) [\[SRC-1503\]](#src-1503) [\[SRC-1504\]](#src-1504) [\[SRC-1485\]](#src-1485) [\[SRC-1097\]](#src-1097) [\[SRC-1505\]](#src-1505)
 
 **Related questions:** [Q061](#q061), [Q064](#q064), [Q068](#q068), [Q062](#q062), [Q063](#q063)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 9: Policy and Governance in Practice {#chapter-09}
 
@@ -5749,7 +5769,7 @@ Sources: [\[SRC-584\]](#src-584) [\[SRC-1268\]](#src-1268) [\[SRC-020\]](#src-02
 
 **Related questions:** [Q075](#q075), [Q077](#q077), [Q074](#q074), [Q145](#q145), [Q070](#q070)
 
-**What changed in Edition 117:** Deepened from about 1155 to about 2055 words in heading-free sections, adding 7 recent peer-reviewed sources while keeping the earlier text and its sources. [(1,155 → 2,055 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 1155 to about 2055 words in heading-free sections, adding 7 recent peer-reviewed sources while keeping the earlier text and its sources. [(1,155 → 2,055 words · 7 new sources)]{.small}
 
 ### Q070 What guidance have major international bodies (UNESCO, OECD, EU, and others) issued on AI in education, and how is it being implemented? {#q070}
 
@@ -5837,7 +5857,7 @@ Sources: [\[SRC-355\]](#src-355) [\[SRC-089\]](#src-089) [\[SRC-136\]](#src-136)
 
 **Related questions:** [Q072](#q072), [Q074](#q074), [Q076](#q076), [Q069](#q069), [Q071](#q071)
 
-**What changed in Edition 117:** Converted all bulleted lists (Beijing Consensus commitments, UNESCO policy typology, AI Act high-risk categories, Action Plan measures, other actors, convergence core, implementation gaps) into running prose to remove list formatting; all other content, wording, sources and cross-references unchanged. [(933 → 2,149 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted all bulleted lists (Beijing Consensus commitments, UNESCO policy typology, AI Act high-risk categories, Action Plan measures, other actors, convergence core, implementation gaps) into running prose to remove list formatting; all other content, wording, sources and cross-references unchanged. [(933 → 2,149 words · 4 new sources)]{.small}
 
 ### Q071 What does an effective institutional AI policy contain, and what distinguishes policies that work from those ignored in practice? {#q071}
 
@@ -5921,7 +5941,7 @@ Sources: [\[SRC-461\]](#src-461) [\[SRC-301\]](#src-301) [\[SRC-837\]](#src-837)
 
 **Related questions:** [Q073](#q073), [Q074](#q074), [Q069](#q069), [Q070](#q070), [Q072](#q072)
 
-**What changed in Edition 117:** Expanded to house length with evidence from LaFrance, Alzahrani et al., Atallah, Penev et al. and Varga and Fügedi; flagged the centralisation-versus-delegation dispute; hedged unverified compliance claims; added cross-references. [(870 → 2,141 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to house length with evidence from LaFrance, Alzahrani et al., Atallah, Penev et al. and Varga and Fügedi; flagged the centralisation-versus-delegation dispute; hedged unverified compliance claims; added cross-references. [(870 → 2,141 words · 6 new sources)]{.small}
 
 ### Q072 How are education systems regulating student data privacy in AI tools, and which legal frameworks apply to minors? {#q072}
 
@@ -5961,7 +5981,7 @@ Sources: [\[SRC-583\]](#src-583) [\[SRC-1148\]](#src-1148) [\[SRC-383\]](#src-38
 
 **Related questions:** [Q277](#q277), [Q070](#q070), [Q073](#q073), [Q075](#q075), [Q144](#q144)
 
-**What changed in Edition 117:** Deepened from about 805 to about 1835 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(805 → 1,835 words · 2 new sources · 2 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 805 to about 1835 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(805 → 1,835 words · 2 new sources · 2 sources replaced)]{.small}
 
 ### Q073 How should institutions handle procurement of AI tools — evaluation criteria, vendor accountability, contract terms, and exit strategies? {#q073}
 
@@ -6031,7 +6051,7 @@ Sources: [\[SRC-222\]](#src-222) [\[SRC-167\]](#src-167) [\[SRC-960\]](#src-960)
 
 **Related questions:** [Q071](#q071), [Q072](#q072), [Q075](#q075), [Q069](#q069), [Q070](#q070)
 
-**What changed in Edition 117:** Expanded and restructured into six continuous sections, adding evidence on ethical principles, accessibility, risk management, elite-university strategy and low-income-country capacity, explicit evidence-strength qualifiers, and cross-references to Q072, Q264, Q144 and Q056. [(885 → 2,017 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six continuous sections, adding evidence on ethical principles, accessibility, risk management, elite-university strategy and low-income-country capacity, explicit evidence-strength qualifiers, and cross-references to Q072, Q264, Q144 and Q056. [(885 → 2,017 words · 6 new sources)]{.small}
 
 ### Q074 How are examination and credentialing bodies redesigning high-stakes assessment for the AI era? {#q074}
 
@@ -6087,7 +6107,7 @@ Sources: [\[SRC-329\]](#src-329) [\[SRC-815\]](#src-815) [\[SRC-039\]](#src-039)
 
 **Related questions:** [Q075](#q075), [Q277](#q277), [Q069](#q069), [Q070](#q070), [Q071](#q071)
 
-**What changed in Edition 117:** Converted all bulleted and numbered lists into continuous prose to comply with the no-lists rule; all other content, wording, sources and structure are unchanged. [(859 → 1,962 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted all bulleted and numbered lists into continuous prose to comply with the no-lists rule; all other content, wording, sources and structure are unchanged. [(859 → 1,962 words · 7 new sources)]{.small}
 
 ### Q075 What academic-integrity frameworks have institutions adopted to replace binary "cheating/not cheating" models, and how are they working? {#q075}
 
@@ -6163,7 +6183,7 @@ Sources: [\[SRC-655\]](#src-655) [\[SRC-255\]](#src-255) [\[SRC-642\]](#src-642)
 
 **Related questions:** [Q074](#q074), [Q069](#q069), [Q077](#q077), [Q072](#q072), [Q073](#q073)
 
-**What changed in Edition 117:** Merged duplicated evaluation passages and added recent evidence on list-experiment prevalence measurement, inconsistent disclosure requirements, faculty ethics frameworks, contract-cheating adaptation and disciplinary guidance gaps. Flagged the unsourced ninety-per-cent usage figure and added cross-references. Converted bulleted lists and bold labels in the third and fifth sections into running prose. [(893 → 2,327 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Merged duplicated evaluation passages and added recent evidence on list-experiment prevalence measurement, inconsistent disclosure requirements, faculty ethics frameworks, contract-cheating adaptation and disciplinary guidance gaps. Flagged the unsourced ninety-per-cent usage figure and added cross-references. Converted bulleted lists and bold labels in the third and fifth sections into running prose. [(893 → 2,327 words · 8 new sources)]{.small}
 
 ### Q076 How are teacher unions, professional bodies, and accreditation agencies responding to AI, and what standards are they setting? {#q076}
 
@@ -6231,7 +6251,7 @@ Sources: [\[SRC-963\]](#src-963) [\[SRC-434\]](#src-434) [\[SRC-950\]](#src-950)
 
 **Related questions:** [Q070](#q070), [Q074](#q074), [Q255](#q255), [Q069](#q069), [Q071](#q071)
 
-**What changed in Edition 117:** Deepened from about 759 to about 2050 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(759 → 2,050 words · 2 new sources · 2 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 759 to about 2050 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(759 → 2,050 words · 2 new sources · 2 sources replaced)]{.small}
 
 ### Q077 What funding models and public investments in AI for education exist, and what do early returns suggest about their effectiveness? {#q077}
 
@@ -6277,7 +6297,7 @@ Sources: [\[SRC-1353\]](#src-1353) [\[SRC-745\]](#src-745) [\[SRC-950\]](#src-95
 
 **Related questions:** [Q069](#q069), [Q075](#q075), [Q074](#q074), [Q145](#q145), [Q070](#q070)
 
-**What changed in Edition 117:** Deepened from about 689 to about 2049 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(689 → 2,049 words · 3 new sources · 3 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 689 to about 2049 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(689 → 2,049 words · 3 new sources · 3 sources replaced)]{.small}
 
 ### Q144 What liability rules apply when an AI system harms a pupil's academic record or wellbeing? {#q144}
 
@@ -6331,7 +6351,7 @@ Sources: [\[SRC-586\]](#src-586) [\[SRC-587\]](#src-587) [\[SRC-591\]](#src-591)
 
 **Related questions:** [Q072](#q072), [Q075](#q075), [Q145](#q145), [Q069](#q069), [Q070](#q070)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections. Added hedging on AI Act timing, PLD damage limits and the preliminary Character.AI ruling, plus wellbeing and integrity evidence from Jukiewicz, Zdravkova, Seghier and Potluri, and cross-references to Q072, Q182 and Q264. [(1,032 → 2,217 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections. Added hedging on AI Act timing, PLD damage limits and the preliminary Character.AI ruling, plus wellbeing and integrity evidence from Jukiewicz, Zdravkova, Seghier and Potluri, and cross-references to Q072, Q182 and Q264. [(1,032 → 2,217 words · 4 new sources)]{.small}
 
 ### Q145 How are age limits and child-safety requirements for AI products enforced, if at all? {#q145}
 
@@ -6395,7 +6415,7 @@ Sources: [\[SRC-625\]](#src-625) [\[SRC-685\]](#src-685) [\[SRC-683\]](#src-683)
 
 **Related questions:** [Q069](#q069), [Q077](#q077), [Q144](#q144), [Q070](#q070), [Q071](#q071)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections; integrated Moore (2026), Ali (2026) and Stanoyevitch (2024) on verification limits and institutional governance; added cross-references to Q144, Q264 and Q074; corrected typographical errors. Converted the bulleted list of KIDS Act provisions into prose to remove the list. [(946 → 1,871 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections; integrated Moore (2026), Ali (2026) and Stanoyevitch (2024) on verification limits and institutional governance; added cross-references to Q144, Q264 and Q074; corrected typographical errors. Converted the bulleted list of KIDS Act provisions into prose to remove the list. [(946 → 1,871 words · 3 new sources)]{.small}
 
 ### Q264 What transparency, explainability, and audit obligations are being imposed on AI vendors supplying education systems, and how can schools enforce them contractually? {#q264}
 
@@ -6438,6 +6458,8 @@ Evidence on how consistently these obligations are enforced remains limited, and
 Sources: [\[SRC-1421\]](#src-1421) [\[SRC-1449\]](#src-1449) [\[SRC-1423\]](#src-1423) [\[SRC-1424\]](#src-1424) [\[SRC-1451\]](#src-1451) [\[SRC-1432\]](#src-1432) [\[SRC-1506\]](#src-1506) [\[SRC-1507\]](#src-1507) [\[SRC-1508\]](#src-1508) [\[SRC-1509\]](#src-1509) [\[SRC-1510\]](#src-1510) [\[SRC-1511\]](#src-1511)
 
 **Related questions:** [Q277](#q277), [Q072](#q072), [Q074](#q074), [Q069](#q069), [Q070](#q070)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q277 How should governments and universities regulate AI systems used for admissions, grading, proctoring, and other high-stakes educational decisions now that frameworks such as the EU AI Act classify them as high-risk? {#q277}
 
@@ -6489,7 +6511,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor EU AI Act enforcement and guidance on education, national examination-body policies, published subgroup audits of admissions and grading tools, and legal challenges to proctoring or AI-detection decisions.
 -   *Related questions:* [Q074](#q074), [Q144](#q144), [Q206](#q206), [Q264](#q264).
 
-**What changed in Edition 118:** New in this edition: examines how governments and universities should regulate high-stakes educational AI in admissions, grading and proctoring, covering EU high-risk classification, emotion-inference prohibition, subgroup auditing, fairness trade-offs and contestability. [(0 → 2,186 words · 14 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: examines how governments and universities should regulate high-stakes educational AI in admissions, grading and proctoring, covering EU high-risk classification, emotion-inference prohibition, subgroup auditing, fairness trade-offs and contestability. [(0 → 2,186 words · 14 new sources)]{.small}
 
 ## Chapter 10: Practical Navigation — Guides for Teachers, Students, and Leaders {#chapter-10}
 
@@ -6553,7 +6575,7 @@ Sources: [\[SRC-1171\]](#src-1171) [\[SRC-995\]](#src-995) [\[SRC-276\]](#src-27
 
 **Related questions:** [Q083](#q083), [Q084](#q084), [Q147](#q147), [Q079](#q079), [Q081](#q081)
 
-**What changed in Edition 118:** Added evidence that AI grading tools can carry hidden bias, plus new work on how teachers evaluate AI lesson plans and on feedback tools that avoid over-reliance; existing content tightened and reorganised. [(2,127 → 2,236 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: Added evidence that AI grading tools can carry hidden bias, plus new work on how teachers evaluate AI lesson plans and on feedback tools that avoid over-reliance; existing content tightened and reorganised. [(2,127 → 2,236 words · 3 new sources)]{.small}
 
 ### Q079 What are the current best practices for designing AI-resilient and AI-inclusive assignments and assessments? {#q079}
 
@@ -6621,7 +6643,7 @@ Sources: [\[SRC-039\]](#src-039) [\[SRC-343\]](#src-343) [\[SRC-273\]](#src-273)
 
 **Related questions:** [Q265](#q265), [Q088](#q088), [Q147](#q147), [Q231](#q231), [Q078](#q078)
 
-**What changed in Edition 117:** Expanded and restructured: flags the four-pillar framework as unvalidated, adds error-correction field experiment, student policy co-design, UDL equity considerations, teacher-readiness and faculty-disagreement evidence, and cross-references Q147, Q265, Q088, Q231. [(885 → 2,059 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured: flags the four-pillar framework as unvalidated, adds error-correction field experiment, student policy co-design, UDL equity considerations, teacher-readiness and faculty-disagreement evidence, and cross-references Q147, Q265, Q088, Q231. [(885 → 2,059 words · 6 new sources)]{.small}
 
 ### Q081 How should students use AI as a study partner in ways that demonstrably strengthen rather than weaken their learning? {#q081}
 
@@ -6673,7 +6695,7 @@ Sources: [\[SRC-1097\]](#src-1097) [\[SRC-376\]](#src-376) [\[SRC-248\]](#src-24
 
 **Related questions:** [Q085](#q085), [Q088](#q088), [Q078](#q078), [Q079](#q079), [Q082](#q082)
 
-**What changed in Edition 117:** Deepened from about 951 to about 1921 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(951 → 1,921 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 951 to about 1921 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(951 → 1,921 words · 5 new sources)]{.small}
 
 ### Q082 What should students know about the limits, failure modes, and biases of AI systems before trusting their outputs? {#q082}
 
@@ -6727,7 +6749,7 @@ Sources: [\[SRC-168\]](#src-168) [\[SRC-064\]](#src-064) [\[SRC-1389\]](#src-138
 
 **Related questions:** [Q086](#q086), [Q147](#q147), [Q078](#q078), [Q079](#q079), [Q081](#q081)
 
-**What changed in Edition 117:** Expanded to house length and structure, integrating four recent studies (Yoon et al., Hershkovitz et al., EL Idrissi and Alami, Konu Kadirhanoğulları, plus Tabiri et al.) with stated limits, and adding cross-references to Q081, Q083, Q218, Q249. [(919 → 2,071 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to house length and structure, integrating four recent studies (Yoon et al., Hershkovitz et al., EL Idrissi and Alami, Konu Kadirhanoğulları, plus Tabiri et al.) with stated limits, and adding cross-references to Q081, Q083, Q218, Q249. [(919 → 2,071 words · 5 new sources)]{.small}
 
 ### Q083 How should students disclose and document their AI use in academic work, and how can they build integrity habits that also serve them professionally? {#q083}
 
@@ -6803,7 +6825,7 @@ Sources: [\[SRC-1334\]](#src-1334) [\[SRC-488\]](#src-488) [\[SRC-456\]](#src-45
 
 **Related questions:** [Q078](#q078), [Q085](#q085), [Q086](#q086), [Q147](#q147), [Q017](#q017)
 
-**What changed in Edition 117:** Deepened from about 815 to about 2132 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(815 → 2,132 words · 3 new sources · 7 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 815 to about 2132 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(815 → 2,132 words · 3 new sources · 7 sources replaced)]{.small}
 
 ### Q084 What practical steps allow school and university leaders to move from prohibition or paralysis to structured adoption — a realistic implementation roadmap? {#q084}
 
@@ -6871,7 +6893,7 @@ Sources: [\[SRC-173\]](#src-173) [\[SRC-548\]](#src-548) [\[SRC-964\]](#src-964)
 
 **Related questions:** [Q078](#q078), [Q079](#q079), [Q081](#q081), [Q082](#q082), [Q083](#q083)
 
-**What changed in Edition 117:** Deepened from about 782 to about 2184 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(782 → 2,184 words · 2 new sources · 6 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 782 to about 2184 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(782 → 2,184 words · 2 new sources · 6 sources replaced)]{.small}
 
 ### Q085 How should institutions structure professional development so teachers gain real AI competence rather than one-off training? {#q085}
 
@@ -6925,7 +6947,7 @@ Sources: [\[SRC-137\]](#src-137) [\[SRC-1378\]](#src-1378) [\[SRC-1155\]](#src-1
 
 **Related questions:** [Q088](#q088), [Q081](#q081), [Q083](#q083), [Q086](#q086), [Q032](#q032)
 
-**What changed in Edition 117:** Converted the three bulleted lists (collaborative AI practices, differentiated competence levels, and enabling conditions) into continuous prose to remove list formatting, keeping all other content, wording, and sources unchanged. [(811 → 1,818 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the three bulleted lists (collaborative AI practices, differentiated competence levels, and enabling conditions) into continuous prose to remove list formatting, keeping all other content, wording, and sources unchanged. [(811 → 1,818 words · 6 new sources)]{.small}
 
 ### Q086 How can schools communicate with and involve parents and communities in decisions about AI use? {#q086}
 
@@ -6989,7 +7011,7 @@ Sources: [\[SRC-1004\]](#src-1004) [\[SRC-192\]](#src-192) [\[SRC-1336\]](#src-1
 
 **Related questions:** [Q082](#q082), [Q083](#q083), [Q085](#q085), [Q150](#q150), [Q078](#q078)
 
-**What changed in Edition 117:** Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(671 → 2,065 words · 2 new sources · 6 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(671 → 2,065 words · 2 new sources · 6 sources replaced)]{.small}
 
 ### Q087 What technical and organizational safeguards (age gates, data controls, human oversight, escalation paths) should any classroom AI deployment include? {#q087}
 
@@ -7031,7 +7053,7 @@ Sources: [\[SRC-583\]](#src-583) [\[SRC-1089\]](#src-1089) [\[SRC-484\]](#src-48
 
 **Related questions:** [Q150](#q150), [Q231](#q231), [Q078](#q078), [Q079](#q079), [Q081](#q081)
 
-**What changed in Edition 117:** Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(665 → 2,007 words · 4 new sources · 3 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(665 → 2,007 words · 4 new sources · 3 sources replaced)]{.small}
 
 ### Q088 How can educators and institutions with minimal budgets or infrastructure still give students equitable access to AI-supported learning? {#q088}
 
@@ -7119,7 +7141,7 @@ Sources: [\[SRC-506\]](#src-506) [\[SRC-572\]](#src-572) [\[SRC-1063\]](#src-106
 
 **Related questions:** [Q085](#q085), [Q079](#q079), [Q081](#q081), [Q230](#q230), [Q078](#q078)
 
-**What changed in Edition 117:** Expanded and restructured the answer with evidence on low-income contexts, teacher capability, grounded AI tools, and governance, added a disputed section on whether access itself can harm learning, and added cross-references. [(827 → 2,279 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer with evidence on low-income contexts, teacher capability, grounded AI tools, and governance, added a disputed section on whether access itself can harm learning, and added cross-references. [(827 → 2,279 words · 9 new sources)]{.small}
 
 ### Q147 What should a teacher do on first encountering AI-written student work? {#q147}
 
@@ -7187,7 +7209,7 @@ Sources: [\[SRC-792\]](#src-792) [\[SRC-050\]](#src-050) [\[SRC-953\]](#src-953)
 
 **Related questions:** [Q078](#q078), [Q079](#q079), [Q082](#q082), [Q083](#q083), [Q081](#q081)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributing false-positive figures cautiously. Added Fisk (2024) on stylistic detection limits, studies of fairness, rapport, curriculum and teacher preparation, cross-references, and plainly stated disagreements. [(865 → 2,147 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributing false-positive figures cautiously. Added Fisk (2024) on stylistic detection limits, studies of fairness, rapport, curriculum and teacher preparation, cross-references, and plainly stated disagreements. [(865 → 2,147 words · 8 new sources)]{.small}
 
 ### Q150 What guidance exists for parents deciding which AI use is appropriate at home, by age? {#q150}
 
@@ -7239,7 +7261,7 @@ Sources: [\[SRC-757\]](#src-757) [\[SRC-1330\]](#src-1330) [\[SRC-1342\]](#src-1
 
 **Related questions:** [Q086](#q086), [Q087](#q087), [Q265](#q265), [Q078](#q078), [Q079](#q079)
 
-**What changed in Edition 117:** Expanded and restructured into a continuous essay, adding recent research on assessment integrity, AI-versus-human guidance, language-learning adoption and cognitive adaptation, clarifying that this evidence is indirect, and adding cross-references. [(921 → 1,949 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into a continuous essay, adding recent research on assessment integrity, AI-versus-human guidance, language-learning adoption and cognitive adaptation, clarifying that this evidence is indirect, and adding cross-references. [(921 → 1,949 words · 4 new sources)]{.small}
 
 ### Q231 What classroom-level governance practices enable teachers to implement AI policy consistently and pedagogically? {#q231}
 
@@ -7293,7 +7315,7 @@ Sources: [\[SRC-1188\]](#src-1188) [\[SRC-1335\]](#src-1335) [\[SRC-2216\]](#src
 
 **Related questions:** [Q265](#q265), [Q079](#q079), [Q087](#q087), [Q071](#q071), [Q078](#q078)
 
-**What changed in Edition 118:** Adds recent studies of how teachers interpret and negotiate AI and other policies, ethics-inclusive teacher knowledge frameworks, a review of classroom generative AI uses, and a caution that over-regulation can breed mere compliance. [(2,318 → 2,641 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: Adds recent studies of how teachers interpret and negotiate AI and other policies, ethics-inclusive teacher knowledge frameworks, a review of classroom generative AI uses, and a caution that over-regulation can breed mere compliance. [(2,318 → 2,641 words · 6 new sources)]{.small}
 
 ### Q265 How should a school write, implement, and keep current an AI acceptable-use policy that remains meaningful as technology and institutional practice evolve? {#q265}
 
@@ -7340,6 +7362,8 @@ The evidence base on which policy designs produce the best outcomes remains limi
 Sources: [\[SRC-1512\]](#src-1512) [\[SRC-1050\]](#src-1050) [\[SRC-1286\]](#src-1286) [\[SRC-1433\]](#src-1433) [\[SRC-1461\]](#src-1461) [\[SRC-1144\]](#src-1144) [\[SRC-1513\]](#src-1513) [\[SRC-1514\]](#src-1514) [\[SRC-1515\]](#src-1515) [\[SRC-1516\]](#src-1516) [\[SRC-1334\]](#src-1334) [\[SRC-1517\]](#src-1517)
 
 **Related questions:** [Q231](#q231), [Q079](#q079), [Q150](#q150), [Q071](#q071), [Q078](#q078)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 11: Measurement and Evaluation {#chapter-11}
 
@@ -7407,7 +7431,7 @@ Sources: [\[SRC-1833\]](#src-1833) [\[SRC-1097\]](#src-1097) [\[SRC-243\]](#src-
 
 **Related questions:** [Q091](#q091), [Q154](#q154), [Q090](#q090), [Q092](#q092), [Q093](#q093)
 
-**What changed in Edition 118:** This revision adds a small dental-education perception study, an argument that AI decouples assessment performance from thinking, and evidence on individual differences in AI outcomes. It sharpens the guidance on equity and retention testing, and correctly attributes the Harvard trial. [(1,945 → 2,213 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: This revision adds a small dental-education perception study, an argument that AI decouples assessment performance from thinking, and evidence on individual differences in AI outcomes. It sharpens the guidance on equity and retention testing, and correctly attributes the Harvard trial. [(1,945 → 2,213 words · 3 new sources)]{.small}
 
 ### Q090 What standards of evidence should decision makers demand from edtech vendors before adopting AI products at scale? {#q090}
 
@@ -7465,7 +7489,7 @@ Sources: [\[SRC-530\]](#src-530) [\[SRC-1352\]](#src-1352) [\[SRC-529\]](#src-52
 
 **Related questions:** [Q239](#q239), [Q089](#q089), [Q091](#q091), [Q092](#q092), [Q093](#q093)
 
-**What changed in Edition 117:** Deepened from about 749 to about 2219 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(749 → 2,219 words · 2 new sources · 4 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 749 to about 2219 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(749 → 2,219 words · 2 new sources · 4 sources replaced)]{.small}
 
 ### Q091 How can institutions monitor for unintended effects of AI — skill atrophy, dependency, equity gaps — that standard metrics miss? {#q091}
 
@@ -7543,7 +7567,7 @@ Sources: [\[SRC-698\]](#src-698) [\[SRC-1205\]](#src-1205) [\[SRC-821\]](#src-82
 
 **Related questions:** [Q089](#q089), [Q092](#q092), [Q090](#q090), [Q093](#q093), [Q094](#q094)
 
-**What changed in Edition 117:** Expanded to six sections that add evidence on correlational designs, qualitative methods, AI and ability divides, disputed disability effects, gender and low-income contexts, and static assurance limits, with cross-references to Q154, Q094 and Q092. [(882 → 2,045 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections that add evidence on correlational designs, qualitative methods, AI and ability divides, disputed disability effects, gender and low-income contexts, and static assurance limits, with cross-references to Q154, Q094 and Q092. [(882 → 2,045 words · 8 new sources)]{.small}
 
 ### Q092 What is known about the longitudinal effects of sustained AI use on learners, and how should long-term studies be designed and tracked? {#q092}
 
@@ -7617,7 +7641,7 @@ Sources: [\[SRC-097\]](#src-097) [\[SRC-824\]](#src-824) [\[SRC-1382\]](#src-138
 
 **Related questions:** [Q238](#q238), [Q015](#q015), [Q091](#q091), [Q154](#q154), [Q239](#q239)
 
-**What changed in Edition 117:** Deepened from about 909 to about 2034 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(909 → 2,034 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 909 to about 2034 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(909 → 2,034 words · 6 new sources)]{.small}
 
 ### Q093 How should learning analytics generated by AI systems be interpreted, validated, and protected from misuse in student evaluation? {#q093}
 
@@ -7691,7 +7715,7 @@ Sources: [\[SRC-888\]](#src-888) [\[SRC-889\]](#src-889) [\[SRC-890\]](#src-890)
 
 **Related questions:** [Q155](#q155), [Q238](#q238), [Q089](#q089), [Q090](#q090), [Q091](#q091)
 
-**What changed in Edition 118:** This revision adds a scoping review showing uneven evidence across emerging regions and a small randomised trial of AI feedback. It also adds a study of pedagogical alternatives to surveillance and a cross-reference on agentic AI and integrity. [(2,058 → 2,365 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: This revision adds a scoping review showing uneven evidence across emerging regions and a small randomised trial of AI feedback. It also adds a study of pedagogical alternatives to surveillance and a cross-reference on agentic AI and integrity. [(2,058 → 2,365 words · 3 new sources)]{.small}
 
 ### Q094 What benchmarks and audits exist for evaluating the pedagogical quality, safety, and bias of educational AI models themselves? {#q094}
 
@@ -7733,7 +7757,7 @@ Sources: [\[SRC-049\]](#src-049) [\[SRC-347\]](#src-347) [\[SRC-363\]](#src-363)
 
 **Related questions:** [Q239](#q239), [Q168](#q168), [Q238](#q238), [Q023](#q023), [Q069](#q069)
 
-**What changed in Edition 117:** Expanded and restructured the answer, adding evidence on Baldwin's audit framework, annotator bias, sector-specific evaluation frameworks and pedagogical integrity, plus clearer caveats on metric conflicts, regulatory sourcing and the limits of the Eedi trial. [(883 → 2,151 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, adding evidence on Baldwin's audit framework, annotator bias, sector-specific evaluation frameworks and pedagogical integrity, plus clearer caveats on metric conflicts, regulatory sourcing and the limits of the Eedi trial. [(883 → 2,151 words · 5 new sources)]{.small}
 
 ### Q154 How can learning gains from AI be measured without relying on the tool that produced them? {#q154}
 
@@ -7779,7 +7803,7 @@ Sources: [\[SRC-1097\]](#src-1097) [\[SRC-239\]](#src-239) [\[SRC-1128\]](#src-1
 
 **Related questions:** [Q089](#q089), [Q092](#q092), [Q155](#q155), [Q238](#q238), [Q090](#q090)
 
-**What changed in Edition 117:** Expanded to six sections, kept every original claim, distinguished perceived from measured gains and tool audits from learning measurement, added recent studies, and connected the argument to Q089, Q094, Q155, Q238, Q239 and Q024. [(930 → 2,214 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, kept every original claim, distinguished perceived from measured gains and tool audits from learning measurement, added recent studies, and connected the argument to Q089, Q094, Q155, Q238, Q239 and Q024. [(930 → 2,214 words · 6 new sources)]{.small}
 
 ### Q155 What does it mean, methodologically, to assess a human-AI pair rather than an individual? {#q155}
 
@@ -7849,7 +7873,7 @@ Sources: [\[SRC-593\]](#src-593) [\[SRC-594\]](#src-594) [\[SRC-1309\]](#src-130
 
 **Related questions:** [Q093](#q093), [Q154](#q154), [Q238](#q238), [Q005](#q005), [Q089](#q089)
 
-**What changed in Edition 117:** Deepened from about 834 to about 1952 words in heading-free sections, adding 8 recent peer-reviewed sources while keeping the earlier text and its sources. [(834 → 1,952 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 834 to about 1952 words in heading-free sections, adding 8 recent peer-reviewed sources while keeping the earlier text and its sources. [(834 → 1,952 words · 8 new sources)]{.small}
 
 ### Q238 How reliable are AI-generated assessments and grades compared to human marking, and under what conditions do they diverge? {#q238}
 
@@ -7899,6 +7923,8 @@ Sources: [\[SRC-1518\]](#src-1518) [\[SRC-1519\]](#src-1519) [\[SRC-1520\]](#src
 
 **Related questions:** [Q092](#q092), [Q055](#q055), [Q093](#q093), [Q094](#q094), [Q154](#q154)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q239 What methodological standards should peer reviewers apply to studies of AI educational interventions to identify industry-funded bias and weak designs? {#q239}
 
 11 citations · 11 sources · 5 cross-references
@@ -7946,6 +7972,8 @@ Finally, reviewers should attend to claims. Correlational designs justify correl
 Sources: [\[SRC-1484\]](#src-1484) [\[SRC-1528\]](#src-1528) [\[SRC-1479\]](#src-1479) [\[SRC-1480\]](#src-1480) [\[SRC-1413\]](#src-1413) [\[SRC-1429\]](#src-1429) [\[SRC-1486\]](#src-1486) [\[SRC-1529\]](#src-1529) [\[SRC-1530\]](#src-1530) [\[SRC-1531\]](#src-1531) [\[SRC-1376\]](#src-1376)
 
 **Related questions:** [Q094](#q094), [Q090](#q090), [Q092](#q092), [Q238](#q238), [Q089](#q089)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 12: Frontiers — Emerging Territories {#chapter-12}
 
@@ -8015,7 +8043,7 @@ Sources: [\[SRC-721\]](#src-721) [\[SRC-847\]](#src-847) [\[SRC-947\]](#src-947)
 
 **Related questions:** [Q232](#q232), [Q098](#q098), [Q099](#q099), [Q096](#q096), [Q097](#q097)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections, adding evidence on speech-based engagement analytics, critical-thinking research, PE teacher readiness, neurodiversity frameworks and AI-plus-mentoring designs, with explicit reliability grading and cross-references. [(871 → 2,055 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections, adding evidence on speech-based engagement analytics, critical-thinking research, PE teacher readiness, neurodiversity frameworks and AI-plus-mentoring designs, with explicit reliability grading and cross-references. [(871 → 2,055 words · 6 new sources)]{.small}
 
 ### Q096 What roles are autonomous AI agents beginning to play in education — as persistent tutors, course designers, or student proxies — and what new questions do they raise? {#q096}
 
@@ -8071,7 +8099,7 @@ Sources: [\[SRC-077\]](#src-077) [\[SRC-076\]](#src-076) [\[SRC-929\]](#src-929)
 
 **Related questions:** [Q161](#q161), [Q095](#q095), [Q097](#q097), [Q098](#q098), [Q099](#q099)
 
-**What changed in Edition 117:** Expanded and restructured the answer to add evidence on AI tutor outcomes, instructional designers, course allocation, equity and educator roles; added explicit source attribution, flagged disputed tutoring evidence, and added cross-references. [(845 → 1,988 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer to add evidence on AI tutor outcomes, instructional designers, course allocation, equity and educator roles; added explicit source attribution, flagged disputed tutoring evidence, and added cross-references. [(845 → 1,988 words · 8 new sources)]{.small}
 
 ### Q097 What is known and unknown about AI in early childhood education, where developmental stakes are highest? {#q097}
 
@@ -8133,7 +8161,7 @@ Sources: [\[SRC-176\]](#src-176) [\[SRC-325\]](#src-325) [\[SRC-175\]](#src-175)
 
 **Related questions:** [Q015](#q015), [Q245](#q245), [Q095](#q095), [Q096](#q096), [Q098](#q098)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections. Adds bibliometric, theoretical and teacher-survey evidence (Austrian adoption rates, training deficits, thinking styles). Separates vendor claims from research, flags contested benefit claims and adds cross-references. Converted the two bulleted lists into running prose to remove list formatting. [(878 → 1,950 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections. Adds bibliometric, theoretical and teacher-survey evidence (Austrian adoption rates, training deficits, thinking styles). Separates vendor claims from research, flags contested benefit claims and adds cross-references. Converted the two bulleted lists into running prose to remove list formatting. [(878 → 1,950 words · 6 new sources)]{.small}
 
 ### Q098 How is AI reshaping special education and individualized support plans in practice, beyond its general accessibility promise? {#q098}
 
@@ -8181,7 +8209,7 @@ Sources: [\[SRC-875\]](#src-875) [\[SRC-1323\]](#src-1323) [\[SRC-1772\]](#src-1
 
 **Related questions:** [Q159](#q159), [Q095](#q095), [Q099](#q099), [Q096](#q096), [Q097](#q097)
 
-**What changed in Edition 117:** Completed the truncated third section and gave it sources. Added three new sections on AI-assisted IEP drafting, on ethical, legal, bias and staffing risks, and a closing synthesis. This brings the answer to six sections and roughly 2,000 words. [(654 → 1,855 words · 3 new sources · 8 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Completed the truncated third section and gave it sources. Added three new sections on AI-assisted IEP drafting, on ethical, legal, bias and staffing risks, and a closing synthesis. This brings the answer to six sections and roughly 2,000 words. [(654 → 1,855 words · 3 new sources · 8 sources replaced)]{.small}
 
 ### Q099 How is AI transforming informal and out-of-school learning — self-teaching, homeschooling, communities of practice, and family learning? {#q099}
 
@@ -8239,7 +8267,7 @@ Sources: [\[SRC-1341\]](#src-1341) [\[SRC-2538\]](#src-2538) [\[SRC-2539\]](#src
 
 **Related questions:** [Q232](#q232), [Q095](#q095), [Q098](#q098), [Q159](#q159), [Q086](#q086)
 
-**What changed in Edition 118:** This answer explains how AI is reshaping self-teaching, homeschooling, family learning and communities of practice, weighing wider access against risks of dependency, misinformation, data collection and weaker social ties. [(2,211 → 2,444 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: This answer explains how AI is reshaping self-teaching, homeschooling, family learning and communities of practice, weighing wider access against risks of dependency, misinformation, data collection and weaker social ties. [(2,211 → 2,444 words · 6 new sources)]{.small}
 
 ### Q100 What weak signals today — in research labs, startups, and experimental schools — most plausibly indicate what AI in education will look like in ten years? {#q100}
 
@@ -8287,7 +8315,7 @@ Sources: [\[SRC-225\]](#src-225) [\[SRC-777\]](#src-777) [\[SRC-1260\]](#src-126
 
 **Related questions:** [Q095](#q095), [Q096](#q096), [Q097](#q097), [Q098](#q098), [Q099](#q099)
 
-**What changed in Edition 117:** Deepened from about 725 to about 1980 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(725 → 1,980 words · 3 new sources · 7 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 725 to about 1980 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(725 → 1,980 words · 3 new sources · 7 sources replaced)]{.small}
 
 ### Q159 What is the realistic near-term prospect for AI in embodied, laboratory, and practical subjects? {#q159}
 
@@ -8345,7 +8373,7 @@ Sources: [\[SRC-1189\]](#src-1189) [\[SRC-1116\]](#src-1116) [\[SRC-1360\]](#src
 
 **Related questions:** [Q098](#q098), [Q226](#q226), [Q099](#q099), [Q095](#q095), [Q096](#q096)
 
-**What changed in Edition 117:** Expanded into six sections. Added evidence on intent-driven embodied AI, anthropomorphism, design epistemology, science clubs, Qur'anic recitation and embodied ethics; corrected the VLA description; added cross-references to Q232, Q161 and Q160. [(915 → 2,160 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six sections. Added evidence on intent-driven embodied AI, anthropomorphism, design epistemology, science clubs, Qur'anic recitation and embodied ethics; corrected the VLA description; added cross-references to Q232, Q161 and Q160. [(915 → 2,160 words · 6 new sources)]{.small}
 
 ### Q160 What would it mean for education if AI capability plateaus rather than continues to accelerate? {#q160}
 
@@ -8405,7 +8433,7 @@ Sources: [\[SRC-300\]](#src-300) [\[SRC-1196\]](#src-1196) [\[SRC-1128\]](#src-1
 
 **Related questions:** [Q226](#q226), [Q095](#q095), [Q096](#q096), [Q097](#q097), [Q098](#q098)
 
-**What changed in Edition 117:** Expanded to six continuous sections, integrating Hou, Fern, Triberti, Güler and Varner, flagging the contested plateau premise, adding cross-references to Q030, Q081, Q230 and Q155, and attributing every source explicitly. [(882 → 1,972 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six continuous sections, integrating Hou, Fern, Triberti, Güler and Varner, flagging the contested plateau premise, adding cross-references to Q030, Q081, Q230 and Q155, and attributing every source explicitly. [(882 → 1,972 words · 6 new sources)]{.small}
 
 ### Q161 What emerging risks — model collapse, synthetic-content saturation, data exhaustion — bear directly on education? {#q161}
 
@@ -8455,7 +8483,7 @@ Sources: [\[SRC-1210\]](#src-1210) [\[SRC-856\]](#src-856) [\[SRC-570\]](#src-57
 
 **Related questions:** [Q096](#q096), [Q232](#q232), [Q095](#q095), [Q097](#q097), [Q098](#q098)
 
-**What changed in Edition 117:** Expanded into six linked sections, flagged disputes over exhaustion timelines and collapse inevitability, added evidence on training-corpus genealogy, synthetic scholarship, student policy ambiguity and architectural-education integrity, and added cross-references. [(914 → 1,883 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six linked sections, flagged disputes over exhaustion timelines and collapse inevitability, added evidence on training-corpus genealogy, synthetic scholarship, student policy ambiguity and architectural-education integrity, and added cross-references. [(914 → 1,883 words · 4 new sources)]{.small}
 
 ### Q226 How should AI-mediated laboratory simulation and coding assistants be designed and evaluated in STEM education? {#q226}
 
@@ -8507,7 +8535,7 @@ Sources: [\[SRC-872\]](#src-872) [\[SRC-2339\]](#src-2339) [\[SRC-2340\]](#src-2
 
 **Related questions:** [Q159](#q159), [Q160](#q160), [Q095](#q095), [Q096](#q096), [Q097](#q097)
 
-**What changed in Edition 118:** This revision adds recent STEM-wide systematic and bibliometric reviews, strengthens the discussion of methodological gaps, assessment reform and algorithmic ethics, and reorganises the answer into six connected sections. [(1,973 → 2,182 words · 2 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: This revision adds recent STEM-wide systematic and bibliometric reviews, strengthens the discussion of methodological gaps, assessment reform and algorithmic ethics, and reorganises the answer into six connected sections. [(1,973 → 2,182 words · 2 new sources)]{.small}
 
 ### Q232 How is AI transforming physical education and sports science pedagogy in schools and universities? {#q232}
 
@@ -8579,7 +8607,7 @@ Sources: [\[SRC-2510\]](#src-2510) [\[SRC-442\]](#src-442) [\[SRC-2511\]](#src-2
 
 **Related questions:** [Q099](#q099), [Q095](#q095), [Q161](#q161), [Q096](#q096), [Q097](#q097)
 
-**What changed in Edition 118:** Adds new evidence on elite-to-school technology transfer, a university AI feedback platform, sports science students' AI attitudes, PE teacher training and researcher–practitioner evaluation designs, while keeping earlier cautions about unverified claims. [(2,018 → 2,342 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: Adds new evidence on elite-to-school technology transfer, a university AI feedback platform, sports science students' AI attitudes, PE teacher training and researcher–practitioner evaluation designs, while keeping earlier cautions about unverified claims. [(2,018 → 2,342 words · 6 new sources)]{.small}
 
 ## Chapter 13: Knowledge Integrity and the Information Environment {#chapter-13}
 
@@ -8657,7 +8685,7 @@ Sources: [\[SRC-381\]](#src-381) [\[SRC-583\]](#src-583) [\[SRC-447\]](#src-447)
 
 **Related questions:** [Q168](#q168), [Q164](#q164), [Q163](#q163), [Q241](#q241), [Q165](#q165)
 
-**What changed in Edition 117:** Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(612 → 1,951 words · 7 new sources · 7 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(612 → 1,951 words · 7 new sources · 7 sources replaced)]{.small}
 
 ### Q163 To what extent are textbooks, worksheets, and reference works used in schools now AI-generated, and is this disclosed? {#q163}
 
@@ -8697,7 +8725,7 @@ Sources: [\[SRC-1138\]](#src-1138) [\[SRC-416\]](#src-416) [\[SRC-553\]](#src-55
 
 **Related questions:** [Q162](#q162), [Q164](#q164), [Q169](#q169), [Q241](#q241), [Q165](#q165)
 
-**What changed in Edition 117:** Expanded to six sections, attributed every statistic to its study, added evidence on teacher-use surveys, Korean AI textbooks, detection and undisclosed-authorship research, an equity dimension, and cross-references to Q162, Q164, Q166, Q167. [(834 → 1,839 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, attributed every statistic to its study, added evidence on teacher-use surveys, Korean AI textbooks, detection and undisclosed-authorship research, an equity dimension, and cross-references to Q162, Q164, Q166, Q167. [(834 → 1,839 words · 6 new sources)]{.small}
 
 ### Q164 What documented cases exist of AI-generated misinformation entering curricula or classroom materials? {#q164}
 
@@ -8749,7 +8777,7 @@ Sources: [\[SRC-349\]](#src-349) [\[SRC-1232\]](#src-1232) [\[SRC-957\]](#src-95
 
 **Related questions:** [Q162](#q162), [Q163](#q163), [Q168](#q168), [Q205](#q205), [Q241](#q241)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributing each case to its source and adding recent work on medical imagery, patient-education materials, AI-generated teaching cases, cultural flattening and Australian policy responses. [(845 → 2,033 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributing each case to its source and adding recent work on medical imagery, patient-education materials, AI-generated teaching cases, cultural flattening and Australian policy responses. [(845 → 2,033 words · 8 new sources)]{.small}
 
 ### Q165 How are school librarians and media specialists adapting their role to synthetic information environments? {#q165}
 
@@ -8809,7 +8837,7 @@ Sources: [\[SRC-296\]](#src-296) [\[SRC-060\]](#src-060) [\[SRC-062\]](#src-062)
 
 **Related questions:** [Q168](#q168), [Q162](#q162), [Q163](#q163), [Q164](#q164), [Q166](#q166)
 
-**What changed in Edition 117:** Expanded to six sections; added recent studies on librarians and academic integrity, AI-related professional development, school leadership and metacognition; flagged the higher-education bias of the evidence; added cross-references to Q166-Q169. [(850 → 2,037 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections; added recent studies on librarians and academic integrity, AI-related professional development, school leadership and metacognition; flagged the higher-education bias of the evidence; added cross-references to Q166-Q169. [(850 → 2,037 words · 4 new sources)]{.small}
 
 ### Q166 What verification and source-evaluation skills should now be taught explicitly, and at what ages? {#q166}
 
@@ -8853,7 +8881,7 @@ Sources: [\[SRC-546\]](#src-546) [\[SRC-297\]](#src-297) [\[SRC-1332\]](#src-133
 
 **Related questions:** [Q167](#q167), [Q162](#q162), [Q163](#q163), [Q164](#q164), [Q165](#q165)
 
-**What changed in Edition 117:** Expanded to house length, reframed the age-banded model as practitioner guidance, added higher-education evidence (Zhang and Liu; González-Rico; Anwar; Dilinika; Simou) with explicit limits, and added cross-references to Q169, Q240, Q163, Q241. [(886 → 1,965 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to house length, reframed the age-banded model as practitioner guidance, added higher-education evidence (Zhang and Liu; González-Rico; Anwar; Dilinika; Simou) with explicit limits, and added cross-references to Q169, Q240, Q163, Q241. [(886 → 1,965 words · 5 new sources)]{.small}
 
 ### Q167 What happens to citation practice in schools when the cited source may itself be machine-written? {#q167}
 
@@ -8901,7 +8929,7 @@ Sources: [\[SRC-304\]](#src-304) [\[SRC-1049\]](#src-1049) [\[SRC-766\]](#src-76
 
 **Related questions:** [Q166](#q166), [Q169](#q169), [Q272](#q272), [Q162](#q162), [Q163](#q163)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections. The revision adds evidence on school leadership and teacher AI use (Gorman & Brennan; Kumar & Sarkar; Lee & Kim; López Costa), a learner-autonomy framing (Balzan et al.), style-guide divergence and cross-references. [(868 → 1,970 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections. The revision adds evidence on school leadership and teacher AI use (Gorman & Brennan; Kumar & Sarkar; Lee & Kim; López Costa), a learner-autonomy framing (Balzan et al.), style-guide divergence and cross-references. [(868 → 1,970 words · 5 new sources)]{.small}
 
 ### Q168 What technical provenance standards — watermarking, content credentials, signed provenance — exist, and do they work in educational settings? {#q168}
 
@@ -8955,7 +8983,7 @@ Sources: [\[SRC-381\]](#src-381) [\[SRC-583\]](#src-583) [\[SRC-1192\]](#src-119
 
 **Related questions:** [Q162](#q162), [Q094](#q094), [Q164](#q164), [Q165](#q165), [Q163](#q163)
 
-**What changed in Edition 117:** Deepened from about 744 to about 2133 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(744 → 2,133 words · 2 new sources · 6 sources replaced)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 744 to about 2133 words in heading-free sections, adding 2 recent peer-reviewed sources while keeping the earlier text and its sources. [(744 → 2,133 words · 2 new sources · 6 sources replaced)]{.small}
 
 ### Q169 How should a school decide whether a claim delivered by an AI system is reliable enough to teach? {#q169}
 
@@ -9041,7 +9069,7 @@ Sources: [\[SRC-544\]](#src-544) [\[SRC-976\]](#src-976) [\[SRC-1329\]](#src-132
 
 **Related questions:** [Q163](#q163), [Q167](#q167), [Q162](#q162), [Q164](#q164), [Q165](#q165)
 
-**What changed in Edition 117:** Expanded into a six-part essay adding school-leadership, governance-review, medical-education, mathematics and assessment-workload evidence, explicit limits on transferring university findings, the NSTA student error-detection source, and cross-references to related questions. [(807 → 1,938 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into a six-part essay adding school-leadership, governance-review, medical-education, mathematics and assessment-workload evidence, explicit limits on transferring university findings, the NSTA student error-detection source, and cross-references to related questions. [(807 → 1,938 words · 6 new sources)]{.small}
 
 ### Q240 How do AI systems trained predominantly on older data handle rapidly evolving topics, and how should educators communicate this temporal limitation to students? {#q240}
 
@@ -9093,6 +9121,8 @@ Sources: [\[SRC-1532\]](#src-1532) [\[SRC-1533\]](#src-1533) [\[SRC-757\]](#src-
 
 **Related questions:** [Q272](#q272), [Q019](#q019), [Q162](#q162), [Q163](#q163), [Q164](#q164)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q241 What is the epistemic status of AI-generated summaries and syntheses — when, if ever, can they serve as academically citable sources? {#q241}
 
 11 citations · 11 sources · 5 cross-references
@@ -9138,6 +9168,8 @@ There may be narrow future cases in which curated, versioned, and human-verified
 Sources: [\[SRC-1533\]](#src-1533) [\[SRC-1540\]](#src-1540) [\[SRC-350\]](#src-350) [\[SRC-1541\]](#src-1541) [\[SRC-1542\]](#src-1542) [\[SRC-1543\]](#src-1543) [\[SRC-1544\]](#src-1544) [\[SRC-1545\]](#src-1545) [\[SRC-1546\]](#src-1546) [\[SRC-1547\]](#src-1547) [\[SRC-1548\]](#src-1548)
 
 **Related questions:** [Q162](#q162), [Q163](#q163), [Q164](#q164), [Q165](#q165), [Q166](#q166)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q272 Since GPT-4-class large language models (2023–) made drafting a mixed human–machine workflow, how has the practical meaning of writing, revision, and originality changed in classrooms? {#q272}
 
@@ -9203,7 +9235,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor institutional AI-use and disclosure policies, detector accuracy and bias audits, the peer-review status of preprint EEG studies, and classroom studies of student–teacher norm divergence.
 -   *Related questions:* [Q014](#q014), [Q054](#q054), [Q167](#q167), [Q168](#q168), [Q241](#q241), [Q243](#q243).
 
-**What changed in Edition 118:** New in this edition: examines how classroom norms for drafting, revision and originality have been redefined since GPT-4-class models, covering stage-based assistance policies, machine feedback, homogenisation risks, detector bias and process-based assessment. [(0 → 2,122 words · 12 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: examines how classroom norms for drafting, revision and originality have been redefined since GPT-4-class models, covering stage-based assistance policies, machine feedback, homogenisation risks, detector bias and process-based assessment. [(0 → 2,122 words · 12 new sources)]{.small}
 
 ## Chapter 14: Language, Culture, and Global Asymmetry {#chapter-14}
 
@@ -9293,7 +9325,7 @@ Sources: [\[SRC-418\]](#src-418) [\[SRC-795\]](#src-795) [\[SRC-1390\]](#src-139
 
 **Related questions:** [Q244](#q244), [Q243](#q243), [Q171](#q171), [Q174](#q174), [Q175](#q175)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributing all statistics to named sources, flagging Khanmigo data as vendor documentation, noting disagreement over language classification, and adding Ghanaian student evidence, an ethics framework and evidence-base gaps. [(1,057 → 2,007 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributing all statistics to named sources, flagging Khanmigo data as vendor documentation, noting disagreement over language classification, and adding Ghanaian student evidence, an ethics framework and evidence-base gaps. [(1,057 → 2,007 words · 4 new sources)]{.small}
 
 ### Q171 How is AI being used in multilingual and newcomer classrooms, and with what measured results? {#q171}
 
@@ -9353,7 +9385,7 @@ Sources: [\[SRC-1093\]](#src-1093) [\[SRC-557\]](#src-557) [\[SRC-093\]](#src-09
 
 **Related questions:** [Q176](#q176), [Q242](#q242), [Q074](#q074), [Q170](#q170), [Q174](#q174)
 
-**What changed in Edition 117:** Deepened from about 847 to about 1967 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(847 → 1,967 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 847 to about 1967 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(847 → 1,967 words · 6 new sources)]{.small}
 
 ### Q174 How is AI being applied in indigenous and minority-language education, and who controls those projects? {#q174}
 
@@ -9415,7 +9447,7 @@ Sources: [\[SRC-386\]](#src-386) [\[SRC-630\]](#src-630) [\[SRC-1163\]](#src-116
 
 **Related questions:** [Q228](#q228), [Q244](#q244), [Q175](#q175), [Q176](#q176), [Q242](#q242)
 
-**What changed in Edition 117:** Converted all bulleted lists (Smithsonian project examples, CARE/FPIC standards, risk list with bold-style lead labels, and schools' governance questions) into running prose; no other content changed. [(895 → 2,011 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted all bulleted lists (Smithsonian project examples, CARE/FPIC standards, risk list with bold-style lead labels, and schools' governance questions) into running prose; no other content changed. [(895 → 2,011 words · 3 new sources)]{.small}
 
 ### Q175 Is there evidence that AI use accelerates linguistic homogenisation in student writing and speech? {#q175}
 
@@ -9493,7 +9525,7 @@ Sources: [\[SRC-229\]](#src-229) [\[SRC-228\]](#src-228) [\[SRC-1244\]](#src-124
 
 **Related questions:** [Q228](#q228), [Q242](#q242), [Q174](#q174), [Q244](#q244), [Q170](#q170)
 
-**What changed in Edition 117:** Converted the two bulleted lists in the final section (pedagogical features and technical remedies) into running prose so the answer contains no lists; all other content, wording and sources unchanged. [(878 → 1,865 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the two bulleted lists in the final section (pedagogical features and technical remedies) into running prose so the answer contains no lists; all other content, wording and sources unchanged. [(878 → 1,865 words · 5 new sources)]{.small}
 
 ### Q176 What does AI translation change about the case for learning a foreign language at school? {#q176}
 
@@ -9539,7 +9571,7 @@ Sources: [\[SRC-735\]](#src-735) [\[SRC-880\]](#src-880) [\[SRC-1065\]](#src-106
 
 **Related questions:** [Q242](#q242), [Q243](#q243), [Q244](#q244), [Q171](#q171), [Q174](#q174)
 
-**What changed in Edition 117:** Expanded to house length; added evidence from a systematic review, a critical AI literacy case study, and studies of translation students, teacher AI literacy, low-resource settings and longitudinal adoption; hedged cognitive claims; added cross-references. [(936 → 1,955 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to house length; added evidence from a systematic review, a critical AI literacy case study, and studies of translation students, teacher AI literacy, low-resource settings and longitudinal adoption; hedged cognitive claims; added cross-references. [(936 → 1,955 words · 6 new sources)]{.small}
 
 ### Q228 What does evidence show about AI-supported second-language acquisition, and what linguistic inequities does it create? {#q228}
 
@@ -9585,7 +9617,7 @@ Sources: [\[SRC-2545\]](#src-2545) [\[SRC-2546\]](#src-2546) [\[SRC-2547\]](#src
 
 **Related questions:** [Q242](#q242), [Q175](#q175), [Q174](#q174), [Q244](#q244), [Q176](#q176)
 
-**What changed in Edition 118:** Adds a randomised trial of an AI reading platform, a conceptual account of generative AI in language learning, a framework tracing bias to training data, and new arguments about techno-solutionism and the stigmatisation of AI-like language. [(2,089 → 2,406 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: Adds a randomised trial of an AI reading platform, a conceptual account of generative AI in language learning, a framework tracing bias to training data, and new arguments about techno-solutionism and the stigmatisation of AI-like language. [(2,089 → 2,406 words · 5 new sources)]{.small}
 
 ### Q242 What does research say about AI translation's role in foreign-language learning — does it support or substitute genuine language acquisition? {#q242}
 
@@ -9643,7 +9675,7 @@ Sources: [\[SRC-1550\]](#src-1550) [\[SRC-1549\]](#src-1549) [\[SRC-1551\]](#src
 
 **Related questions:** [Q228](#q228), [Q176](#q176), [Q175](#q175), [Q171](#q171), [Q174](#q174)
 
-**What changed in Edition 119:** Reorganised into six connected sections and added recent work on reading scaffolds, student and teacher perceptions in Ecuador and Kazakhstan, AI as cultural event, and equity risks of blanket integrity rules for second-language writers. [(2,078 → 2,431 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 119: Reorganised into six connected sections and added recent work on reading scaffolds, student and teacher perceptions in Ecuador and Kazakhstan, AI as cultural event, and equity risks of blanket integrity rules for second-language writers. [(2,078 → 2,431 words · 5 new sources)]{.small}
 
 ### Q243 How do cultural assumptions embedded in dominant AI language models affect the teaching of history, social studies, and humanities in non-Western educational contexts? {#q243}
 
@@ -9697,7 +9729,7 @@ Sources: [\[SRC-1558\]](#src-1558) [\[SRC-1559\]](#src-1559) [\[SRC-1560\]](#src
 
 **Related questions:** [Q244](#q244), [Q176](#q176), [Q019](#q019), [Q170](#q170), [Q174](#q174)
 
-**What changed in Edition 118:** The answer now also explains how thin local coverage, essay assessment, and combined policy and classroom responses shape the cultural influence of AI models on humanities teaching outside the West. [(2,105 → 2,247 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: The answer now also explains how thin local coverage, essay assessment, and combined policy and classroom responses shape the cultural influence of AI models on humanities teaching outside the West. [(2,105 → 2,247 words · 4 new sources)]{.small}
 
 ### Q244 What happens to language-minority communities when AI educational systems default to dominant languages — documented cases and proposed remedies? {#q244}
 
@@ -9742,6 +9774,8 @@ The evidence base has gaps. Few studies directly measure learning outcomes for m
 Sources: [\[SRC-1561\]](#src-1561) [\[SRC-1569\]](#src-1569) [\[SRC-1570\]](#src-1570) [\[SRC-1571\]](#src-1571) [\[SRC-1558\]](#src-1558) [\[SRC-1572\]](#src-1572) [\[SRC-1573\]](#src-1573) [\[SRC-1574\]](#src-1574) [\[SRC-1575\]](#src-1575) [\[SRC-1576\]](#src-1576) [\[SRC-1577\]](#src-1577) [\[SRC-1578\]](#src-1578)
 
 **Related questions:** [Q170](#q170), [Q243](#q243), [Q174](#q174), [Q176](#q176), [Q228](#q228)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 15: Human Development, Wellbeing, and Mental Health {#chapter-15}
 
@@ -9805,7 +9839,7 @@ Sources: [\[SRC-123\]](#src-123) [\[SRC-289\]](#src-289) [\[SRC-1367\]](#src-136
 
 **Related questions:** [Q245](#q245), [Q015](#q015), [Q247](#q247), [Q180](#q180), [Q182](#q182)
 
-**What changed in Edition 117:** Expanded to seven sections with explicit source attribution. Added evidence on domain-specific design, adult learners, loneliness and dynamic profiling. Flagged the single-audit and expert-synthesis limits, and noted disagreement over age thresholds and de-skilling. [(1,005 → 1,794 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to seven sections with explicit source attribution. Added evidence on domain-specific design, adult learners, loneliness and dynamic profiling. Flagged the single-audit and expert-synthesis limits, and noted disagreement over age thresholds and de-skilling. [(1,005 → 1,794 words · 5 new sources)]{.small}
 
 ### Q180 How is AI being used in school counselling and crisis detection, and how accurate are those systems? {#q180}
 
@@ -9861,7 +9895,7 @@ Sources: [\[SRC-260\]](#src-260) [\[SRC-1242\]](#src-1242) [\[SRC-1094\]](#src-1
 
 **Related questions:** [Q229](#q229), [Q015](#q015), [Q171](#q171), [Q178](#q178), [Q182](#q182)
 
-**What changed in Edition 117:** Deepened from about 890 to about 1917 words in heading-free sections, adding 4 recent peer-reviewed sources while keeping the earlier text and its sources. [(890 → 1,917 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 890 to about 1917 words in heading-free sections, adding 4 recent peer-reviewed sources while keeping the earlier text and its sources. [(890 → 1,917 words · 4 new sources)]{.small}
 
 ### Q182 What safeguarding duties arise when a student discloses harm to an AI system rather than to an adult? {#q182}
 
@@ -9931,7 +9965,7 @@ Sources: [\[SRC-125\]](#src-125) [\[SRC-403\]](#src-403) [\[SRC-866\]](#src-866)
 
 **Related questions:** [Q185](#q185), [Q015](#q015), [Q178](#q178), [Q180](#q180), [Q183](#q183)
 
-**What changed in Edition 117:** Expanded and restructured the answer, with each statistic attributed to its source. Added peer-reviewed context (Triberti 2024, Jukiewicz 2025, Hadar Shoval 2025, Fern 2024, Cırıl 2026), flagged vendor sourcing and unsettled litigation, and added cross-references. [(932 → 1,914 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, with each statistic attributed to its source. Added peer-reviewed context (Triberti 2024, Jukiewicz 2025, Hadar Shoval 2025, Fern 2024, Cırıl 2026), flagged vendor sourcing and unsettled litigation, and added cross-references. [(932 → 1,914 words · 5 new sources)]{.small}
 
 ### Q183 Is there evidence that AI use affects student anxiety, academic pressure, or perfectionism? {#q183}
 
@@ -9983,7 +10017,7 @@ Sources: [\[SRC-1151\]](#src-1151) [\[SRC-722\]](#src-722) [\[SRC-134\]](#src-13
 
 **Related questions:** [Q229](#q229), [Q245](#q245), [Q246](#q246), [Q015](#q015), [Q247](#q247)
 
-**What changed in Edition 117:** Expanded and restructured the answer, added adolescent, policy-ambiguity, review and measurement evidence, foregrounded cross-sectional limits, flagged an untraced 15–20% stress statistic, and added cross-references to Q229, Q246, Q057 and Q247. Revision: converted the bulleted list describing the dysregulated user profile into running prose to remove the list format. [(940 → 2,058 words · 9 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, added adolescent, policy-ambiguity, review and measurement evidence, foregrounded cross-sectional limits, flagged an untraced 15–20% stress statistic, and added cross-references to Q229, Q246, Q057 and Q247. Revision: converted the bulleted list describing the dysregulated user profile into running prose to remove the list format. [(940 → 2,058 words · 9 new sources)]{.small}
 
 ### Q185 What design features make an educational AI system engaging rather than compulsive, and are any enforced? {#q185}
 
@@ -10065,7 +10099,7 @@ Sources: [\[SRC-562\]](#src-562) [\[SRC-476\]](#src-476) [\[SRC-1342\]](#src-134
 
 **Related questions:** [Q182](#q182), [Q229](#q229), [Q015](#q015), [Q178](#q178), [Q180](#q180)
 
-**What changed in Edition 117:** Deepened from about 953 to about 2226 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(953 → 2,226 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 953 to about 2226 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(953 → 2,226 words · 6 new sources)]{.small}
 
 ### Q229 How do educational AI systems affect student mental health, social isolation, and identity beyond anxiety? {#q229}
 
@@ -10117,7 +10151,7 @@ Sources: [\[SRC-2402\]](#src-2402) [\[SRC-096\]](#src-096) [\[SRC-132\]](#src-13
 
 **Related questions:** [Q183](#q183), [Q180](#q180), [Q185](#q185), [Q245](#q245), [Q015](#q015)
 
-**What changed in Edition 118:** This revision adds recent evidence on how widely students use generative AI, how its effects may differ for first-generation and minority students, and the legal and privacy risks of AI emotion monitoring. [(1,993 → 2,325 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: This revision adds recent evidence on how widely students use generative AI, how its effects may differ for first-generation and minority students, and the legal and privacy risks of AI emotion monitoring. [(1,993 → 2,325 words · 5 new sources)]{.small}
 
 ### Q245 What developmental-psychology evidence addresses the long-term effects of AI mentorship and tutoring on children's sense of agency, identity, and self-efficacy? {#q245}
 
@@ -10167,6 +10201,8 @@ Sources: [\[SRC-1579\]](#src-1579) [\[SRC-1580\]](#src-1580) [\[SRC-1479\]](#src
 
 **Related questions:** [Q015](#q015), [Q178](#q178), [Q183](#q183), [Q097](#q097), [Q229](#q229)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q246 How should schools identify and respond when a student develops an unhealthy emotional dependency on an AI companion or tutor? {#q246}
 
 12 citations · 12 sources · 5 cross-references
@@ -10209,6 +10245,8 @@ Sources: [\[SRC-1581\]](#src-1581) [\[SRC-1586\]](#src-1586) [\[SRC-297\]](#src-
 
 **Related questions:** [Q183](#q183), [Q015](#q015), [Q245](#q245), [Q178](#q178), [Q180](#q180)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q247 What do children and adolescents themselves report about how AI affects their motivation, confidence, and experience of learning? {#q247}
 
 11 citations · 11 sources · 5 cross-references
@@ -10246,6 +10284,8 @@ Self-report data must be interpreted cautiously. Students may overestimate the b
 Sources: [\[SRC-1431\]](#src-1431) [\[SRC-1466\]](#src-1466) [\[SRC-1144\]](#src-1144) [\[SRC-1458\]](#src-1458) [\[SRC-1581\]](#src-1581) [\[SRC-1433\]](#src-1433) [\[SRC-1596\]](#src-1596) [\[SRC-1463\]](#src-1463) [\[SRC-1597\]](#src-1597) [\[SRC-1598\]](#src-1598) [\[SRC-1599\]](#src-1599)
 
 **Related questions:** [Q015](#q015), [Q178](#q178), [Q183](#q183), [Q245](#q245), [Q180](#q180)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q015 What is known and unknown about long-term cognitive and emotional effects of AI on children, and how do ethicists weigh acting under that uncertainty? {#q015}
 
@@ -10289,7 +10329,7 @@ Sources: [\[SRC-1383\]](#src-1383) [\[SRC-692\]](#src-692) [\[SRC-1044\]](#src-1
 
 **Related questions:** [Q245](#q245), [Q097](#q097), [Q247](#q247), [Q092](#q092), [Q178](#q178)
 
-**What changed in Edition 117:** Expanded and restructured into six sections with explicit source attribution, adding Schwitzgebel and Sebo's emotional alignment policy, Hagtvedt et al.'s creator-imagining study, AHA paediatric uncertainty ethics, modular-ontology critique, and cross-references to Q092, Q097, Q245. [(758 → 2,005 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections with explicit source attribution, adding Schwitzgebel and Sebo's emotional alignment policy, Hagtvedt et al.'s creator-imagining study, AHA paediatric uncertainty ethics, modular-ontology critique, and cross-references to Q092, Q097, Q245. [(758 → 2,005 words · 4 new sources)]{.small}
 
 ## Chapter 16: Equity, Access, and the New Digital Divide {#chapter-16}
 
@@ -10365,7 +10405,7 @@ Sources: [\[SRC-956\]](#src-956) [\[SRC-507\]](#src-507) [\[SRC-1069\]](#src-106
 
 **Related questions:** [Q193](#q193), [Q188](#q188), [Q192](#q192), [Q187](#q187), [Q190](#q190)
 
-**What changed in Edition 117:** Converted all bulleted lists (AI-tool requirements, Cyprus leaders' perceived uses, investment areas) into running prose to remove list formatting; all other content, wording, sources and cross-references unchanged. [(911 → 1,936 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted all bulleted lists (AI-tool requirements, Cyprus leaders' perceived uses, investment areas) into running prose to remove list formatting; all other content, wording, sources and cross-references unchanged. [(911 → 1,936 words · 5 new sources)]{.small}
 
 ### Q187 How large is the quality gap between free and paid AI tiers, and how does it map onto student wealth? {#q187}
 
@@ -10441,7 +10481,7 @@ Sources: [\[SRC-1263\]](#src-1263) [\[SRC-1197\]](#src-1197) [\[SRC-058\]](#src-
 
 **Related questions:** [Q061](#q061), [Q161](#q161), [Q186](#q186), [Q188](#q188), [Q190](#q190)
 
-**What changed in Edition 117:** Deepened from about 854 to about 2066 words in heading-free sections, adding 4 recent peer-reviewed sources while keeping the earlier text and its sources. [(854 → 2,066 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 854 to about 2066 words in heading-free sections, adding 4 recent peer-reviewed sources while keeping the earlier text and its sources. [(854 → 2,066 words · 4 new sources)]{.small}
 
 ### Q188 Does measured evidence show AI narrowing or widening achievement gaps? {#q188}
 
@@ -10487,7 +10527,7 @@ Sources: [\[SRC-1097\]](#src-1097) [\[SRC-1311\]](#src-1311) [\[SRC-248\]](#src-
 
 **Related questions:** [Q190](#q190), [Q249](#q249), [Q186](#q186), [Q191](#q191), [Q192](#q192)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections; added evidence-quality caveats, study-design limits, a disaggregation research agenda, three new sources (Hadar Shoval 2025; Meng and Wan 2026; Pacheco-Olea and Villacís-Macías 2026; plus Khadka and Maple 2026), and cross-references. [(881 → 2,047 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections; added evidence-quality caveats, study-design limits, a disaggregation research agenda, three new sources (Hadar Shoval 2025; Meng and Wan 2026; Pacheco-Olea and Villacís-Macías 2026; plus Khadka and Maple 2026), and cross-references. [(881 → 2,047 words · 4 new sources)]{.small}
 
 ### Q190 How are rural and remote schools faring with AI relative to urban ones? {#q190}
 
@@ -10537,7 +10577,7 @@ Sources: [\[SRC-1271\]](#src-1271) [\[SRC-1086\]](#src-1086) [\[SRC-1185\]](#src
 
 **Related questions:** [Q188](#q188), [Q191](#q191), [Q248](#q248), [Q249](#q249), [Q186](#q186)
 
-**What changed in Edition 117:** Expanded the answer with new studies on rural Catalan teachers, rural special educators, Lebanese teachers and Irish principals. Clarified evidential limits, added cross-references and preserved all original claims and sources. [(866 → 2,162 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded the answer with new studies on rural Catalan teachers, rural special educators, Lebanese teachers and Irish principals. Clarified evidential limits, added cross-references and preserved all original claims and sources. [(866 → 2,162 words · 4 new sources)]{.small}
 
 ### Q191 Are there gendered differences in student AI adoption, confidence, and outcomes? {#q191}
 
@@ -10607,7 +10647,7 @@ Sources: [\[SRC-707\]](#src-707) [\[SRC-110\]](#src-110) [\[SRC-709\]](#src-709)
 
 **Related questions:** [Q188](#q188), [Q190](#q190), [Q192](#q192), [Q248](#q248), [Q249](#q249)
 
-**What changed in Edition 117:** Expanded and restructured; added evidence on geographic concentration, low-income contexts, perceived versus demonstrated outcomes, longitudinal measurement and school leadership; clarified attribution, reliability and contested findings; added cross-references. Converted the numbered list of proposals in the final section into prose. [(833 → 1,941 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured; added evidence on geographic concentration, low-income contexts, perceived versus demonstrated outcomes, longitudinal measurement and school leadership; clarified attribution, reliability and contested findings; added cross-references. Converted the numbered list of proposals in the final section into prose. [(833 → 1,941 words · 6 new sources)]{.small}
 
 ### Q192 How does AI-assisted homework interact with differences in home support and parental capacity? {#q192}
 
@@ -10677,7 +10717,7 @@ Sources: [\[SRC-1243\]](#src-1243) [\[SRC-170\]](#src-170) [\[SRC-248\]](#src-24
 
 **Related questions:** [Q186](#q186), [Q188](#q188), [Q191](#q191), [Q187](#q187), [Q190](#q190)
 
-**What changed in Edition 117:** Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(890 → 2,019 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened the answer with recent peer-reviewed sources while keeping the earlier text and its sources. [(890 → 2,019 words · 4 new sources)]{.small}
 
 ### Q193 What interventions have demonstrably reduced AI-related inequity in schools? {#q193}
 
@@ -10731,7 +10771,7 @@ Sources: [\[SRC-373\]](#src-373) [\[SRC-419\]](#src-419) [\[SRC-800\]](#src-800)
 
 **Related questions:** [Q186](#q186), [Q085](#q085), [Q187](#q187), [Q188](#q188), [Q190](#q190)
 
-**What changed in Edition 117:** Expanded to six sections, flagged Bluum figures as vendor-reported, added Georgia AI curriculum and teacher-training evidence, leadership reviews, MTSS and bias analogues, and cross-referenced related questions. [(848 → 2,131 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections, flagged Bluum figures as vendor-reported, added Georgia AI curriculum and teacher-training evidence, leadership reviews, MTSS and bias analogues, and cross-referenced related questions. [(848 → 2,131 words · 7 new sources)]{.small}
 
 ### Q248 How are students with disabilities being helped or harmed by mainstream AI educational tools not specifically designed for their needs? {#q248}
 
@@ -10775,6 +10815,8 @@ Sources: [\[SRC-1433\]](#src-1433) [\[SRC-1493\]](#src-1493) [\[SRC-1491\]](#src
 
 **Related questions:** [Q188](#q188), [Q190](#q190), [Q191](#q191), [Q249](#q249), [Q186](#q186)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q249 What does the evidence show about AI's effect on first-generation and low-income college students — does it level or steepen the playing field? {#q249}
 
 12 citations · 12 sources · 5 cross-references
@@ -10814,6 +10856,8 @@ Important caveats remain. The Georgia State findings come from one institution a
 Sources: [\[SRC-1500\]](#src-1500) [\[SRC-1501\]](#src-1501) [\[SRC-1144\]](#src-1144) [\[SRC-1460\]](#src-1460) [\[SRC-1413\]](#src-1413) [\[SRC-1458\]](#src-1458) [\[SRC-1607\]](#src-1607) [\[SRC-1608\]](#src-1608) [\[SRC-1609\]](#src-1609) [\[SRC-1503\]](#src-1503) [\[SRC-1610\]](#src-1610) [\[SRC-1611\]](#src-1611)
 
 **Related questions:** [Q188](#q188), [Q190](#q190), [Q191](#q191), [Q248](#q248), [Q186](#q186)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 17: Environmental and Material Costs {#chapter-17}
 
@@ -10877,7 +10921,7 @@ Sources: [\[SRC-1225\]](#src-1225) [\[SRC-604\]](#src-604) [\[SRC-480\]](#src-48
 
 **Related questions:** [Q250](#q250), [Q251](#q251), [Q199](#q199), [Q195](#q195), [Q196](#q196)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections with explicit source attribution, flagged vendor-derived ChatGPT figures, and added recent evidence on school AI task mix, policy ambiguity, adoption drivers, firm-level footprint associations and teacher ecological awareness. [(900 → 2,103 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections with explicit source attribution, flagged vendor-derived ChatGPT figures, and added recent evidence on school AI task mix, policy ambiguity, adoption drivers, firm-level footprint associations and teacher ecological awareness. [(900 → 2,103 words · 6 new sources)]{.small}
 
 ### Q195 How do AI's environmental costs in education compare with those of the technologies it displaces? {#q195}
 
@@ -10927,7 +10971,7 @@ Sources: [\[SRC-354\]](#src-354) [\[SRC-1159\]](#src-1159) [\[SRC-389\]](#src-38
 
 **Related questions:** [Q196](#q196), [Q251](#q251), [Q200](#q200), [Q194](#q194), [Q197](#q197)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributing every figure to its source, flagging commercial sources, adding evidence from five recent studies, fixing a typographical error, and adding cross-references to Q196, Q199, Q200, Q201, Q250 and Q251. [(826 → 2,033 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributing every figure to its source, flagging commercial sources, adding evidence from five recent studies, fixing a typographical error, and adding cross-references to Q196, Q199, Q200, Q201, Q250 and Q251. [(826 → 2,033 words · 6 new sources)]{.small}
 
 ### Q196 Do education AI vendors disclose environmental data, and is any of it independently verified? {#q196}
 
@@ -10987,7 +11031,7 @@ Sources: [\[SRC-478\]](#src-478) [\[SRC-1223\]](#src-1223) [\[SRC-744\]](#src-74
 
 **Related questions:** [Q195](#q195), [Q197](#q197), [Q200](#q200), [Q201](#q201), [Q250](#q250)
 
-**What changed in Edition 117:** Expanded and reorganised the answer, adding education-research evidence (ESG adoption, teacher capacity, student-disclosure asymmetry, patent disclosure analogy), integrating the One Earth demand study, and adding cross-references to Q197, Q200, Q250 and Q251. [(865 → 2,007 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised the answer, adding education-research evidence (ESG adoption, teacher capacity, student-disclosure asymmetry, patent disclosure analogy), integrating the One Earth demand study, and adding cross-references to Q197, Q200, Q250 and Q251. [(865 → 2,007 words · 5 new sources)]{.small}
 
 ### Q197 Should schools account for AI emissions in their sustainability reporting, and do any currently do so? {#q197}
 
@@ -11031,7 +11075,7 @@ Sources: [\[SRC-1407\]](#src-1407) [\[SRC-389\]](#src-389) [\[SRC-1126\]](#src-1
 
 **Related questions:** [Q196](#q196), [Q199](#q199), [Q201](#q201), [Q250](#q250), [Q194](#q194)
 
-**What changed in Edition 117:** Expanded to house length with new evidence on AI-carbon research in higher education, school leadership readiness and AI uptake; merged duplicated pedagogy material; added cross-references to Q196, Q198, Q199 and Q250. [(889 → 1,892 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to house length with new evidence on AI-carbon research in higher education, school leadership readiness and AI uptake; merged duplicated pedagogy material; added cross-references to Q196, Q198, Q199 and Q250. [(889 → 1,892 words · 6 new sources)]{.small}
 
 ### Q198 What device-lifecycle and e-waste consequences follow from AI-driven hardware requirements in schools? {#q198}
 
@@ -11087,7 +11131,7 @@ Sources: [\[SRC-414\]](#src-414) [\[SRC-339\]](#src-339) [\[SRC-1204\]](#src-120
 
 **Related questions:** [Q250](#q250), [Q194](#q194), [Q195](#q195), [Q196](#q196), [Q197](#q197)
 
-**What changed in Edition 118:** Tightened and reorganised into six sections, added recent work showing edge AI's tight hardware constraints and how AI-in-education research overlooks device footprints, and clarified where sources disagree on progress. [(2,001 → 2,154 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: Tightened and reorganised into six sections, added recent work showing edge AI's tight hardware constraints and how AI-in-education research overlooks device footprints, and clarified where sources disagree on progress. [(2,001 → 2,154 words · 3 new sources)]{.small}
 
 ### Q199 How should the contradiction between teaching sustainability and operating energy-intensive AI be handled? {#q199}
 
@@ -11131,7 +11175,7 @@ Sources: [\[SRC-1180\]](#src-1180) [\[SRC-1227\]](#src-1227) [\[SRC-1201\]](#src
 
 **Related questions:** [Q194](#q194), [Q197](#q197), [Q251](#q251), [Q195](#q195), [Q196](#q196)
 
-**What changed in Edition 117:** Expanded and reorganised the answer, adding evidence from Fokoué, Liu et al., Zhao et al., Capecchi et al. and Alajaji and AlQudairi, flagging scholarly disagreement and evidence limits, citing all sources, and adding cross-references. [(894 → 2,060 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised the answer, adding evidence from Fokoué, Liu et al., Zhao et al., Capecchi et al. and Alajaji and AlQudairi, flagging scholarly disagreement and evidence limits, citing all sources, and adding cross-references. [(894 → 2,060 words · 5 new sources)]{.small}
 
 ### Q200 What practical measures reduce the environmental cost of AI use in education without abandoning it? {#q200}
 
@@ -11199,7 +11243,7 @@ Sources: [\[SRC-169\]](#src-169) [\[SRC-1388\]](#src-1388) [\[SRC-991\]](#src-99
 
 **Related questions:** [Q195](#q195), [Q196](#q196), [Q251](#q251), [Q194](#q194), [Q197](#q197)
 
-**What changed in Edition 117:** Deepened from about 874 to about 1921 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(874 → 1,921 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 874 to about 1921 words in heading-free sections, adding 5 recent peer-reviewed sources while keeping the earlier text and its sources. [(874 → 1,921 words · 5 new sources)]{.small}
 
 ### Q201 Are data-centre siting decisions affecting the communities whose schools use these systems? {#q201}
 
@@ -11267,7 +11311,7 @@ Sources: [\[SRC-482\]](#src-482) [\[SRC-1315\]](#src-1315) [\[SRC-1255\]](#src-1
 
 **Related questions:** [Q250](#q250), [Q196](#q196), [Q197](#q197), [Q194](#q194), [Q195](#q195)
 
-**What changed in Edition 117:** Expanded to six sections with explicit source attribution and correlational caveats, flagged disputed electricity-cost evidence, and added school-leadership and rural-classroom studies showing environmental siting is largely absent from school AI governance. [(910 → 1,748 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections with explicit source attribution and correlational caveats, flagged disputed electricity-cost evidence, and added school-leadership and rural-classroom studies showing environmental siting is largely absent from school AI governance. [(910 → 1,748 words · 5 new sources)]{.small}
 
 ### Q250 How should schools account for the full lifecycle carbon and water footprint of AI infrastructure, from hardware manufacture through data-centre operation to device disposal? {#q250}
 
@@ -11313,6 +11357,8 @@ Sources: [\[SRC-1612\]](#src-1612) [\[SRC-1613\]](#src-1613) [\[SRC-1614\]](#src
 
 **Related questions:** [Q198](#q198), [Q194](#q194), [Q201](#q201), [Q196](#q196), [Q197](#q197)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q251 What evidence exists that smaller, locally deployed AI models can achieve comparable educational outcomes at significantly lower energy cost? {#q251}
 
 12 citations · 12 sources · 5 cross-references
@@ -11350,6 +11396,8 @@ The practical implication is that small, locally deployed models are a credible 
 Sources: [\[SRC-1617\]](#src-1617) [\[SRC-1616\]](#src-1616) [\[SRC-1624\]](#src-1624) [\[SRC-1097\]](#src-1097) [\[SRC-1413\]](#src-1413) [\[SRC-1625\]](#src-1625) [\[SRC-1626\]](#src-1626) [\[SRC-1537\]](#src-1537) [\[SRC-1627\]](#src-1627) [\[SRC-1628\]](#src-1628) [\[SRC-1629\]](#src-1629) [\[SRC-1630\]](#src-1630)
 
 **Related questions:** [Q194](#q194), [Q195](#q195), [Q199](#q199), [Q200](#q200), [Q196](#q196)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 18: Higher Education and Research {#chapter-18}
 
@@ -11405,7 +11453,7 @@ Sources: [\[SRC-053\]](#src-053) [\[SRC-346\]](#src-346) [\[SRC-727\]](#src-727)
 
 **Related questions:** [Q208](#q208), [Q203](#q203), [Q204](#q204), [Q205](#q205), [Q206](#q206)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributing every statistic to a named source, flagging the vendor detection figures, adding fresh evidence on assessment redesign, EFL limitations, online assessment and teacher AI competence, and adding cross-references. [(895 → 2,053 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributing every statistic to a named source, flagging the vendor detection figures, adding fresh evidence on assessment redesign, EFL limitations, online assessment and teacher AI competence, and adding cross-references. [(895 → 2,053 words · 7 new sources)]{.small}
 
 ### Q203 How is AI changing doctoral supervision and research training? {#q203}
 
@@ -11457,7 +11505,7 @@ Sources: [\[SRC-758\]](#src-758) [\[SRC-165\]](#src-165) [\[SRC-720\]](#src-720)
 
 **Related questions:** [Q205](#q205), [Q208](#q208), [Q253](#q253), [Q202](#q202), [Q204](#q204)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections; added evidence on doctoral students' AI adoption (Oliveira 2024), well-being (Huang 2026), entrustment frameworks (Preiksaitis 2026) and doctoral knowledge production (Montgomery 2024); flagged disputed autonomy findings and vendor-source status. [(986 → 2,026 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections; added evidence on doctoral students' AI adoption (Oliveira 2024), well-being (Huang 2026), entrustment frameworks (Preiksaitis 2026) and doctoral knowledge production (Montgomery 2024); flagged disputed autonomy findings and vendor-source status. [(986 → 2,026 words · 4 new sources)]{.small}
 
 ### Q204 What is AI doing to peer review and scholarly publishing, and how are journals responding? {#q204}
 
@@ -11507,7 +11555,7 @@ Sources: [\[SRC-350\]](#src-350) [\[SRC-818\]](#src-818) [\[SRC-1350\]](#src-135
 
 **Related questions:** [Q252](#q252), [Q206](#q206), [Q202](#q202), [Q203](#q203), [Q205](#q205)
 
-**What changed in Edition 117:** Deepened from about 885 to about 1914 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(885 → 1,914 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 885 to about 1914 words in heading-free sections, adding 3 recent peer-reviewed sources while keeping the earlier text and its sources. [(885 → 1,914 words · 3 new sources)]{.small}
 
 ### Q205 What research-integrity failures attributable to AI have been documented, and at what rate? {#q205}
 
@@ -11579,7 +11627,7 @@ Sources: [\[SRC-364\]](#src-364) [\[SRC-094\]](#src-094) [\[SRC-1077\]](#src-107
 
 **Related questions:** [Q164](#q164), [Q203](#q203), [Q253](#q253), [Q202](#q202), [Q204](#q204)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributing every statistic to its source, separating vendor compilations from research, noting discrepancies between retraction datasets, adding evidence on disclosure, detection bias and research gaps, and adding cross-references. Converted the bulleted list of measures in the final section into running prose to remove list formatting. [(908 → 1,882 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributing every statistic to its source, separating vendor compilations from research, noting discrepancies between retraction datasets, adding evidence on disclosure, detection bias and research gaps, and adding cross-references. Converted the bulleted list of measures in the final section into running prose to remove list formatting. [(908 → 1,882 words · 5 new sources)]{.small}
 
 ### Q206 How are admissions systems responding to AI-written applications and personal statements? {#q206}
 
@@ -11659,7 +11707,7 @@ Sources: [\[SRC-250\]](#src-250) [\[SRC-154\]](#src-154) [\[SRC-088\]](#src-088)
 
 **Related questions:** [Q204](#q204), [Q202](#q202), [Q203](#q203), [Q205](#q205), [Q207](#q207)
 
-**What changed in Edition 117:** Converted all bulleted lists and bold labels into running prose to meet formatting rules; content, wording, sources and structure otherwise unchanged. [(994 → 1,921 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted all bulleted lists and bold labels into running prose to meet formatting rules; content, wording, sources and structure otherwise unchanged. [(994 → 1,921 words · 4 new sources)]{.small}
 
 ### Q207 What are the economic consequences of AI for universities' teaching-revenue models? {#q207}
 
@@ -11709,7 +11757,7 @@ Sources: [\[SRC-312\]](#src-312) [\[SRC-728\]](#src-728) [\[SRC-150\]](#src-150)
 
 **Related questions:** [Q208](#q208), [Q209](#q209), [Q253](#q253), [Q202](#q202), [Q203](#q203)
 
-**What changed in Edition 117:** Expanded and reorganised the answer into six sections, added evidence from three recent studies with their limits, attributed all figures, flagged contested cost theories, and cross-referenced the related labour and graduate-programme questions. [(851 → 1,868 words · 3 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised the answer into six sections, added evidence from three recent studies with their limits, attributed all figures, flagged contested cost theories, and cross-referenced the related labour and graduate-programme questions. [(851 → 1,868 words · 3 new sources)]{.small}
 
 ### Q208 How is AI changing the value and delivery of graduate professional programmes? {#q208}
 
@@ -11787,7 +11835,7 @@ Sources: [\[SRC-400\]](#src-400) [\[SRC-731\]](#src-731) [\[SRC-107\]](#src-107)
 
 **Related questions:** [Q227](#q227), [Q202](#q202), [Q203](#q203), [Q207](#q207), [Q066](#q066)
 
-**What changed in Edition 117:** Converted the three bulleted lists (legal curriculum fronts, business school AI commitments, Ekuma's three responses) into running prose to remove all list formatting. All other content, wording, sources and cross-references are unchanged. [(844 → 1,900 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the three bulleted lists (legal curriculum fronts, business school AI commitments, Ekuma's three responses) into running prose to remove all list formatting. All other content, wording, sources and cross-references are unchanged. [(844 → 1,900 words · 6 new sources)]{.small}
 
 ### Q209 What is AI doing to the academic labour market, including adjunct and teaching-assistant work? {#q209}
 
@@ -11829,7 +11877,7 @@ Sources: [\[SRC-312\]](#src-312) [\[SRC-320\]](#src-320) [\[SRC-066\]](#src-066)
 
 **Related questions:** [Q207](#q207), [Q252](#q252), [Q202](#q202), [Q203](#q203), [Q204](#q204)
 
-**What changed in Edition 117:** Deepened from about 1047 to about 1938 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(1,047 → 1,938 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 1047 to about 1938 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(1,047 → 1,938 words · 6 new sources)]{.small}
 
 ### Q252 What is AI doing to the academic conference system, preprint culture, and peer review — and are hallucinated citations appearing in published literature? {#q252}
 
@@ -11873,6 +11921,8 @@ Sources: [\[SRC-1631\]](#src-1631) [\[SRC-1542\]](#src-1542) [\[SRC-1533\]](#src
 
 **Related questions:** [Q204](#q204), [Q209](#q209), [Q202](#q202), [Q203](#q203), [Q205](#q205)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q253 How are universities restructuring research data management and open-science policies in response to AI tools that can process, summarise, and generate research outputs? {#q253}
 
 12 citations · 12 sources · 5 cross-references
@@ -11914,6 +11964,8 @@ The overall pattern is one of incremental adaptation rather than wholesale restr
 Sources: [\[SRC-1540\]](#src-1540) [\[SRC-1640\]](#src-1640) [\[SRC-1633\]](#src-1633) [\[SRC-1641\]](#src-1641) [\[SRC-1642\]](#src-1642) [\[SRC-1542\]](#src-1542) [\[SRC-1643\]](#src-1643) [\[SRC-1644\]](#src-1644) [\[SRC-1645\]](#src-1645) [\[SRC-1646\]](#src-1646) [\[SRC-1647\]](#src-1647) [\[SRC-1648\]](#src-1648)
 
 **Related questions:** [Q203](#q203), [Q205](#q205), [Q207](#q207), [Q202](#q202), [Q204](#q204)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 19: Teacher Formation and the Profession {#chapter-19}
 
@@ -11989,7 +12041,7 @@ Sources: [\[SRC-136\]](#src-136) [\[SRC-1158\]](#src-1158) [\[SRC-673\]](#src-67
 
 **Related questions:** [Q217](#q217), [Q254](#q254), [Q211](#q211), [Q212](#q212), [Q214](#q214)
 
-**What changed in Edition 117:** Expanded and restructured the answer, attributing the review to Pinto et al. and adding Hungarian survey data, medical-education parallels on faculty competencies, teacher AI anxiety and partnership inquiry, plus cross-references. [(872 → 2,055 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, attributing the review to Pinto et al. and adding Hungarian survey data, medical-education parallels on faculty competencies, teacher AI anxiety and partnership inquiry, plus cross-references. [(872 → 2,055 words · 6 new sources)]{.small}
 
 ### Q211 How is AI being used in teacher recruitment, evaluation, and classroom surveillance? {#q211}
 
@@ -12069,7 +12121,7 @@ Sources: [\[SRC-200\]](#src-200) [\[SRC-974\]](#src-974) [\[SRC-341\]](#src-341)
 
 **Related questions:** [Q215](#q215), [Q210](#q210), [Q212](#q212), [Q214](#q214), [Q216](#q216)
 
-**What changed in Edition 117:** Expanded and restructured into six sections. Added recent studies on AI in teacher development, mentoring and AI literacy. Attributed all percentages to their sources, flagged vendor claims and correlational evidence, corrected a textual error, and added cross-references. Converted all bulleted lists and bold labels into continuous prose. [(852 → 1,874 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured into six sections. Added recent studies on AI in teacher development, mentoring and AI literacy. Attributed all percentages to their sources, flagged vendor claims and correlational evidence, corrected a textual error, and added cross-references. Converted all bulleted lists and bold labels into continuous prose. [(852 → 1,874 words · 5 new sources)]{.small}
 
 ### Q212 What measured effect does AI have on teacher workload and burnout? {#q212}
 
@@ -12143,7 +12195,7 @@ Sources: [\[SRC-1176\]](#src-1176) [\[SRC-1355\]](#src-1355) [\[SRC-1059\]](#src
 
 **Related questions:** [Q215](#q215), [Q210](#q210), [Q211](#q211), [Q214](#q214), [Q216](#q216)
 
-**What changed in Edition 117:** Converted the bulleted list of time-saving task areas in the third section into continuous prose to remove the disallowed list formatting; all other content, wording and sources unchanged. [(836 → 2,052 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the bulleted list of time-saving task areas in the third section into continuous prose to remove the disallowed list formatting; all other content, wording and sources unchanged. [(836 → 2,052 words · 5 new sources)]{.small}
 
 ### Q214 How does mandated AI use affect teachers' professional autonomy and judgment? {#q214}
 
@@ -12191,7 +12243,7 @@ Sources: [\[SRC-1168\]](#src-1168) [\[SRC-1039\]](#src-1039) [\[SRC-1130\]](#src
 
 **Related questions:** [Q255](#q255), [Q216](#q216), [Q217](#q217), [Q254](#q254), [Q048](#q048)
 
-**What changed in Edition 117:** Expanded into six continuous sections, added recent empirical studies on teacher beliefs, confidence, professional development and AI acceptance, clarified that the evidence is correlational, and added cross-references to Q217, Q255 and Q254. [(852 → 1,918 words · 8 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded into six continuous sections, added recent empirical studies on teacher beliefs, confidence, professional development and AI acceptance, clarified that the evidence is correlational, and added cross-references to Q217, Q255 and Q254. [(852 → 1,918 words · 8 new sources)]{.small}
 
 ### Q215 Is AI affecting teacher recruitment and retention, and in which direction? {#q215}
 
@@ -12237,7 +12289,7 @@ Sources: [\[SRC-200\]](#src-200) [\[SRC-1119\]](#src-1119) [\[SRC-1275\]](#src-1
 
 **Related questions:** [Q211](#q211), [Q212](#q212), [Q210](#q210), [Q214](#q214), [Q216](#q216)
 
-**What changed in Edition 117:** Expanded and restructured; vendor retention statistics now flagged as claims, every percentage attributed, bias evidence presented as disputed, and new teacher-preparation studies added on workforce AI readiness, with cross-references to Q210, Q211, Q212. [(830 → 1,967 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured; vendor retention statistics now flagged as claims, every percentage attributed, bias evidence presented as disputed, and new teacher-preparation studies added on workforce AI readiness, with cross-references to Q210, Q211, Q212. [(830 → 1,967 words · 4 new sources)]{.small}
 
 ### Q216 What new professional roles are emerging in schools because of AI? {#q216}
 
@@ -12311,7 +12363,7 @@ Sources: [\[SRC-140\]](#src-140) [\[SRC-379\]](#src-379) [\[SRC-886\]](#src-886)
 
 **Related questions:** [Q214](#q214), [Q217](#q217), [Q254](#q254), [Q255](#q255), [Q210](#q210)
 
-**What changed in Edition 117:** Removed a duplicated governance paragraph, attributed every claim to its source, flagged vendor and marketing sources, added evidence from Kumar and Sarkar, Gorman and Brennan, López Costa, and Kelley and Wenzel, and added cross-references. Converted all numbered and bulleted lists into running prose to comply with the no-lists rule. [(1,004 → 2,086 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Removed a duplicated governance paragraph, attributed every claim to its source, flagged vendor and marketing sources, added evidence from Kumar and Sarkar, Gorman and Brennan, López Costa, and Kelley and Wenzel, and added cross-references. Converted all numbered and bulleted lists into running prose to comply with the no-lists rule. [(1,004 → 2,086 words · 4 new sources)]{.small}
 
 ### Q217 What would a professional standard or code of practice for teachers' AI use contain? {#q217}
 
@@ -12417,7 +12469,7 @@ Sources: [\[SRC-136\]](#src-136) [\[SRC-135\]](#src-135) [\[SRC-1130\]](#src-113
 
 **Related questions:** [Q254](#q254), [Q255](#q255), [Q210](#q210), [Q214](#q214), [Q216](#q216)
 
-**What changed in Edition 117:** Converted all bulleted lists (UNESCO guiding principles, state human-in-the-loop comparisons, common guidance themes, open governance decisions, and recent studies) into running prose; all other content, wording and sources unchanged. [(1,041 → 2,127 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted all bulleted lists (UNESCO guiding principles, state human-in-the-loop comparisons, common guidance themes, open governance decisions, and recent studies) into running prose; all other content, wording and sources unchanged. [(1,041 → 2,127 words · 6 new sources)]{.small}
 
 ### Q254 What does continuing professional development for teacher AI literacy look like in practice — which programmes have been formally evaluated and what do they show? {#q254}
 
@@ -12462,6 +12514,8 @@ The evidence suggests that schools should favour sustained, practice-based progr
 Sources: [\[SRC-1649\]](#src-1649) [\[SRC-1650\]](#src-1650) [\[SRC-1460\]](#src-1460) [\[SRC-1286\]](#src-1286) [\[SRC-1425\]](#src-1425) [\[SRC-1651\]](#src-1651) [\[SRC-1652\]](#src-1652) [\[SRC-1653\]](#src-1653) [\[SRC-1654\]](#src-1654) [\[SRC-136\]](#src-136) [\[SRC-1655\]](#src-1655)
 
 **Related questions:** [Q217](#q217), [Q054](#q054), [Q210](#q210), [Q214](#q214), [Q216](#q216)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q255 How are teacher unions and professional associations responding to AI in schools, and what collective-bargaining agreements or professional standards have emerged? {#q255}
 
@@ -12508,6 +12562,8 @@ The institutional standards and accreditation positions that professional bodies
 Sources: [\[SRC-1459\]](#src-1459) [\[SRC-1425\]](#src-1425) [\[SRC-1465\]](#src-1465) [\[SRC-1656\]](#src-1656) [\[SRC-1460\]](#src-1460) [\[SRC-1657\]](#src-1657) [\[SRC-1658\]](#src-1658) [\[SRC-1421\]](#src-1421) [\[SRC-1659\]](#src-1659) [\[SRC-1650\]](#src-1650)
 
 **Related questions:** [Q214](#q214), [Q217](#q217), [Q076](#q076), [Q216](#q216), [Q254](#q254)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Chapter 20: Security, Safety, and Institutional Risk {#chapter-20}
 
@@ -12559,7 +12615,7 @@ Sources: [\[SRC-1001\]](#src-1001) [\[SRC-1041\]](#src-1041) [\[SRC-1040\]](#src
 
 **Related questions:** [Q221](#q221), [Q256](#q256), [Q275](#q275), [Q276](#q276), [Q278](#q278)
 
-**What changed in Edition 117:** Expanded and restructured the answer, added attribution for every attack-success figure, flagged benchmark-versus-classroom limits, integrated new evidence on student AI use, teacher prompt pipelines and non-generative grading, and added cross-references. [(1,031 → 1,878 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and restructured the answer, added attribution for every attack-success figure, flagged benchmark-versus-classroom limits, integrated new evidence on student AI use, teacher prompt pipelines and non-generative grading, and added cross-references. [(1,031 → 1,878 words · 5 new sources)]{.small}
 
 ### Q220 How widespread is AI-enabled bullying, including deepfakes of students and staff, and what works against it? {#q220}
 
@@ -12635,7 +12691,7 @@ Sources: [\[SRC-1053\]](#src-1053) [\[SRC-539\]](#src-539) [\[SRC-954\]](#src-95
 
 **Related questions:** [Q223](#q223), [Q224](#q224), [Q225](#q225), [Q278](#q278), [Q013](#q013)
 
-**What changed in Edition 117:** Converted the two bulleted lists (media-literacy curriculum content in section four and the technical and legal cooperation strands in section five) into running prose; all other content, wording and sources unchanged. [(951 → 1,922 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the two bulleted lists (media-literacy curriculum content in section four and the technical and legal cooperation strands in section five) into running prose; all other content, wording and sources unchanged. [(951 → 1,922 words · 5 new sources)]{.small}
 
 ### Q221 What threatens the integrity of academic records when AI systems write to them? {#q221}
 
@@ -12693,7 +12749,7 @@ Sources: [\[SRC-1318\]](#src-1318) [\[SRC-083\]](#src-083) [\[SRC-470\]](#src-47
 
 **Related questions:** [Q275](#q275), [Q256](#q256), [Q278](#q278), [Q218](#q218), [Q224](#q224)
 
-**What changed in Edition 117:** Expanded to house length, adding recent reviews and surveys on detector bias, disclosure reliability and cross-national integrity concerns, clarifying evidential strength per threat, and adding cross-references to Q017, Q244 and Q257. [(1,025 → 2,105 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to house length, adding recent reviews and surveys on detector bias, disclosure reliability and cross-national integrity concerns, clarifying evidential strength per threat, and adding cross-references to Q017, Q244 and Q257. [(1,025 → 2,105 words · 7 new sources)]{.small}
 
 ### Q222 What should a school's AI incident-response procedure contain? {#q222}
 
@@ -12781,7 +12837,7 @@ Sources: [\[SRC-975\]](#src-975) [\[SRC-814\]](#src-814) [\[SRC-421\]](#src-421)
 
 **Related questions:** [Q225](#q225), [Q275](#q275), [Q218](#q218), [Q220](#q220), [Q221](#q221)
 
-**What changed in Edition 117:** Deepened from about 929 to about 2267 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(929 → 2,267 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Deepened from about 929 to about 2267 words in heading-free sections, adding 6 recent peer-reviewed sources while keeping the earlier text and its sources. [(929 → 2,267 words · 6 new sources)]{.small}
 
 ### Q223 What belongs on a school's AI risk register, and who owns each item? {#q223}
 
@@ -12887,7 +12943,7 @@ Sources: [\[SRC-975\]](#src-975) [\[SRC-1121\]](#src-1121) [\[SRC-1385\]](#src-1
 
 **Related questions:** [Q220](#q220), [Q225](#q225), [Q218](#q218), [Q221](#q221), [Q222](#q222)
 
-**What changed in Edition 117:** Converted the bulleted list of indicators in the controls section into a single prose sentence so the answer contains no lists. All other content, wording and sources are unchanged. [(989 → 2,267 words · 5 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Converted the bulleted list of indicators in the controls section into a single prose sentence so the answer contains no lists. All other content, wording and sources are unchanged. [(989 → 2,267 words · 5 new sources)]{.small}
 
 ### Q224 What are the risks of shadow AI use — unapproved tools used by staff and students — and how is it detected? {#q224}
 
@@ -12945,7 +13001,7 @@ Sources: [\[SRC-1002\]](#src-1002) [\[SRC-1105\]](#src-1105) [\[SRC-627\]](#src-
 
 **Related questions:** [Q220](#q220), [Q221](#q221), [Q256](#q256), [Q257](#q257), [Q276](#q276)
 
-**What changed in Edition 117:** Expanded and reorganised into six sections; added higher-education adoption studies with samples and limits; flagged vendor sources; added surveillance caveat for detection; fixed a FERPA typo; cross-referenced Q218, Q220 and Q083. [(929 → 2,014 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded and reorganised into six sections; added higher-education adoption studies with samples and limits; flagged vendor sources; added surveillance caveat for detection; fixed a FERPA typo; cross-referenced Q218, Q220 and Q083. [(929 → 2,014 words · 7 new sources)]{.small}
 
 ### Q225 What dependency risk does a school accept when core teaching functions rely on a single AI provider? {#q225}
 
@@ -12993,7 +13049,7 @@ Sources: [\[SRC-384\]](#src-384) [\[SRC-525\]](#src-525) [\[SRC-951\]](#src-951)
 
 **Related questions:** [Q220](#q220), [Q222](#q222), [Q223](#q223), [Q218](#q218), [Q221](#q221)
 
-**What changed in Edition 117:** Expanded to six sections; added evidence from leadership reviews, student-dependency surveys and Expiration Theory; flagged the thin empirical basis for pedagogical lock-in; distinguished vendor commentary from research; corrected and added cross-references. [(1,008 → 1,981 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Expanded to six sections; added evidence from leadership reviews, student-dependency surveys and Expiration Theory; flagged the thin empirical basis for pedagogical lock-in; distinguished vendor commentary from research; corrected and added cross-references. [(1,008 → 1,981 words · 6 new sources)]{.small}
 
 ### Q256 What data-minimisation, retention, and deletion policies should schools adopt for student interaction logs generated by AI systems? {#q256}
 
@@ -13039,6 +13095,8 @@ Sources: [\[SRC-1449\]](#src-1449) [\[SRC-1511\]](#src-1511) [\[SRC-1660\]](#src
 
 **Related questions:** [Q221](#q221), [Q257](#q257), [Q276](#q276), [Q218](#q218), [Q224](#q224)
 
+**What changed in this edition:** This answer is unchanged in Edition 120.
+
 ### Q257 How should schools respond when they discover that a third-party AI tool has been training on their students' data without adequate consent or notification? {#q257}
 
 12 citations · 12 sources · 5 cross-references
@@ -13080,6 +13138,8 @@ Evidence about how schools actually handle such incidents is sparse, because man
 Sources: [\[SRC-1423\]](#src-1423) [\[SRC-1422\]](#src-1422) [\[SRC-1667\]](#src-1667) [\[SRC-1511\]](#src-1511) [\[SRC-1661\]](#src-1661) [\[SRC-1450\]](#src-1450) [\[SRC-1668\]](#src-1668) [\[SRC-1457\]](#src-1457) [\[SRC-1669\]](#src-1669) [\[SRC-1670\]](#src-1670) [\[SRC-1671\]](#src-1671) [\[SRC-1672\]](#src-1672)
 
 **Related questions:** [Q256](#q256), [Q224](#q224), [Q276](#q276), [Q218](#q218), [Q220](#q220)
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q275 What does agentic AI change about student autonomy and academic integrity when systems can plan, search, draft, revise, and submit multi-step academic work with little supervision? {#q275}
 
@@ -13129,7 +13189,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor integration of agent features into learning platforms, institutional policies distinguishing agent from chatbot use, and post-2024 systematic reviews on agentic AI and assessment validity.
 -   *Related questions:* [Q017](#q017), [Q218](#q218), [Q221](#q221), [Q278](#q278).
 
-**What changed in Edition 118:** New in this edition: examines how agentic AI that plans, drafts and submits work shifts integrity from text authorship to process authorship, creating hidden delegation, dependence and platform-level institutional risks. [(0 → 2,031 words · 15 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: examines how agentic AI that plans, drafts and submits work shifts integrity from text authorship to process authorship, creating hidden delegation, dependence and platform-level institutional risks. [(0 → 2,031 words · 15 new sources)]{.small}
 
 ### Q276 What rules should govern behavioural tracking, biometric inference, and emotion recognition in AI-powered learning systems? {#q276}
 
@@ -13165,7 +13225,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor enforcement actions and guidance under the AI Act, published disaggregated accuracy audits of proctoring and engagement products, and empirical studies of student and parent consent to inference-based monitoring.
 -   *Related questions:* [Q256](#q256), [Q257](#q257), [Q275](#q275), [Q278](#q278).
 
-**What changed in Edition 118:** New in this edition: an analysis of rules for inference-based surveillance in learning systems, covering emotion recognition, biometric identification, proctoring, behavioural analytics and the EU AI Act's educational prohibition. [(0 → 2,188 words · 16 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: an analysis of rules for inference-based surveillance in learning systems, covering emotion recognition, biometric identification, proctoring, behavioural analytics and the EU AI Act's educational prohibition. [(0 → 2,188 words · 16 new sources)]{.small}
 
 ### Q278 How should education systems prepare for AI-enabled credential fraud, synthetic identities, and AI-assisted academic impersonation? {#q278}
 
@@ -13223,7 +13283,7 @@ Disputed aspects
 -   *Indicators to monitor:* Monitor documented admissions and credential fraud cases involving generative tools, adoption of verifiable digital credentials, deepfake detection performance in live video, and equity audits of identity-verification systems.
 -   *Related questions:* [Q220](#q220), [Q221](#q221), [Q256](#q256), [Q275](#q275), [Q276](#q276).
 
-**What changed in Edition 118:** New in this edition: examines how education systems should verify credentials, identities and authorship as generative AI cheapens forgery, deepfaked identity and impersonation, favouring provenance, proportionate identity checks and validity-centred assessment over detection. [(0 → 2,058 words · 12 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: New in this edition: examines how education systems should verify credentials, identities and authorship as generative AI cheapens forgery, deepfaked identity and impersonation, favouring provenance, proportionate identity checks and validity-centred assessment over detection. [(0 → 2,058 words · 12 new sources)]{.small}
 
 ## Chapter 21: The Financial Economics of AI in Education {#chapter-21}
 
@@ -13289,7 +13349,7 @@ Sources: [\[SRC-446\]](#src-446) [\[SRC-1673\]](#src-1673) [\[SRC-1674\]](#src-1
 -   *Indicators to monitor:* renewal price versus initial price; cost per active user; share of AI capability arriving bundled; measured staff-time logs; prevalence of exit and data-return clauses.
 -   *Related questions:* [Q122](#q122), [Q124](#q124), [Q225](#q225), [Q073](#q073), [Q131](#q131), [Q267](#q267), [Q269](#q269).
 
-**What changed in Edition 118:** Converted all bulleted and numbered lists and both CSU tables into running prose, keeping every figure and citation; trimmed a few redundant sentences and phrases to bring the length under 2,350 words. [(2,024 → 2,402 words · 7 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 118: Converted all bulleted and numbered lists and both CSU tables into running prose, keeping every figure and citation; trimmed a few redundant sentences and phrases to bring the length under 2,350 words. [(2,024 → 2,402 words · 7 new sources)]{.small}
 
 ### Q267 How should educational institutions finance AI, and how should they weigh that expenditure against competing educational needs? {#q267}
 
@@ -13379,7 +13439,7 @@ Sources: [\[SRC-1673\]](#src-1673) [\[SRC-1675\]](#src-1675) [\[SRC-1676\]](#src
 -   *Indicators to monitor:* share of AI spending from temporary versus recurring sources; written alternative-use comparisons in board papers; introduction of AI user fees; AI renewals approved during budget reductions.
 -   *Related questions:* [Q077](#q077), [Q122](#q122), [Q190](#q190), [Q193](#q193), [Q266](#q266), [Q268](#q268), [Q270](#q270), [Q271](#q271).
 
-**What changed in Edition 117:** Reorganised into six sections; added international evidence (Lakhno, Gopi and Agarwal, Katsamakas et al., Alsuhaymi and Eltantawy, Al-Raimi, Ocen et al.); clarified correlational and self-reported status of survey findings; added workforce and meta-analysis cross-references. Post-publication review: noted that CSU's \$1.60 and \$8.00 figures are stated in different units and that the monthly reading is an inference (see Q266). [(1,652 → 2,369 words · 6 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Reorganised into six sections; added international evidence (Lakhno, Gopi and Agarwal, Katsamakas et al., Alsuhaymi and Eltantawy, Al-Raimi, Ocen et al.); clarified correlational and self-reported status of survey findings; added workforce and meta-analysis cross-references. Post-publication review: noted that CSU's \$1.60 and \$8.00 figures are stated in different units and that the monthly reading is an inference (see Q266). [(1,652 → 2,369 words · 6 new sources)]{.small}
 
 ### Q268 What evidence would establish whether an educational AI investment delivers financial savings, productivity gains, educational value, or a worthwhile combination of these outcomes? {#q268}
 
@@ -13445,7 +13505,7 @@ Sources: [\[SRC-1650\]](#src-1650) [\[SRC-1176\]](#src-1176) [\[SRC-1680\]](#src
 -   *Indicators to monitor:* publication status of working papers and preprints (NBER 33777, Tutor CoPilot); measured versus self-reported time savings; cost per active user; comparative results from England, the United States, and Turkey; studies that report independent as well as assisted performance.
 -   *Related questions:* [Q089](#q089), [Q090](#q090), [Q212](#q212), [Q266](#q266), [Q267](#q267), [Q269](#q269).
 
-**What changed in Edition 117:** Reorganised into six sections; added Kafa (2025), El Idrissi and Alami (2025), Sposato (2025) and Kennedy (2026) on perceived efficiency, correlational productivity, evidence caution and transferability; added cross-references to Q105 and Q271. Post-publication review: added Liberia to the list of study settings; specified that the 49-to-26 per cent planning-time perception figure refers to teachers using ChatGPT; added the Gallup–Walton policy comparison (2.3 versus 1.7 hours a week) as evidence that surrounding conditions change returns. [(1,618 → 2,083 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Reorganised into six sections; added Kafa (2025), El Idrissi and Alami (2025), Sposato (2025) and Kennedy (2026) on perceived efficiency, correlational productivity, evidence caution and transferability; added cross-references to Q105 and Q271. Post-publication review: added Liberia to the list of study settings; specified that the 49-to-26 per cent planning-time perception figure refers to teachers using ChatGPT; added the Gallup–Walton policy comparison (2.3 versus 1.7 hours a week) as evidence that surrounding conditions change returns. [(1,618 → 2,083 words · 4 new sources)]{.small}
 
 ### Q269 How does AI adoption affect the size, workload, and compensation of the teaching workforce? {#q269}
 
@@ -13501,7 +13561,7 @@ Sources: [\[SRC-1176\]](#src-1176) [\[SRC-1286\]](#src-1286) [\[SRC-1679\]](#src
 -   *Indicators to monitor:* posts cut or left unfilled with AI cited as the reason; collective agreements or policies on AI and the use of freed time; paid training hours per staff member; measured time-log results; AI adoption gaps by school poverty level and staff role; use of AI in grading by contingent higher-education staff.
 -   *Related questions:* [Q076](#q076), [Q079](#q079), [Q085](#q085), [Q209](#q209), [Q212](#q212), [Q214](#q214), [Q267](#q267), [Q268](#q268).
 
-**What changed in Edition 117:** Reorganised into six sections; added TALIS 2024 US evidence (Jiang), Shanghai faculty survey (Gao and Yang), principals' leadership study and low-income-country review; flagged disagreement on adoption rates; added cross-references to Q267, Q268, Q271. Post-publication review: removed duplicated cross-reference artefacts left by the rebuild; added an inline citation for the lesson-planning evidence; clarified the TALIS-based 40 per cent figure; added the Walton policy comparison (2.3 versus 1.7 hours a week). [(1,667 → 2,146 words · 4 new sources)]{.small}
+**What changed in this edition:** This answer is unchanged in Edition 120. Its most recent revision, in Edition 117: Reorganised into six sections; added TALIS 2024 US evidence (Jiang), Shanghai faculty survey (Gao and Yang), principals' leadership study and low-income-country review; flagged disagreement on adoption rates; added cross-references to Q267, Q268, Q271. Post-publication review: removed duplicated cross-reference artefacts left by the rebuild; added an inline citation for the lesson-planning evidence; clarified the TALIS-based 40 per cent figure; added the Walton policy comparison (2.3 versus 1.7 hours a week). [(1,667 → 2,146 words · 4 new sources)]{.small}
 
 ### Q270 What costs do parents and households bear as AI enters education, and how do those costs differ between families? {#q270}
 
@@ -13546,6 +13606,8 @@ Sources: [\[SRC-1684\]](#src-1684) [\[SRC-1685\]](#src-1685) [\[SRC-1686\]](#src
 -   *Could change the conclusions:* a representative survey of household AI spending on education; evidence on why lower-income teens rely more on chatbots; effects of free-tier advertising on children; restoration or replacement of US federal broadband support; changes in consumer prices or free-tier capability.
 -   *Indicators to monitor:* consumer AI prices and free-tier limits; share of districts providing student AI tools; records of schools recommending paid AI products; Pew income gaps in teen chatbot reliance; home broadband affordability; the source behind Q192's 73% figure ([\[SRC-1243\]](#src-1243)).
 -   *Related questions:* [Q129](#q129), [Q187](#q187), [Q190](#q190), [Q192](#q192), [Q193](#q193), [Q266](#q266), [Q267](#q267), [Q268](#q268), [Q271](#q271).
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ### Q271 What costs do students bear as AI enters education, and how might those costs affect affordability, debt, and participation? {#q271}
 
@@ -13592,6 +13654,8 @@ Sources: [\[SRC-1685\]](#src-1685) [\[SRC-1684\]](#src-1684) [\[SRC-1145\]](#src
 -   *Could change the conclusions:* federal guidance on whether AI subscriptions count toward the US cost of attendance; surveys of actual student AI spending by income; evidence on AI-specific fees; evidence linking AI costs to borrowing or withdrawal; later labour-market studies of AI and earnings; outcomes after CSU's graduate access period.
 -   *Indicators to monitor:* share of students reporting institution-provided AI (HEPI's annual series); consumer and education pricing; AI-related fees; COA treatment of AI tools in published institutional budgets; social-grade and income gaps in AI use; misconduct cases involving AI; renewal terms of large institutional licences.
 -   *Related questions:* [Q079](#q079), [Q187](#q187), [Q192](#q192), [Q266](#q266), [Q267](#q267), [Q268](#q268), [Q269](#q269), [Q270](#q270).
+
+**What changed in this edition:** This answer is unchanged in Edition 120.
 
 ## Publication Statistics
 
