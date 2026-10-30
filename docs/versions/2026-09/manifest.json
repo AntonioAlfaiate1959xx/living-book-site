@@ -1,0 +1,990 @@
+{
+  "version": "2026-09",
+  "label": "September 2026",
+  "edition": 112,
+  "edition_date": "2026-09-24",
+  "archived_at": "2026-10-14T01:17:14Z",
+  "source": "git-backfill",
+  "source_commit": "55a4a85b3b2e6f836c108dc022e0e1af4a9f2281",
+  "source_commit_date": "2026-09-28T19:58:45+00:00",
+  "page": "index.html",
+  "page_kind": "monograph",
+  "page_source": "docs/monograph.html",
+  "page_sha256": "c5f2beafb7880a8194768d43ea9b78162dddc9ed3be15b3d68ae3a5f04297e67",
+  "question_count": 194,
+  "word_count": 210857,
+  "external_links": 1314,
+  "data_files": 266,
+  "questions": [
+    {
+      "id": "q001",
+      "question": "What is the purpose of education in a world where machines can know, reason, and create?",
+      "chapter": 1
+    },
+    {
+      "id": "q002",
+      "question": "If AI can answer any question, what does it mean to \"learn\" something?",
+      "chapter": 1
+    },
+    {
+      "id": "q003",
+      "question": "Does human knowledge lose or change its value when it is no longer scarce?",
+      "chapter": 1
+    },
+    {
+      "id": "q004",
+      "question": "What is the difference between knowledge, understanding, and wisdom — and which of these can AI possess or transmit?",
+      "chapter": 1
+    },
+    {
+      "id": "q005",
+      "question": "How does the human relationship with truth change when answers are generated rather than discovered?",
+      "chapter": 1
+    },
+    {
+      "id": "q006",
+      "question": "What is irreducibly human in the act of teaching, and what is irreducibly human in the act of learning?",
+      "chapter": 1
+    },
+    {
+      "id": "q007",
+      "question": "Should education aim to make humans complementary to AI, resistant to it, or independent of it?",
+      "chapter": 1
+    },
+    {
+      "id": "q008",
+      "question": "How does AI reshape our concept of intelligence itself — and the way schools measure and reward it?",
+      "chapter": 1
+    },
+    {
+      "id": "q009",
+      "question": "What happens to intellectual struggle, effort, and \"productive failure\" when friction can always be removed?",
+      "chapter": 1
+    },
+    {
+      "id": "q010",
+      "question": "Is there a moral difference between learning with AI, learning from AI, and outsourcing learning to AI?",
+      "chapter": 1
+    },
+    {
+      "id": "q011",
+      "question": "Who is responsible when an AI teaches something false, biased, or harmful to a student?",
+      "chapter": 2
+    },
+    {
+      "id": "q012",
+      "question": "How should student data collected by AI systems be governed, and who owns the learning profile of a child?",
+      "chapter": 2
+    },
+    {
+      "id": "q013",
+      "question": "Does personalized AI tutoring risk creating algorithmic determinism — locking students into predicted trajectories?",
+      "chapter": 2
+    },
+    {
+      "id": "q014",
+      "question": "How do we prevent AI from amplifying existing inequalities of class, language, geography, and disability in education?",
+      "chapter": 2
+    },
+    {
+      "id": "q015",
+      "question": "Is it ethical to expose children to systems whose long-term cognitive and emotional effects are unknown?",
+      "chapter": 2
+    },
+    {
+      "id": "q016",
+      "question": "What consent can a minor meaningfully give to AI-mediated education?",
+      "chapter": 2
+    },
+    {
+      "id": "q017",
+      "question": "How do we preserve academic integrity when the boundary between assistance and authorship dissolves?",
+      "chapter": 2
+    },
+    {
+      "id": "q018",
+      "question": "Should there be a \"right to a human teacher,\" analogous to a right to human medical care?",
+      "chapter": 2
+    },
+    {
+      "id": "q019",
+      "question": "How do we address the cultural and ideological biases embedded in models trained predominantly on certain languages and worldviews?",
+      "chapter": 2
+    },
+    {
+      "id": "q020",
+      "question": "What ethical obligations do AI companies have toward education systems they disrupt but do not serve?",
+      "chapter": 2
+    },
+    {
+      "id": "q021",
+      "question": "What can AI tutors do better than human teachers, and where do they categorically fail?",
+      "chapter": 3
+    },
+    {
+      "id": "q022",
+      "question": "How should the teacher's role be redefined — from transmitter of knowledge to what, exactly?",
+      "chapter": 3
+    },
+    {
+      "id": "q023",
+      "question": "What pedagogical models (Socratic, constructivist, mastery-based) does AI enable at scale for the first time?",
+      "chapter": 3
+    },
+    {
+      "id": "q024",
+      "question": "How can AI support teachers (planning, assessment, feedback) without deskilling or replacing them?",
+      "chapter": 3
+    },
+    {
+      "id": "q025",
+      "question": "What does effective human–AI co-teaching look like in a real classroom?",
+      "chapter": 3
+    },
+    {
+      "id": "q026",
+      "question": "How should teacher training change so educators can critically use, evaluate, and challenge AI tools?",
+      "chapter": 3
+    },
+    {
+      "id": "q027",
+      "question": "Can AI meaningfully teach non-cognitive skills — empathy, collaboration, resilience, character?",
+      "chapter": 3
+    },
+    {
+      "id": "q028",
+      "question": "How do we assess learning authentically when AI can complete any traditional assessment?",
+      "chapter": 3
+    },
+    {
+      "id": "q029",
+      "question": "What is the right age and developmental stage to introduce AI tools into learning?",
+      "chapter": 3
+    },
+    {
+      "id": "q030",
+      "question": "How do we design AI systems that strengthen rather than substitute students' thinking (avoiding cognitive offloading)?",
+      "chapter": 3
+    },
+    {
+      "id": "q031",
+      "question": "How does constant AI availability change motivation, curiosity, and the desire to learn?",
+      "chapter": 4
+    },
+    {
+      "id": "q032",
+      "question": "What are the effects of AI companionship on students' social development and human relationships?",
+      "chapter": 4
+    },
+    {
+      "id": "q033",
+      "question": "How do we cultivate critical thinking in students who grow up trusting AI-generated answers?",
+      "chapter": 4
+    },
+    {
+      "id": "q034",
+      "question": "What new literacies (AI literacy, prompt literacy, epistemic hygiene) become as fundamental as reading and writing?",
+      "chapter": 4
+    },
+    {
+      "id": "q035",
+      "question": "What is the promise and the peril of AI-driven accessibility for learners with disabilities, neurodivergence, or language barriers, from the learner's own perspective?",
+      "chapter": 4
+    },
+    {
+      "id": "q036",
+      "question": "What does self-directed, lifelong learning look like when everyone has a personal AI mentor?",
+      "chapter": 4
+    },
+    {
+      "id": "q037",
+      "question": "How do we protect and develop memory, attention, and deep reading in an AI-saturated environment?",
+      "chapter": 4
+    },
+    {
+      "id": "q038",
+      "question": "Is the industrial-era school model (grades, classrooms, standardized curricula) still viable, and what replaces it?",
+      "chapter": 5
+    },
+    {
+      "id": "q039",
+      "question": "How should curricula be redesigned when factual content is instantly accessible and rapidly obsolete?",
+      "chapter": 5
+    },
+    {
+      "id": "q040",
+      "question": "What is the future of universities, credentials, and degrees when skills can be learned and demonstrated outside institutions?",
+      "chapter": 5
+    },
+    {
+      "id": "q041",
+      "question": "How can public education systems keep pace with private AI development without surrendering governance to tech companies?",
+      "chapter": 5
+    },
+    {
+      "id": "q042",
+      "question": "Who has legitimate authority to govern AI in education — states, markets, professions, or communities — and on what principles?",
+      "chapter": 5
+    },
+    {
+      "id": "q043",
+      "question": "How do developing nations avoid a new \"AI colonialism\" in education while leapfrogging infrastructure gaps?",
+      "chapter": 5
+    },
+    {
+      "id": "q044",
+      "question": "Which human capabilities will the labor market actually reward in 10, 20, and 50 years — and how do we teach for an unpredictable future?",
+      "chapter": 6
+    },
+    {
+      "id": "q045",
+      "question": "How should education respond to the possible decoupling of learning from employment (if AI displaces large categories of work)?",
+      "chapter": 6
+    },
+    {
+      "id": "q046",
+      "question": "What is the role of education in a society where economic productivity no longer requires most human labor — education for meaning rather than for jobs?",
+      "chapter": 6
+    },
+    {
+      "id": "q047",
+      "question": "How do we manage the transition for current workers whose skills are being obsoleted faster than retraining systems can respond?",
+      "chapter": 6
+    },
+    {
+      "id": "q048",
+      "question": "How does AI in education affect democracy — the formation of citizens capable of judgment, deliberation, and resistance to manipulation?",
+      "chapter": 6
+    },
+    {
+      "id": "q049",
+      "question": "What shared human culture and values should education transmit when AI fragments information into personalized realities?",
+      "chapter": 6
+    },
+    {
+      "id": "q050",
+      "question": "Looking back from 2050: what decisions made in this decade about AI and education will we most regret or celebrate — and how do we choose wisely now?",
+      "chapter": 6
+    },
+    {
+      "id": "q051",
+      "question": "What does current peer-reviewed evidence show about the effects of AI tutoring systems on learning outcomes, and how strong is that evidence?",
+      "chapter": 7
+    },
+    {
+      "id": "q052",
+      "question": "What does research reveal about how students actually use generative AI when unsupervised — as distinct from how they report using it?",
+      "chapter": 7
+    },
+    {
+      "id": "q053",
+      "question": "What is currently known from cognitive science about AI's effects on memory formation, retention, and transfer of learning?",
+      "chapter": 7
+    },
+    {
+      "id": "q054",
+      "question": "What does the evidence show about AI's impact on writing skill development, from early literacy through academic and professional writing?",
+      "chapter": 7
+    },
+    {
+      "id": "q055",
+      "question": "What have studies found about AI feedback compared with human feedback — in accuracy, usefulness, and student receptivity?",
+      "chapter": 7
+    },
+    {
+      "id": "q056",
+      "question": "What does research show about the reliability of AI-detection tools, and what have institutions learned from relying on them?",
+      "chapter": 7
+    },
+    {
+      "id": "q057",
+      "question": "What evidence exists on how AI use affects different learner profiles — high vs. low performers, younger vs. older students, novices vs. experts?",
+      "chapter": 7
+    },
+    {
+      "id": "q058",
+      "question": "What do studies reveal about teachers' actual adoption patterns, workload effects, and attitudes toward AI tools?",
+      "chapter": 7
+    },
+    {
+      "id": "q059",
+      "question": "What does current evidence show about AI's effects on student motivation, engagement, and persistence — and how do these findings differ from marketing claims?",
+      "chapter": 7
+    },
+    {
+      "id": "q060",
+      "question": "Which widely repeated claims about AI in education lack solid evidence, and which early findings have failed to replicate?",
+      "chapter": 7
+    },
+    {
+      "id": "q061",
+      "question": "What have large-scale national AI-in-education initiatives (across different countries and income levels) achieved, and what have they abandoned?",
+      "chapter": 8
+    },
+    {
+      "id": "q062",
+      "question": "What lessons emerge from schools and universities that banned AI, then reversed course — or embraced it, then restricted it?",
+      "chapter": 8
+    },
+    {
+      "id": "q063",
+      "question": "What do documented deployments of AI tutors in low-resource and developing-world contexts show about what transfers and what fails?",
+      "chapter": 8
+    },
+    {
+      "id": "q064",
+      "question": "How have universities restructured courses, assessments, and honor codes in response to generative AI, and with what results?",
+      "chapter": 8
+    },
+    {
+      "id": "q065",
+      "question": "What have K–12 schools learned from integrating AI into daily instruction — the successes, failures, and unexpected consequences?",
+      "chapter": 8
+    },
+    {
+      "id": "q066",
+      "question": "What experiences have emerged from AI use in vocational, technical, and professional training (medicine, law, engineering, trades)?",
+      "chapter": 8
+    },
+    {
+      "id": "q067",
+      "question": "What can be learned from teachers who have become exemplary AI practitioners — what do they do differently?",
+      "chapter": 8
+    },
+    {
+      "id": "q068",
+      "question": "What documented harms — from data breaches to well-being incidents to learning setbacks — have occurred in real AI deployments, and what changed as a result?",
+      "chapter": 8
+    },
+    {
+      "id": "q069",
+      "question": "Which national and regional AI-in-education regulations currently exist, and how do their approaches compare?",
+      "chapter": 9
+    },
+    {
+      "id": "q070",
+      "question": "What guidance have major international bodies (UNESCO, OECD, EU, and others) issued on AI in education, and how is it being implemented?",
+      "chapter": 9
+    },
+    {
+      "id": "q071",
+      "question": "What does an effective institutional AI policy contain, and what distinguishes policies that work from those ignored in practice?",
+      "chapter": 9
+    },
+    {
+      "id": "q072",
+      "question": "How are education systems regulating student data privacy in AI tools, and which legal frameworks apply to minors?",
+      "chapter": 9
+    },
+    {
+      "id": "q073",
+      "question": "How should institutions handle procurement of AI tools — evaluation criteria, vendor accountability, contract terms, and exit strategies?",
+      "chapter": 9
+    },
+    {
+      "id": "q074",
+      "question": "How are examination and credentialing bodies redesigning high-stakes assessment for the AI era?",
+      "chapter": 9
+    },
+    {
+      "id": "q075",
+      "question": "What academic-integrity frameworks have institutions adopted to replace binary \"cheating/not cheating\" models, and how are they working?",
+      "chapter": 9
+    },
+    {
+      "id": "q076",
+      "question": "How are teacher unions, professional bodies, and accreditation agencies responding to AI, and what standards are they setting?",
+      "chapter": 9
+    },
+    {
+      "id": "q077",
+      "question": "What funding models and public investments in AI for education exist, and what do early returns suggest about their effectiveness?",
+      "chapter": 9
+    },
+    {
+      "id": "q078",
+      "question": "How should a teacher decide, lesson by lesson, when AI use helps learning and when it undermines it — is there a practical decision framework?",
+      "chapter": 10
+    },
+    {
+      "id": "q079",
+      "question": "What are the current best practices for designing AI-resilient and AI-inclusive assignments and assessments?",
+      "chapter": 10
+    },
+    {
+      "id": "q080",
+      "question": "How can teachers use AI effectively for planning, differentiation, feedback, and administration while safeguarding their professional judgment?",
+      "chapter": 10
+    },
+    {
+      "id": "q081",
+      "question": "How should students use AI as a study partner in ways that demonstrably strengthen rather than weaken their learning?",
+      "chapter": 10
+    },
+    {
+      "id": "q082",
+      "question": "What should students know about the limits, failure modes, and biases of AI systems before trusting their outputs?",
+      "chapter": 10
+    },
+    {
+      "id": "q083",
+      "question": "How should students disclose and document their AI use in academic work, and how can they build integrity habits that also serve them professionally?",
+      "chapter": 10
+    },
+    {
+      "id": "q084",
+      "question": "What practical steps allow school and university leaders to move from prohibition or paralysis to structured adoption — a realistic implementation roadmap?",
+      "chapter": 10
+    },
+    {
+      "id": "q085",
+      "question": "How should institutions structure professional development so teachers gain real AI competence rather than one-off training?",
+      "chapter": 10
+    },
+    {
+      "id": "q086",
+      "question": "How can schools communicate with and involve parents and communities in decisions about AI use?",
+      "chapter": 10
+    },
+    {
+      "id": "q087",
+      "question": "What technical and organizational safeguards (age gates, data controls, human oversight, escalation paths) should any classroom AI deployment include?",
+      "chapter": 10
+    },
+    {
+      "id": "q088",
+      "question": "How can educators and institutions with minimal budgets or infrastructure still give students equitable access to AI-supported learning?",
+      "chapter": 10
+    },
+    {
+      "id": "q089",
+      "question": "How should the effectiveness of an AI intervention in education be measured — what outcomes, over what timescales, against what baselines?",
+      "chapter": 11
+    },
+    {
+      "id": "q090",
+      "question": "What standards of evidence should decision makers demand from edtech vendors before adopting AI products at scale?",
+      "chapter": 11
+    },
+    {
+      "id": "q091",
+      "question": "How can institutions monitor for unintended effects of AI — skill atrophy, dependency, equity gaps — that standard metrics miss?",
+      "chapter": 11
+    },
+    {
+      "id": "q092",
+      "question": "What is known about the longitudinal effects of sustained AI use on learners, and how should long-term studies be designed and tracked?",
+      "chapter": 11
+    },
+    {
+      "id": "q093",
+      "question": "How should learning analytics generated by AI systems be interpreted, validated, and protected from misuse in student evaluation?",
+      "chapter": 11
+    },
+    {
+      "id": "q094",
+      "question": "What benchmarks and audits exist for evaluating the pedagogical quality, safety, and bias of educational AI models themselves?",
+      "chapter": 11
+    },
+    {
+      "id": "q095",
+      "question": "How are multimodal and voice-based AI changing learning beyond text — in languages, arts, sciences, and physical skills?",
+      "chapter": 12
+    },
+    {
+      "id": "q096",
+      "question": "What roles are autonomous AI agents beginning to play in education — as persistent tutors, course designers, or student proxies — and what new questions do they raise?",
+      "chapter": 12
+    },
+    {
+      "id": "q097",
+      "question": "What is known and unknown about AI in early childhood education, where developmental stakes are highest?",
+      "chapter": 12
+    },
+    {
+      "id": "q098",
+      "question": "How is AI reshaping special education and individualized support plans in practice, beyond its general accessibility promise?",
+      "chapter": 12
+    },
+    {
+      "id": "q099",
+      "question": "How is AI transforming informal and out-of-school learning — self-teaching, homeschooling, communities of practice, and family learning?",
+      "chapter": 12
+    },
+    {
+      "id": "q100",
+      "question": "What weak signals today — in research labs, startups, and experimental schools — most plausibly indicate what AI in education will look like in ten years?",
+      "chapter": 12
+    },
+    {
+      "id": "q101",
+      "question": "The EU AI Act mandates that individuals be informed when interacting with an AI system or consuming AI-generated content. Should this same transparency standard apply to a teacher's use of AI in the classroom, even when disclosure might undermine the pedagogical value of the exercise itself?",
+      "chapter": 2
+    },
+    {
+      "id": "q102",
+      "question": "If a machine can produce an original-seeming idea, what remains of the concept of authorship in student work?",
+      "chapter": 1
+    },
+    {
+      "id": "q103",
+      "question": "Does AI change what it means to be educated, as distinct from being skilled or informed?",
+      "chapter": 1
+    },
+    {
+      "id": "q104",
+      "question": "What obligations does a society have toward knowledge that no human any longer holds unaided?",
+      "chapter": 1
+    },
+    {
+      "id": "q105",
+      "question": "Is curiosity a trainable capacity, and what does current evidence say about whether answer-on-demand technology weakens or strengthens it?",
+      "chapter": 1
+    },
+    {
+      "id": "q106",
+      "question": "Can a machine participate in a tradition of inquiry, or only imitate its outputs?",
+      "chapter": 1
+    },
+    {
+      "id": "q107",
+      "question": "Under what conditions, if any, is it ethical to use AI systems with children who cannot understand what the system is?",
+      "chapter": 2
+    },
+    {
+      "id": "q108",
+      "question": "What are the ethical implications of emotional attachment between students and conversational AI systems?",
+      "chapter": 2
+    },
+    {
+      "id": "q109",
+      "question": "Is it defensible for a school to require AI use when families object on religious or philosophical grounds?",
+      "chapter": 2
+    },
+    {
+      "id": "q111",
+      "question": "What duties do educators have toward students who cannot or will not use AI?",
+      "chapter": 2
+    },
+    {
+      "id": "q112",
+      "question": "What does current evidence say about how AI changes lesson-preparation time, and how do teachers use the time it returns?",
+      "chapter": 3
+    },
+    {
+      "id": "q114",
+      "question": "What happens to teacher expertise and professional identity when curriculum materials are machine-generated?",
+      "chapter": 3
+    },
+    {
+      "id": "q116",
+      "question": "What effect does AI support have on novice, substitute, and under-qualified teachers specifically?",
+      "chapter": 3
+    },
+    {
+      "id": "q118",
+      "question": "How does always-available tutoring change help-seeking behaviour and peer learning?",
+      "chapter": 4
+    },
+    {
+      "id": "q120",
+      "question": "What does AI assistance do to students' self-assessment accuracy and metacognition?",
+      "chapter": 4
+    },
+    {
+      "id": "q121",
+      "question": "How is AI reshaping collaboration, peer help, and cheating norms within student cultures?",
+      "chapter": 4
+    },
+    {
+      "id": "q122",
+      "question": "What is the total cost of AI to a school system, including licences, infrastructure, training, and staff time?",
+      "chapter": 5
+    },
+    {
+      "id": "q124",
+      "question": "What happens to a school when its AI vendor raises prices, is acquired, or ceases operation?",
+      "chapter": 5
+    },
+    {
+      "id": "q126",
+      "question": "What organisational conditions distinguish institutions that adopt AI successfully from those that do not?",
+      "chapter": 5
+    },
+    {
+      "id": "q127",
+      "question": "Which educational credentials are losing labour-market signalling value because of AI, and which are gaining it?",
+      "chapter": 6
+    },
+    {
+      "id": "q128",
+      "question": "How is AI changing entry-level work, and what does that mean for the school-to-work transition?",
+      "chapter": 6
+    },
+    {
+      "id": "q129",
+      "question": "What is happening to the economics of private tutoring, test preparation, and supplementary education?",
+      "chapter": 6
+    },
+    {
+      "id": "q130",
+      "question": "How is AI affecting adult retraining and mid-career education systems?",
+      "chapter": 6
+    },
+    {
+      "id": "q131",
+      "question": "Who profits from AI in education, and what business models are emerging around students?",
+      "chapter": 6
+    },
+    {
+      "id": "q134",
+      "question": "What proportion of published AI-in-education evidence is produced or funded by vendors?",
+      "chapter": 7
+    },
+    {
+      "id": "q136",
+      "question": "What are the recurring methodological weaknesses in this literature, and how should a reader discount for them?",
+      "chapter": 7
+    },
+    {
+      "id": "q139",
+      "question": "How is AI being used in low-resource and low-connectivity school settings?",
+      "chapter": 8
+    },
+    {
+      "id": "q144",
+      "question": "What liability rules apply when an AI system harms a pupil's academic record or wellbeing?",
+      "chapter": 9
+    },
+    {
+      "id": "q145",
+      "question": "How are age limits and child-safety requirements for AI products enforced, if at all?",
+      "chapter": 9
+    },
+    {
+      "id": "q147",
+      "question": "What should a teacher do on first encountering AI-written student work?",
+      "chapter": 10
+    },
+    {
+      "id": "q150",
+      "question": "What guidance exists for parents deciding which AI use is appropriate at home, by age?",
+      "chapter": 10
+    },
+    {
+      "id": "q151",
+      "question": "What should a school leader ask an AI vendor before signing a contract?",
+      "chapter": 10
+    },
+    {
+      "id": "q154",
+      "question": "How can learning gains from AI be measured without relying on the tool that produced them?",
+      "chapter": 11
+    },
+    {
+      "id": "q155",
+      "question": "What does it mean, methodologically, to assess a human-AI pair rather than an individual?",
+      "chapter": 11
+    },
+    {
+      "id": "q159",
+      "question": "What is the realistic near-term prospect for AI in embodied, laboratory, and practical subjects?",
+      "chapter": 12
+    },
+    {
+      "id": "q160",
+      "question": "What would it mean for education if AI capability plateaus rather than continues to accelerate?",
+      "chapter": 12
+    },
+    {
+      "id": "q161",
+      "question": "What emerging risks — model collapse, synthetic-content saturation, data exhaustion — bear directly on education?",
+      "chapter": 12
+    },
+    {
+      "id": "q162",
+      "question": "How can schools establish the provenance of the teaching materials they use, now that AI-generated content is indistinguishable in form from authored content?",
+      "chapter": 13
+    },
+    {
+      "id": "q163",
+      "question": "To what extent are textbooks, worksheets, and reference works used in schools now AI-generated, and is this disclosed?",
+      "chapter": 13
+    },
+    {
+      "id": "q164",
+      "question": "What documented cases exist of AI-generated misinformation entering curricula or classroom materials?",
+      "chapter": 13
+    },
+    {
+      "id": "q165",
+      "question": "How are school librarians and media specialists adapting their role to synthetic information environments?",
+      "chapter": 13
+    },
+    {
+      "id": "q166",
+      "question": "What verification and source-evaluation skills should now be taught explicitly, and at what ages?",
+      "chapter": 13
+    },
+    {
+      "id": "q167",
+      "question": "What happens to citation practice in schools when the cited source may itself be machine-written?",
+      "chapter": 13
+    },
+    {
+      "id": "q168",
+      "question": "What technical provenance standards — watermarking, content credentials, signed provenance — exist, and do they work in educational settings?",
+      "chapter": 13
+    },
+    {
+      "id": "q169",
+      "question": "How should a school decide whether a claim delivered by an AI system is reliable enough to teach?",
+      "chapter": 13
+    },
+    {
+      "id": "q170",
+      "question": "Which languages do current AI systems serve well in educational use, and which do they serve poorly?",
+      "chapter": 14
+    },
+    {
+      "id": "q171",
+      "question": "How is AI being used in multilingual and newcomer classrooms, and with what measured results?",
+      "chapter": 14
+    },
+    {
+      "id": "q174",
+      "question": "How is AI being applied in indigenous and minority-language education, and who controls those projects?",
+      "chapter": 14
+    },
+    {
+      "id": "q175",
+      "question": "Is there evidence that AI use accelerates linguistic homogenisation in student writing and speech?",
+      "chapter": 14
+    },
+    {
+      "id": "q176",
+      "question": "What does AI translation change about the case for learning a foreign language at school?",
+      "chapter": 14
+    },
+    {
+      "id": "q178",
+      "question": "What does developmental research say about age-appropriate exposure to conversational AI?",
+      "chapter": 15
+    },
+    {
+      "id": "q180",
+      "question": "How is AI being used in school counselling and crisis detection, and how accurate are those systems?",
+      "chapter": 15
+    },
+    {
+      "id": "q181",
+      "question": "What effect does AI-mediated study have on attention, sustained reading, and cognitive endurance?",
+      "chapter": 15
+    },
+    {
+      "id": "q182",
+      "question": "What safeguarding duties arise when a student discloses harm to an AI system rather than to an adult?",
+      "chapter": 15
+    },
+    {
+      "id": "q183",
+      "question": "Is there evidence that AI use affects student anxiety, academic pressure, or perfectionism?",
+      "chapter": 15
+    },
+    {
+      "id": "q184",
+      "question": "What does cognitive-offloading research suggest about which capacities atrophy with routine AI use?",
+      "chapter": 15
+    },
+    {
+      "id": "q185",
+      "question": "What design features make an educational AI system engaging rather than compulsive, and are any enforced?",
+      "chapter": 15
+    },
+    {
+      "id": "q186",
+      "question": "What are the current gaps in device, connectivity, and AI-tool access between and within school systems?",
+      "chapter": 16
+    },
+    {
+      "id": "q187",
+      "question": "How large is the quality gap between free and paid AI tiers, and how does it map onto student wealth?",
+      "chapter": 16
+    },
+    {
+      "id": "q188",
+      "question": "Does measured evidence show AI narrowing or widening achievement gaps?",
+      "chapter": 16
+    },
+    {
+      "id": "q190",
+      "question": "How are rural and remote schools faring with AI relative to urban ones?",
+      "chapter": 16
+    },
+    {
+      "id": "q191",
+      "question": "Are there gendered differences in student AI adoption, confidence, and outcomes?",
+      "chapter": 16
+    },
+    {
+      "id": "q192",
+      "question": "How does AI-assisted homework interact with differences in home support and parental capacity?",
+      "chapter": 16
+    },
+    {
+      "id": "q193",
+      "question": "What interventions have demonstrably reduced AI-related inequity in schools?",
+      "chapter": 16
+    },
+    {
+      "id": "q194",
+      "question": "What is the estimated energy and water footprint of typical AI use in a school, per student per year?",
+      "chapter": 17
+    },
+    {
+      "id": "q195",
+      "question": "How do AI's environmental costs in education compare with those of the technologies it displaces?",
+      "chapter": 17
+    },
+    {
+      "id": "q196",
+      "question": "Do education AI vendors disclose environmental data, and is any of it independently verified?",
+      "chapter": 17
+    },
+    {
+      "id": "q197",
+      "question": "Should schools account for AI emissions in their sustainability reporting, and do any currently do so?",
+      "chapter": 17
+    },
+    {
+      "id": "q198",
+      "question": "What device-lifecycle and e-waste consequences follow from AI-driven hardware requirements in schools?",
+      "chapter": 17
+    },
+    {
+      "id": "q199",
+      "question": "How should the contradiction between teaching sustainability and operating energy-intensive AI be handled?",
+      "chapter": 17
+    },
+    {
+      "id": "q200",
+      "question": "What practical measures reduce the environmental cost of AI use in education without abandoning it?",
+      "chapter": 17
+    },
+    {
+      "id": "q201",
+      "question": "Are data-centre siting decisions affecting the communities whose schools use these systems?",
+      "chapter": 17
+    },
+    {
+      "id": "q202",
+      "question": "What is happening to the undergraduate essay as an assessment instrument?",
+      "chapter": 18
+    },
+    {
+      "id": "q203",
+      "question": "How is AI changing doctoral supervision and research training?",
+      "chapter": 18
+    },
+    {
+      "id": "q204",
+      "question": "What is AI doing to peer review and scholarly publishing, and how are journals responding?",
+      "chapter": 18
+    },
+    {
+      "id": "q205",
+      "question": "What research-integrity failures attributable to AI have been documented, and at what rate?",
+      "chapter": 18
+    },
+    {
+      "id": "q206",
+      "question": "How are admissions systems responding to AI-written applications and personal statements?",
+      "chapter": 18
+    },
+    {
+      "id": "q207",
+      "question": "What are the economic consequences of AI for universities' teaching-revenue models?",
+      "chapter": 18
+    },
+    {
+      "id": "q208",
+      "question": "How is AI changing the value and delivery of graduate professional programmes?",
+      "chapter": 18
+    },
+    {
+      "id": "q209",
+      "question": "What is AI doing to the academic labour market, including adjunct and teaching-assistant work?",
+      "chapter": 18
+    },
+    {
+      "id": "q210",
+      "question": "What must initial teacher education now include about AI, and what do programmes actually teach?",
+      "chapter": 19
+    },
+    {
+      "id": "q211",
+      "question": "How is AI being used in teacher recruitment, evaluation, and classroom surveillance?",
+      "chapter": 19
+    },
+    {
+      "id": "q212",
+      "question": "What measured effect does AI have on teacher workload and burnout?",
+      "chapter": 19
+    },
+    {
+      "id": "q214",
+      "question": "How does mandated AI use affect teachers' professional autonomy and judgment?",
+      "chapter": 19
+    },
+    {
+      "id": "q215",
+      "question": "Is AI affecting teacher recruitment and retention, and in which direction?",
+      "chapter": 19
+    },
+    {
+      "id": "q216",
+      "question": "What new professional roles are emerging in schools because of AI?",
+      "chapter": 19
+    },
+    {
+      "id": "q217",
+      "question": "What would a professional standard or code of practice for teachers' AI use contain?",
+      "chapter": 19
+    },
+    {
+      "id": "q218",
+      "question": "How vulnerable are school AI systems to prompt injection and manipulation by students or outsiders?",
+      "chapter": 20
+    },
+    {
+      "id": "q220",
+      "question": "How widespread is AI-enabled bullying, including deepfakes of students and staff, and what works against it?",
+      "chapter": 20
+    },
+    {
+      "id": "q221",
+      "question": "What threatens the integrity of academic records when AI systems write to them?",
+      "chapter": 20
+    },
+    {
+      "id": "q222",
+      "question": "What should a school's AI incident-response procedure contain?",
+      "chapter": 20
+    },
+    {
+      "id": "q223",
+      "question": "What belongs on a school's AI risk register, and who owns each item?",
+      "chapter": 20
+    },
+    {
+      "id": "q224",
+      "question": "What are the risks of shadow AI use — unapproved tools used by staff and students — and how is it detected?",
+      "chapter": 20
+    },
+    {
+      "id": "q225",
+      "question": "What dependency risk does a school accept when core teaching functions rely on a single AI provider?",
+      "chapter": 20
+    }
+  ]
+}
