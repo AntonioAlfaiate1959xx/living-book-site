@@ -39,6 +39,22 @@ The deployment script will:
 3. Restart the `living-book-admin` systemd service
 4. Verify the deployment
 
+### Syncing book data to the latest edition
+
+`deploy-back-office.sh` is **code-only** by default: it never overwrites the book data
+(ledger, claims, editions, answers, …). Editions published on GitHub by other pipelines
+therefore do not reach the server until the data is synced. To sync:
+
+- **From the Dashboard**: "Sync to latest edition" → *Check GitHub* → *Sync to Edition N*.
+- **From a shell**: `bash scripts/deploy-back-office.sh --with-data` (code + data), or
+  `node scripts/sync-live-data.js --check` / `--apply`.
+
+The sync always takes a tar.gz snapshot of the data first (`~/living-book-backups/`),
+refuses (exit 3) if the server's ledger has editions that are not on `origin/main`
+(override with `--force` / `--force-data`, which exports them to JSON first), keeps
+server-only files, and commits locally (never pushes). Roll back with
+`git revert <sync commit>` or by extracting the snapshot, then restart the service.
+
 ### Option 2: Manual Deployment
 
 If SSH fails or you prefer manual control:
