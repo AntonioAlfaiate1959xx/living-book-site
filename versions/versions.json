@@ -1,11 +1,31 @@
 {
-  "generated_at": "2026-11-01T04:20:38.359Z",
+  "generated_at": "2026-11-26T21:49:21.939Z",
   "current": {
-    "edition": 122,
-    "edition_date": "2026-11-01",
+    "edition": 123,
+    "edition_date": "2026-11-26",
     "question_count": 321
   },
   "versions": [
+    {
+      "version": "2026-11",
+      "label": "November 2026",
+      "edition": 122,
+      "edition_date": "2026-11-01",
+      "archived_at": "2026-11-26T20:52:48Z",
+      "source": "live",
+      "source_commit": "cd693f0772f3a1a818eae00e1e395e18425be29d",
+      "source_commit_date": null,
+      "page": "index.html",
+      "page_kind": "monograph",
+      "page_source": "docs/monograph.html",
+      "page_sha256": "c3c946ea03f5500799fec27aa48c12dd67eab094bb784847578aac7033111c15",
+      "question_count": 321,
+      "word_count": 787757,
+      "external_links": 3089,
+      "data_files": 324,
+      "questions_added": [],
+      "questions_removed": []
+    },
     {
       "version": "2026-10-e121",
       "label": "October 2026 · Edition 121",
