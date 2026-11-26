@@ -1,6 +1,6 @@
 ---
 lang: en
-living-book-data-fingerprint: "sha256:c2187000d190b860052f0ceae1d47eb41d43985e06b434719f46f9e9d6aa11a7"
+living-book-data-fingerprint: "sha256:f09bafbac2f9be8c7e0c6ab15957e00b182cfc7bab90be7359cfa1daa8d90c19"
 title: "AI in Education: A Living Book — Edition 123"
 viewport: width=device-width, initial-scale=1
 ---
@@ -9,7 +9,7 @@ viewport: width=device-width, initial-scale=1
 
 # Living Book — Monograph
 
-Generated 2026-11-26T22:36:05.716Z · Latest edition 123 (2026-11-26T21:48:04Z) · Total editions 123 · Questions in monograph 321
+Generated 2026-11-26T22:44:53.097Z · Latest edition 123 (2026-11-26T21:48:04Z) · Total editions 123 · Questions in monograph 321
 
 Edition 123 · 28 chapters · 321 questions · 2,174 print pages (full-text PDF)
 
@@ -5780,7 +5780,7 @@ The pre-generative literature on intelligent tutoring gives the clearest picture
 
 Shorter-term experimental studies of generative AI offer more insight into mechanisms, but their findings do not fully agree.
 
-Deng and colleagues (2024), in a meta-analysis in Computers & Education, pooled 69 experimental and quasi-experimental studies of ChatGPT. They found positive average effects on academic performance and higher-order thinking, but no significant effect on self-efficacy. They also noted that most studies lasted only weeks, rarely reported power analyses, and were vulnerable to novelty effects.
+Deng and colleagues (2025), in a meta-analysis in Computers & Education, pooled 69 experimental and quasi-experimental studies of ChatGPT. They found positive average effects on academic performance and higher-order thinking, but no significant effect on self-efficacy. They also noted that most studies lasted only weeks, rarely reported power analyses, and were vulnerable to novelty effects.
 
 Bastani and colleagues, in a randomised trial published in PNAS and conducted in high-school mathematics, found that unrestricted access to GPT-4 improved practice performance. The same unrestricted access was associated with lower performance on a later unassisted exam. A tutor-style version with guardrails largely mitigated this harm. The trial took place in secondary schools, but universities cite it often because it suggests that performance with AI and learning without it can diverge. Its guardrail finding is also consistent with VanLehn's emphasis on stepwise interaction.
 
