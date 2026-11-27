@@ -9,9 +9,9 @@ viewport: width=device-width, initial-scale=1
 
 # Living Book — Monograph
 
-Generated 2026-11-27T06:24:34.024Z · Latest edition 123 (2026-11-26T21:48:04Z) · Total editions 123 · Questions in monograph 321
+Generated 2026-11-27T06:53:26.117Z · Latest edition 123 (2026-11-26T21:48:04Z) · Total editions 123 · Questions in monograph 321
 
-Edition 123 · 28 chapters · 321 questions · 2,263 print pages (full-text PDF)
+Edition 123 · 28 chapters · 321 questions · 2,655 print pages (full-text PDF)
 
 28 chapters · 321 questions · 4853 citations · 3256 unique sources · 1544 cross-references
 
@@ -29,7 +29,7 @@ Conventional scholarly publishing faces a structural dilemma in rapidly advancin
 
 #### II. Scale and Epistemic Foundation: A Scientific Approach to Knowledge
 
-Spanning 28 thematic chapters, 321 active research investigations, 4,853 inline citations, 3,256 unique verified sources, and 1,544 cross-references across 2,263 pages in Edition 123, this work stands among the largest and most comprehensive scholarly syntheses ever assembled on artificial intelligence in human learning.
+Spanning 28 thematic chapters, 321 active research investigations, 4,853 inline citations, 3,256 unique verified sources, and 1,544 cross-references across 2,655 pages in Edition 123, this work stands among the largest and most comprehensive scholarly syntheses ever assembled on artificial intelligence in human learning.
 
 Volume alone, however, is secondary to epistemic care. Every answer in this book is constructed through a strictly scientific approach to evidence curation and synthesis, drawing selectively from the highest tiers of global knowledge production across nine languages:
 
