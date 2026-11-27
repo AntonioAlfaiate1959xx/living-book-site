@@ -1,6 +1,6 @@
 ---
 lang: en
-living-book-data-fingerprint: "sha256:f09bafbac2f9be8c7e0c6ab15957e00b182cfc7bab90be7359cfa1daa8d90c19"
+living-book-data-fingerprint: "sha256:9bed30a68b540dc51eb239d93dfc3784e61b6e2bb6862646fceb0caf3e251839"
 title: "AI in Education: A Living Book — Edition 123"
 viewport: width=device-width, initial-scale=1
 ---
@@ -9,7 +9,7 @@ viewport: width=device-width, initial-scale=1
 
 # Living Book — Monograph
 
-Generated 2026-11-26T22:44:53.097Z · Latest edition 123 (2026-11-26T21:48:04Z) · Total editions 123 · Questions in monograph 321
+Generated 2026-11-27T03:43:40.431Z · Latest edition 123 (2026-11-26T21:48:04Z) · Total editions 123 · Questions in monograph 321
 
 Edition 123 · 28 chapters · 321 questions · 2,174 print pages (full-text PDF)
 
@@ -2175,6 +2175,8 @@ Sources: [\[SRC-065\]](#src-065) [\[SRC-631\]](#src-631) [\[SRC-711\]](#src-711)
 **What changed in this edition:** This answer is unchanged in Edition 123. Its most recent revision, in Edition 117: Expanded and restructured the answer, distinguished vendor accounts from research, and added peer-reviewed evidence on novice–mentor learning communities, pre-service perceptions, STEM teachers' split views, training effects, and school support. [(927 → 2,061 words · 8 new sources)]{.small}
 
 ### [Q227](#q227 "Link to this question") How is generative AI changing pedagogy, authorship, and assessment in creative arts education? {#q227}
+
+**Scope:** How generative AI changes teaching and assessment in creative arts courses: delegated production, studio pedagogy, process evidence and grading. What authorship, originality and artistic intent mean in student work is treated in [Q280](#q280).
 
 21 citations · 21 sources · 5 cross-references
 
@@ -13968,6 +13970,8 @@ Sources: [\[SRC-1189\]](#src-1189) [\[SRC-1116\]](#src-1116) [\[SRC-1360\]](#src
 
 ### [Q280](#q280 "Link to this question") How does generative AI challenge traditional definitions of authorship, originality, and "artistic intent" in student creative work? {#q280}
 
+**Scope:** What authorship, originality and artistic intent mean when generative AI separates conceiving, executing and owning a creative work. Classroom pedagogy and assessment design in arts courses are treated in [Q227](#q227).
+
 16 citations · 16 sources · 4 cross-references
 
 #### Claim 1 disputed
@@ -20394,7 +20398,7 @@ Deduplicated from all claim sources across included questions (3100 unique sourc
 1188. []{#src-1319}\[SRC-1319\] [U.S. Education in 2026: The Big Changes Every Educator Should Prepare For - Acacia](https://acacia.edu/blog/u-s-education-in-2026-the-big-changes-every-educator-should-prepare-for/) (academic, credibility: high, retrieved: 2026-07-03)
 1189. []{#src-1320}\[SRC-1320\] [U.S. News & World Report. AI in Education: Stocks with Growth Potential](https://money.usnews.com/investing/articles/ai-in-education-stocks-with-growth-potential) (news, credibility: medium, retrieved: 2026-09-28)
 1190. []{#src-1321}\[SRC-1321\] [UK Government, "Keeping children safe online: changes to the Online Safety Act explained" (age assurance duties, July 2025)](https://www.gov.uk/government/news/keeping-children-safe-online-changes-to-the-online-safety-act-explained) (official, credibility: high, retrieved: 2026-09-28)
-1191. []{#src-1322}\[SRC-1322\] [UK Information Commissioner's Office, "Age Appropriate Design Code" (Children's Code)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/) (official, credibility: high, retrieved: 2026-09-28)
+1191. []{#src-1322}\[SRC-1322\] [Age appropriate design: a code of practice for online services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/) (official, credibility: high, retrieved: 2026-09-28)
 1192. []{#src-1323}\[SRC-1323\] [UN Convention on the Rights of Persons with Disabilities: AI and Inclusive Education](https://www.ohchr.org/en/treaty-bodies/crpd) (official, credibility: high, retrieved: 2026-10-01)
 1193. []{#src-1324}\[SRC-1324\] [Understanding the Differences Among, Intelligence, Knowledge, and Wisdom](https://www.acao.org/index.php?option=com_dailyplanetblog&view=entry&year=2025&month=03&day=21&id=54%3Aunderstanding-the-differences-among-intelligence-knowledge-and-wisdom&Itemid=236) (practitioner, credibility: medium, retrieved: 2026-07-03)
 1194. []{#src-1325}\[SRC-1325\] [Understanding the Evidence Base on AI in K-12 Education \| SCALE Initiative](https://scale.stanford.edu/research-in-action/understanding-evidence-base-ai-k12-education) (academic, credibility: high, retrieved: 2026-07-03)
@@ -20503,7 +20507,7 @@ Deduplicated from all claim sources across included questions (3100 unique sourc
 1297. []{#src-1433}\[SRC-1433\] [Up in the Air: Educators Juggling the Potential of Generative AI with Detection, Discipline, and Distrust](https://cdt.org/insights/report-up-in-the-air-educators-juggling-the-potential-of-generative-ai-with-detection-discipline-and-distrust/) (practitioner, credibility: high, retrieved: 2026-10-04)
 1298. []{#src-1434}\[SRC-1434\] [Understanding Authority in Classrooms: A Review of Theory, Ideology, and Research](https://doi.org/10.3102/003465430298489) (academic, credibility: high, retrieved: 2026-10-04)
 1299. []{#src-1435}\[SRC-1435\] [A Multidisciplinary Analysis of the Nature, Meaning, and Measurement of Trust](https://doi.org/10.3102/00346543070004547) (academic, credibility: high, retrieved: 2026-10-04)
-1300. []{#src-1436}\[SRC-1436\] [The Influence of Affective Teacher-Student Relationships on Students' School Engagement and Achievement: A Meta-Analytic Approach](https://doi.org/10.3102/0034654311421793) (academic, credibility: high, retrieved: 2026-10-04)
+1300. []{#src-1436}\[SRC-1436\] [The Influence of Affective Teacher–Student Relationships on Students’ School Engagement and Achievement: A Meta-Analytic Approach](https://doi.org/10.3102/0034654311421793) (academic, credibility: high, retrieved: 2026-10-04)
 1301. []{#src-1437}\[SRC-1437\] [Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err](https://doi.org/10.1037/xge0000033) (academic, credibility: high, retrieved: 2026-10-04)
 1302. []{#src-1438}\[SRC-1438\] [Algorithm Appreciation: People Prefer Algorithmic to Human Judgment](https://doi.org/10.1016/j.obhdp.2018.12.005) (academic, credibility: high, retrieved: 2026-10-04)
 1303. []{#src-1439}\[SRC-1439\] [Survey of Hallucination in Natural Language Generation](https://doi.org/10.1145/3571730) (academic, credibility: high, retrieved: 2026-10-04)
@@ -20648,7 +20652,7 @@ Deduplicated from all claim sources across included questions (3100 unique sourc
 1442. []{#src-1579}\[SRC-1579\] [Self-Efficacy: Toward a Unifying Theory of Behavioral Change](https://psycnet.apa.org/doi/10.1037/0033-295X.84.2.191) (academic, credibility: high, retrieved: 2026-10-04)
 1443. []{#src-1580}\[SRC-1580\] [Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://psycnet.apa.org/doi/10.1037/0003-066X.55.1.68) (academic, credibility: high, retrieved: 2026-10-04)
 1444. []{#src-1581}\[SRC-1581\] [Talk, Trust, and Trade-Offs: How and Why Teens Use AI Companions](https://www.commonsensemedia.org/research/talk-trust-and-trade-offs-how-and-why-teens-use-ai-companions) (practitioner, credibility: medium, retrieved: 2026-10-04)
-1445. []{#src-1582}\[SRC-1582\] [Children's trust in and learning from voice assistants](https://doi.org/10.1037/dev0001318) (academic, credibility: high, retrieved: 2026-10-04)
+1445. []{#src-1582}\[SRC-1582\] [Children’s trust in and learning from voice assistants](https://doi.org/10.1037/dev0001318) (academic, credibility: high, retrieved: 2026-10-04)
 1446. []{#src-1583}\[SRC-1583\] ["Robovie, you'll have to go into the closet now": Children's social and moral relationships with a humanoid robot](https://doi.org/10.1037/a0027033) (academic, credibility: high, retrieved: 2026-10-04)
 1447. []{#src-1584}\[SRC-1584\] ['No, Alexa, no!': designing child-safe AI and protecting children from the risks of the 'empathy gap' in large language models](https://doi.org/10.1080/17439884.2024.2367052) (academic, credibility: high, retrieved: 2026-10-04)
 1448. []{#src-1585}\[SRC-1585\] [Praise for intelligence can undermine children's motivation and performance](https://doi.org/10.1037/0022-3514.75.1.33) (academic, credibility: high, retrieved: 2026-10-04)
